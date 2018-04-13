@@ -1,0 +1,14 @@
+{
+  "deckname": "Arena 21-02 01:14",
+  "deckguid": "cceb80ef-d7af-4144-b6b3-9cb023a9b51a",
+  "detectedheroes": [],
+  "pickedhero": "Mage",
+  "detectedcards": [
+    {
+      "Item1": "CFM_095",
+      "Item2": "AT_004",
+      "Item3": "GVG_122"
+    }
+  ],
+  "pickedcards": []
+}

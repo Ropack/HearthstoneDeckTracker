@@ -1,0 +1,24 @@
+{
+  "deckname": "Arena 21-02 01:10",
+  "deckguid": "f8e1b04e-c0f1-419a-85b7-00a0206de3a1",
+  "detectedheroes": [],
+  "pickedhero": "Mage",
+  "detectedcards": [
+    {
+      "Item1": "EX1_608",
+      "Item2": "BRM_025",
+      "Item3": "CFM_619"
+    },
+    {
+      "Item1": "AT_097",
+      "Item2": "OG_158",
+      "Item3": "CS2_186"
+    },
+    {
+      "Item1": "LOEA10_3",
+      "Item2": "EX1_015",
+      "Item3": "LOE_046"
+    }
+  ],
+  "pickedcards": []
+}

@@ -1,0 +1,19 @@
+{
+  "deckname": "Arena 09-05 10:05",
+  "deckguid": "fc19e02d-27a4-4fbb-85a2-a5a5635369e3",
+  "detectedheroes": [
+    "Shaman",
+    "Hunter",
+    "Mage"
+  ],
+  "pickedhero": "Hunter",
+  "detectedcards": [
+    {
+      "Item1": "UNG_083",
+      "Item2": "UNG_844",
+      "Item3": "EX1_597"
+    }
+  ],
+  "cardrating": [],
+  "pickedcards": []
+}

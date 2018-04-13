@@ -1,0 +1,19 @@
+{
+  "deckname": "Arena 17-06 10:15",
+  "deckguid": "7bce7b0c-1431-4894-a7f8-0a27b174521f",
+  "detectedheroes": [
+    "Priest",
+    "Warlock",
+    "Hunter"
+  ],
+  "pickedhero": "Priest",
+  "detectedcards": [
+    {
+      "Item1": "CFM_605",
+      "Item2": "CFM_668",
+      "Item3": "OG_161"
+    }
+  ],
+  "cardrating": [],
+  "pickedcards": []
+}

@@ -1,0 +1,244 @@
+6:06:37 PM|Info|Core.Initialize >> HDT: 1.5.13.3540, Operating System: Windows 10 Pro 16299, .NET Framework: 461308
+6:06:37 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+6:06:37 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+6:06:37 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+6:06:39 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+6:06:40 PM|Info|Updater.SquirrelUpdate >> No new updated available
+6:06:40 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+6:06:41 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+6:06:41 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+6:06:41 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+6:06:41 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+6:06:41 PM|Info|GameV2.Reset >> -------- Reset ---------
+6:06:43 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+6:06:44 PM|Info|MainWindow.SelectDeck >> Switched to deck: Cancer (v2.0)
+6:06:44 PM|Info|GameV2.Reset >> -------- Reset ---------
+6:06:46 PM|Info|BackupManager.Run >> Running BackupManager
+6:06:46 PM|Info|BackupManager.Run >> Deleting old backup: Backup_02032018.zip
+6:06:46 PM|Info|BackupManager.Run >> Creating backup for today
+6:06:47 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+6:06:47 PM|Info|PluginWrapper.Load >> Loading Arena Helper
+6:06:47 PM|Info|PluginWrapper.IsEnabled >> Enabled Arena Helper
+6:06:47 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'E:\Hearthstone\Logs'
+6:06:47 PM|Info|ApiWrapper.UpdateAccountStatus >> Checking account status...
+6:06:47 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=2946, ServerTS=3/19/2018 7:25:39 PM, Downloaded=3/19/2018 9:37:50 PM Age=20:28:56.5903496
+6:06:47 PM|Info|HsReplayDecks.Load >> Complete: Count=2946, ServerTS=3/19/2018 7:25:39 PM, Downloaded=3/19/2018 9:37:50 PM Age=20:28:56.5903496
+6:06:47 PM|Info|Plugin.CheckPluginUpdate >> https://github.com/rembound/Arena-Helper/releases/download/0.8.8/ArenaHelper.v0.8.8.zip
+6:06:48 PM|Info|ApiWrapper.UpdateAccountStatus >> Id=0, Username=, Status=Anonymous
+18:07:33|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+6:07:34 PM|Info|GameV2.CurrentMode >> LOGIN
+6:07:37 PM|Info|OverlayWindow.SetTopmost >> Could not set overlay as topmost
+18:07:42|Info|LogWatcherManager.OnLogFileFound >> Rachelle
+6:07:42 PM|Info|Helper.GetCurrentRegion >> Region: EU
+6:07:42 PM|Info|BackupManager.Run >> Running BackupManager
+6:07:42 PM|Info|BackupManager.Run >> Backup for today already exists
+18:07:50|Info|LogWatcherManager.OnLogFileFound >> FullScreenFX
+6:08:12 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+6:08:17 PM|... 1 duplicate messages
+6:08:17 PM|Info|GameV2.CurrentMode >> HUB
+6:08:17 PM|Info|LoadingScreenHandler.CheckMirrorStatus >> Mirror status: Ok
+6:08:46 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+6:08:46 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+6:08:47 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 0 new
+6:08:48 PM|Info|FullScreenFxHandler.Handle >> Now in queue (3/20/2018 6:08:48 PM)
+6:08:48 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 0 new
+6:08:48 PM|Info|FullScreenFxHandler.AutoSelectDeckById >> Found selected deck: Cancer
+6:08:48 PM|Info|FullScreenFxHandler.AutoSelectDeckById >> Already using the correct deck
+6:09:14 PM|Info|GameEventHandler.HandleGameStart >> --- Game start ---
+6:09:14 PM|Info|GameV2.Reset >> -------- Reset ---------
+6:09:14 PM|Info|TurnTimer.Start >> Starting turn timer
+6:09:14 PM|Warning|TurnTimer.Start >> Waiting for player entity
+18:09:17|Info|LogWatcherManager.OnLogFileFound >> Power
+6:09:17 PM|Info|GameV2.CacheMatchInfo >> Ropack#2387 vs Felagund#2118
+6:09:19 PM|Info|GameV2.CurrentMode >> GAMEPLAY
+6:09:19 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=64
+6:09:19 PM|Info|GameEventHandler.SetPlayerHero >> Player=Shaman
+6:09:19 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=66
+6:09:19 PM|Info|GameEventHandler.SetOpponentHero >> Opponent=Shaman
+6:09:19 PM|Info|Player.Draw >> [Player] id=19, cardId=EX1_246, cardName=Hex, zonePos=1,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+6:09:19 PM|Info|Player.Draw >> [Player] id=18, cardId=CFM_717, cardName=Jade Claws, zonePos=2,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+6:09:19 PM|Info|Player.Draw >> [Player] id=13, cardId=CFM_717, cardName=Jade Claws, zonePos=3,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+6:09:19 PM|Info|Player.Draw >> [Opponent] id=60, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+6:09:19 PM|Info|Player.Draw >> [Opponent] id=48, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+6:09:19 PM|Info|Player.Draw >> [Opponent] id=42, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+6:09:19 PM|Info|Player.Draw >> [Opponent] id=37, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+6:09:19 PM|Info|Player.CreateInHand >> [Opponent] id=68, cardId=GAME_005, cardName=The Coin, zonePos=5,Info={turn=0, mark=Coin, created=true, originalZone=HAND, hasOutstandingTagChanges=true}
+6:09:35 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+6:09:38 PM|Info|Player.Draw >> [Opponent] id=47, cardId=, cardName=, zonePos=0,Info={turn=0, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=2}
+6:09:38 PM|Info|Player.Mulligan >> [Opponent] id=60, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+6:09:38 PM|Info|Player.Draw >> [Opponent] id=52, cardId=, cardName=, zonePos=0,Info={turn=0, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=2}
+6:09:38 PM|Info|Player.Mulligan >> [Opponent] id=48, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+6:09:39 PM|Info|Player.Draw >> [Player] id=12, cardId=KAR_073, cardName=Maelstrom Portal, zonePos=1,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+6:09:39 PM|Info|Player.Mulligan >> [Player] id=19, cardId=EX1_246, cardName=Hex, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1}
+6:09:39 PM|Info|Player.Draw >> [Player] id=30, cardId=AT_052, cardName=Totem Golem, zonePos=2,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+6:09:39 PM|Info|Player.Mulligan >> [Player] id=18, cardId=CFM_717, cardName=Jade Claws, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1}
+6:09:45 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 1 ---
+6:09:45 PM|Info|Player.Draw >> [Player] id=18, cardId=CFM_717, cardName=Jade Claws, zonePos=4,Info={turn=1, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+6:09:49 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 1 ---
+6:09:49 PM|Info|Player.Draw >> [Opponent] id=44, cardId=, cardName=, zonePos=0,Info={turn=1, originalZone=DECK, hidden=true, OriginalController=2}
+6:09:54 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 2 ---
+6:09:54 PM|Info|Player.Draw >> [Player] id=9, cardId=CFM_902, cardName=Aya Blackpaw, zonePos=5,Info={turn=2, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+6:10:08 PM|Info|Player.Play >> [Player] id=30, cardId=AT_052, cardName=Totem Golem, zonePos=0,Info={turn=2, originalZone=DECK, OriginalController=1}
+6:10:08 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 2 ---
+6:10:08 PM|Info|Player.Draw >> [Opponent] id=62, cardId=, cardName=, zonePos=0,Info={turn=2, originalZone=DECK, hidden=true, OriginalController=2}
+6:10:28 PM|Info|Player.Play >> [Opponent] id=62, cardId=LOE_018, cardName=Tunnel Trogg, zonePos=1,Info={turn=2, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+6:10:31 PM|Info|Player.Play >> [Opponent] id=68, cardId=GAME_005, cardName=The Coin, zonePos=0,Info={turn=2, mark=Coin, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=2}
+6:10:33 PM|Info|Player.PlayToGraveyard >> [Opponent] id=68, cardId=GAME_005, cardName=The Coin, zonePos=0,Info={turn=2, mark=Coin, created=true, originalZone=HAND, OriginalController=2}
+6:10:35 PM|Info|Player.Play >> [Opponent] id=44, cardId=GVG_038, cardName=Crackle, zonePos=0,Info={turn=2, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+6:10:36 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+6:10:37 PM|Info|Player.CreateInSetAside >> [Opponent] id=69, cardId=LOE_018e, cardName=Trogg No Stupid, zonePos=0,Info={turn=2, mark=Created, created=true, hasOutstandingTagChanges=true}
+6:10:37 PM|Info|Player.CreateInPlay >> [Opponent] id=69, cardId=LOE_018e, cardName=Trogg No Stupid, zonePos=0,Info={turn=2, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+6:10:41 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+6:10:41 PM|Info|Player.PlayToGraveyard >> [Opponent] id=44, cardId=GVG_038, cardName=Crackle, zonePos=0,Info={turn=2, originalZone=DECK, OriginalController=2}
+6:10:41 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 3 ---
+6:10:41 PM|Info|Player.Draw >> [Player] id=14, cardId=CFM_707, cardName=Jade Lightning, zonePos=5,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+6:10:51 PM|Info|Player.PlayToGraveyard >> [Player] id=30, cardId=AT_052, cardName=Totem Golem, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=1}
+6:10:51 PM|Info|Player.PlayToGraveyard >> [Opponent] id=62, cardId=LOE_018, cardName=Tunnel Trogg, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=2}
+6:10:51 PM|Info|Player.RemoveFromPlay >> [Player] id=69, cardId=LOE_018e, cardName=Trogg No Stupid, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+6:10:53 PM|Info|Player.Play >> [Player] id=18, cardId=CFM_717, cardName=Jade Claws, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=1}
+6:10:53 PM|Info|Player.CreateInPlay >> [Player] id=70, cardId=CFM_712_t01, cardName=Jade Golem, zonePos=1,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+6:10:57 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 3 ---
+6:10:57 PM|Info|Player.Draw >> [Opponent] id=56, cardId=, cardName=, zonePos=0,Info={turn=3, originalZone=DECK, hidden=true, OriginalController=2}
+6:11:04 PM|Info|Player.Play >> [Opponent] id=37, cardId=AT_052, cardName=Totem Golem, zonePos=1,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+6:11:07 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 4 ---
+6:11:07 PM|Info|Player.Draw >> [Player] id=5, cardId=CFM_061, cardName=Jinyu Waterspeaker, zonePos=5,Info={turn=4, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+6:11:30 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+6:11:32 PM|Info|Player.PlayToGraveyard >> [Player] id=70, cardId=CFM_712_t01, cardName=Jade Golem, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+6:11:36 PM|Info|Player.PlayToGraveyard >> [Player] id=18, cardId=CFM_717, cardName=Jade Claws, zonePos=0,Info={turn=4, originalZone=DECK, OriginalController=1}
+6:11:36 PM|Info|Player.Play >> [Player] id=12, cardId=KAR_073, cardName=Maelstrom Portal, zonePos=0,Info={turn=4, originalZone=DECK, OriginalController=1}
+6:11:36 PM|Info|Player.CreateInPlay >> [Player] id=71, cardId=NEW1_012, cardName=Mana Wyrm, zonePos=1,Info={turn=4, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+6:11:39 PM|Info|Player.PlayToGraveyard >> [Player] id=12, cardId=KAR_073, cardName=Maelstrom Portal, zonePos=0,Info={turn=4, originalZone=DECK, OriginalController=1}
+6:11:39 PM|Info|Player.PlayToGraveyard >> [Opponent] id=37, cardId=AT_052, cardName=Totem Golem, zonePos=0,Info={turn=4, originalZone=DECK, OriginalController=2}
+6:11:40 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 4 ---
+6:11:40 PM|Info|Player.Draw >> [Opponent] id=60, cardId=, cardName=, zonePos=0,Info={turn=4, originalZone=DECK, hidden=true, OriginalController=2}
+6:11:59 PM|Info|Player.Play >> [Opponent] id=42, cardId=CFM_717, cardName=Jade Claws, zonePos=0,Info={turn=4, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+6:12:00 PM|Info|Player.CreateInPlay >> [Opponent] id=72, cardId=CFM_712_t01, cardName=Jade Golem, zonePos=1,Info={turn=4, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+6:12:04 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+6:12:06 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 5 ---
+6:12:06 PM|Info|Player.Draw >> [Player] id=11, cardId=CFM_715, cardName=Jade Spirit, zonePos=5,Info={turn=5, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+6:12:18 PM|Info|Player.Play >> [Player] id=13, cardId=CFM_717, cardName=Jade Claws, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=1}
+6:12:18 PM|Info|Player.CreateInPlay >> [Player] id=73, cardId=CFM_712_t02, cardName=Jade Golem, zonePos=2,Info={turn=5, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+6:12:19 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_049 turn:5 from:-1)
+6:12:19 PM|Info|Player.CreateInPlay >> [Player] id=74, cardId=NEW1_009, cardName=Healing Totem, zonePos=3,Info={turn=5, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+6:12:23 PM|Info|Player.PlayToGraveyard >> [Opponent] id=72, cardId=CFM_712_t01, cardName=Jade Golem, zonePos=0,Info={turn=5, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+6:12:25 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 5 ---
+6:12:25 PM|Info|Player.Draw >> [Opponent] id=48, cardId=, cardName=, zonePos=0,Info={turn=5, originalZone=DECK, hidden=true, OriginalController=2}
+6:12:38 PM|Info|Player.PlayToGraveyard >> [Player] id=71, cardId=NEW1_012, cardName=Mana Wyrm, zonePos=0,Info={turn=5, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+6:12:38 PM|Info|Player.PlayToGraveyard >> [Opponent] id=42, cardId=CFM_717, cardName=Jade Claws, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=2}
+6:12:38 PM|Info|Player.Play >> [Opponent] id=47, cardId=OG_024, cardName=Flamewreathed Faceless, zonePos=1,Info={turn=5, mark=Mulliganed, mulliganed=true, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+6:12:42 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 6 ---
+6:12:42 PM|Info|Player.Draw >> [Player] id=6, cardId=EX1_246, cardName=Hex, zonePos=5,Info={turn=6, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+6:12:47 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+6:13:32 PM|... 1 duplicate messages
+6:13:32 PM|Info|Player.Play >> [Player] id=6, cardId=EX1_246, cardName=Hex, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=1}
+6:13:32 PM|Info|Player.CreateInSetAside >> [Opponent] id=75, cardId=, cardName=, zonePos=0,Info={turn=6, mark=Created, created=true, hasOutstandingTagChanges=true}
+6:13:32 PM|Info|Player.CreateInPlay >> [Opponent] id=75, cardId=hexfrog, cardName=Frog, zonePos=0,Info={turn=6, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+6:13:32 PM|Info|Player.RemoveFromPlay >> [Player] id=47, cardId=OG_024, cardName=Flamewreathed Faceless, zonePos=0,Info={turn=6, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=2}
+6:13:32 PM|Info|Player.PlayToGraveyard >> [Player] id=6, cardId=EX1_246, cardName=Hex, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=1}
+6:13:35 PM|Info|Player.PlayToGraveyard >> [Player] id=13, cardId=CFM_717, cardName=Jade Claws, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=1}
+6:13:35 PM|Info|Player.PlayToGraveyard >> [Opponent] id=75, cardId=hexfrog, cardName=Frog, zonePos=0,Info={turn=6, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+6:13:38 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 6 ---
+6:13:38 PM|Info|Player.Draw >> [Opponent] id=59, cardId=, cardName=, zonePos=0,Info={turn=6, originalZone=DECK, hidden=true, OriginalController=2}
+6:13:49 PM|Info|Player.Play >> [Opponent] id=60, cardId=CFM_707, cardName=Jade Lightning, zonePos=0,Info={turn=6, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+6:13:50 PM|Info|Player.CreateInPlay >> [Opponent] id=76, cardId=CFM_712_t02, cardName=Jade Golem, zonePos=1,Info={turn=6, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+6:13:54 PM|Info|Player.PlayToGraveyard >> [Opponent] id=60, cardId=CFM_707, cardName=Jade Lightning, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=2}
+6:13:55 PM|Info|Player.PlayToGraveyard >> [Player] id=73, cardId=CFM_712_t02, cardName=Jade Golem, zonePos=0,Info={turn=6, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+6:13:55 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 7 ---
+6:13:55 PM|Info|Player.Draw >> [Player] id=32, cardId=EX1_284, cardName=Azure Drake, zonePos=5,Info={turn=7, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+6:14:09 PM|Info|Player.Play >> [Player] id=9, cardId=CFM_902, cardName=Aya Blackpaw, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=1}
+6:14:09 PM|Info|Player.CreateInPlay >> [Player] id=77, cardId=CFM_712_t03, cardName=Jade Golem, zonePos=3,Info={turn=7, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+6:14:14 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 7 ---
+6:14:14 PM|Info|Player.Draw >> [Opponent] id=39, cardId=, cardName=, zonePos=0,Info={turn=7, originalZone=DECK, hidden=true, OriginalController=2}
+6:14:26 PM|Info|Player.Play >> [Opponent] id=59, cardId=CFM_707, cardName=Jade Lightning, zonePos=0,Info={turn=7, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+6:14:27 PM|Info|Player.CreateInPlay >> [Opponent] id=78, cardId=CFM_712_t03, cardName=Jade Golem, zonePos=2,Info={turn=7, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+6:14:31 PM|Info|Player.PlayToGraveyard >> [Opponent] id=59, cardId=CFM_707, cardName=Jade Lightning, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=2}
+6:14:31 PM|Info|Player.PlayToGraveyard >> [Player] id=77, cardId=CFM_712_t03, cardName=Jade Golem, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+6:14:33 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS2_049 turn:7 from:-1)
+6:14:33 PM|Info|Player.CreateInPlay >> [Opponent] id=79, cardId=CS2_052, cardName=Wrath of Air Totem, zonePos=3,Info={turn=7, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+6:14:36 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 8 ---
+6:14:36 PM|Info|Player.Draw >> [Player] id=28, cardId=EX1_284, cardName=Azure Drake, zonePos=5,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+6:15:05 PM|Info|Player.Play >> [Player] id=14, cardId=CFM_707, cardName=Jade Lightning, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=1}
+6:15:05 PM|Info|Player.CreateInPlay >> [Player] id=80, cardId=CFM_712_t04, cardName=Jade Golem, zonePos=3,Info={turn=8, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+6:15:07 PM|Info|Player.PlayToGraveyard >> [Player] id=14, cardId=CFM_707, cardName=Jade Lightning, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=1}
+6:15:07 PM|Info|Player.PlayToGraveyard >> [Opponent] id=78, cardId=CFM_712_t03, cardName=Jade Golem, zonePos=0,Info={turn=8, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+6:15:07 PM|Info|Player.Play >> [Player] id=11, cardId=CFM_715, cardName=Jade Spirit, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=1}
+6:15:07 PM|Info|Player.CreateInPlay >> [Player] id=81, cardId=CFM_712_t05, cardName=Jade Golem, zonePos=2,Info={turn=8, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+6:15:12 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 8 ---
+6:15:12 PM|Info|Player.Draw >> [Opponent] id=36, cardId=, cardName=, zonePos=0,Info={turn=8, originalZone=DECK, hidden=true, OriginalController=2}
+6:15:28 PM|Info|Player.Play >> [Opponent] id=39, cardId=EX1_241, cardName=Lava Burst, zonePos=0,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+6:15:32 PM|Info|Player.PlayToGraveyard >> [Opponent] id=39, cardId=EX1_241, cardName=Lava Burst, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=2}
+6:15:33 PM|Info|Player.Play >> [Opponent] id=48, cardId=EX1_238, cardName=Lightning Bolt, zonePos=0,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+6:15:37 PM|Info|Player.PlayToGraveyard >> [Opponent] id=48, cardId=EX1_238, cardName=Lightning Bolt, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=2}
+6:15:37 PM|Info|Player.Play >> [Opponent] id=56, cardId=EX1_238, cardName=Lightning Bolt, zonePos=0,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+6:15:42 PM|Info|Player.PlayToGraveyard >> [Opponent] id=56, cardId=EX1_238, cardName=Lightning Bolt, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=2}
+6:15:42 PM|Info|Player.Play >> [Opponent] id=36, cardId=CS2_045, cardName=Rockbiter Weapon, zonePos=0,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+6:15:43 PM|Info|Player.CreateInSetAside >> [Opponent] id=82, cardId=CS2_045e, cardName=Rockbiter Weapon, zonePos=0,Info={turn=8, mark=Created, created=true, hasOutstandingTagChanges=true}
+6:15:43 PM|Info|Player.CreateInPlay >> [Opponent] id=82, cardId=CS2_045e, cardName=Rockbiter Weapon, zonePos=0,Info={turn=8, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+6:15:46 PM|Info|Player.PlayToGraveyard >> [Opponent] id=36, cardId=CS2_045, cardName=Rockbiter Weapon, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=2}
+6:15:48 PM|Info|Player.PlayToGraveyard >> [Opponent] id=82, cardId=CS2_045e, cardName=Rockbiter Weapon, zonePos=0,Info={turn=8, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+6:15:48 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 9 ---
+6:15:48 PM|Info|Player.Draw >> [Player] id=17, cardId=CFM_715, cardName=Jade Spirit, zonePos=4,Info={turn=9, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+6:16:13 PM|Info|Player.Play >> [Player] id=28, cardId=EX1_284, cardName=Azure Drake, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=1}
+6:16:13 PM|Info|Player.Draw >> [Player] id=24, cardId=EX1_238, cardName=Lightning Bolt, zonePos=4,Info={turn=9, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+6:16:17 PM|Info|Player.Play >> [Player] id=24, cardId=EX1_238, cardName=Lightning Bolt, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=1}
+6:16:19 PM|Info|Player.PlayToGraveyard >> [Player] id=24, cardId=EX1_238, cardName=Lightning Bolt, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=1}
+6:16:22 PM|Info|Player.PlayToGraveyard >> [Opponent] id=66, cardId=HERO_02, cardName=Thrall, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=2}
+6:16:22 PM|Info|GameEventHandler.HandleWin >> --- Game was won! ---
+6:16:23 PM|Info|TurnTimer.Stop >> Stopping turn timer
+6:16:23 PM|Info|GameEventHandler.HandleGameEnd >> Game ended...
+6:16:23 PM|Info|GameEventHandler.HandleGameEnd >> Format: Wild
+6:16:23 PM|Info|GameStats.GameEnd >> Current Game ended after 9 turns
+6:16:23 PM|Info|GameEventHandler.HandleGameEnd >> Assigned current game to deck: Cancer
+6:16:23 PM|Info|LogUploader.Upload >> Uploading 1362668262...
+6:16:23 PM|Info|LogUploader.TryUpload >> Creating upload request...
+6:16:23 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+6:16:23 PM|Info|LogUploader.TryUpload >> Upload Id: e8PJwRjzHaaeXEGKnWQMRc
+6:16:24 PM|Info|LogUploader.TryUpload >> Upload complete
+6:16:24 PM|Info|LogUploader.Upload >> 1362668262 complete. Success=True
+6:16:33 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+6:16:36 PM|Info|GameV2.CurrentMode >> TOURNAMENT
+6:16:36 PM|Info|DeckImporter.FromConstructed >> Found 15 decks, 0 new
+6:16:36 PM|Info|GameEventHandler.HandleInMenu >> Game is now in menu.
+6:16:36 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+6:16:36 PM|Info|GameEventHandler.SaveAndUpdateStats >> Saving DeckStats
+6:20:49 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+6:20:52 PM|Info|Core.UpdateOverlayAsync >> Exited game
+6:20:52 PM|Info|Core.UpdateOverlayAsync >> Reset region
+6:20:52 PM|Info|GameV2.Reset >> -------- Reset ---------
+6:20:53 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'E:\Hearthstone\Logs'
+6:26:38 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+6:26:39 PM|Info|Updater.SquirrelUpdate >> No new updated available
+6:46:38 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+6:46:40 PM|Info|Updater.SquirrelUpdate >> No new updated available
+7:06:38 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+7:06:40 PM|Info|Updater.SquirrelUpdate >> No new updated available
+7:06:47 PM|Info|Plugin.CheckPluginUpdate >> https://github.com/rembound/Arena-Helper/releases/download/0.8.8/ArenaHelper.v0.8.8.zip
+7:26:39 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+7:26:40 PM|Info|Updater.SquirrelUpdate >> No new updated available
+7:46:39 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+7:46:40 PM|Info|Updater.SquirrelUpdate >> No new updated available
+8:06:39 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+8:06:40 PM|Info|Updater.SquirrelUpdate >> No new updated available
+8:06:47 PM|Info|Plugin.CheckPluginUpdate >> https://github.com/rembound/Arena-Helper/releases/download/0.8.8/ArenaHelper.v0.8.8.zip
+8:26:39 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+8:26:40 PM|Info|Updater.SquirrelUpdate >> No new updated available
+8:46:39 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+8:46:40 PM|Info|Updater.SquirrelUpdate >> No new updated available
+9:06:39 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+9:06:40 PM|Info|Updater.SquirrelUpdate >> No new updated available
+9:06:47 PM|Info|Plugin.CheckPluginUpdate >> https://github.com/rembound/Arena-Helper/releases/download/0.8.8/ArenaHelper.v0.8.8.zip
+9:26:39 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+9:26:40 PM|Info|Updater.SquirrelUpdate >> No new updated available
+9:46:39 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+9:46:40 PM|Info|Updater.SquirrelUpdate >> No new updated available
+10:06:39 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+10:06:40 PM|Info|Updater.SquirrelUpdate >> No new updated available
+10:06:47 PM|Info|Plugin.CheckPluginUpdate >> https://github.com/rembound/Arena-Helper/releases/download/0.8.8/ArenaHelper.v0.8.8.zip
+10:26:39 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+10:26:40 PM|Info|Updater.SquirrelUpdate >> No new updated available
+10:46:39 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+10:46:40 PM|Info|Updater.SquirrelUpdate >> No new updated available
+11:06:39 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+11:06:40 PM|Info|Updater.SquirrelUpdate >> No new updated available
+11:06:48 PM|Info|Plugin.CheckPluginUpdate >> https://github.com/rembound/Arena-Helper/releases/download/0.8.8/ArenaHelper.v0.8.8.zip
+11:13:43 PM|Info|MainWindow.Window_Closing >> Shutting down...

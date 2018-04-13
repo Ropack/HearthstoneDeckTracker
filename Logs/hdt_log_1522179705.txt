@@ -1,0 +1,29 @@
+9:38:41 PM|Info|Core.Initialize >> HDT: 1.6.0.3575, Operating System: Windows 10 Pro 16299, .NET Framework: 461308
+9:38:41 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+9:38:41 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+9:38:41 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+9:38:43 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+9:38:44 PM|Info|Updater.SquirrelUpdate >> No new updated available
+9:38:44 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+9:38:45 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+9:38:45 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+9:38:45 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+9:38:45 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+9:38:45 PM|Info|GameV2.Reset >> -------- Reset ---------
+9:38:46 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+9:38:47 PM|Info|MainWindow.SelectDeck >> Switched to deck: Arena 27-03 12:30 (v1.0)
+9:38:47 PM|Info|GameV2.Reset >> -------- Reset ---------
+9:38:49 PM|Info|BackupManager.Run >> Running BackupManager
+9:38:49 PM|Info|BackupManager.Run >> Backup for today already exists
+9:38:49 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+9:38:49 PM|Info|PluginWrapper.Load >> Loading Arena Helper
+9:38:49 PM|Info|PluginWrapper.IsEnabled >> Enabled Arena Helper
+9:38:49 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'E:\Hearthstone\Logs'
+9:38:49 PM|Info|HSReplayNetOAuth.UpdateAccountData >> Updating account data...
+9:38:50 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=2781, ServerTS=3/27/2018 6:08:54 PM, Downloaded=3/27/2018 9:13:06 PM Age=00:25:43.0450089
+9:38:50 PM|Info|HsReplayDecks.Load >> Complete: Count=2781, ServerTS=3/27/2018 6:08:54 PM, Downloaded=3/27/2018 9:13:06 PM Age=00:25:43.0460125
+9:38:50 PM|Info|Plugin.CheckPluginUpdate >> https://github.com/rembound/Arena-Helper/releases/download/0.8.8/ArenaHelper.v0.8.8.zip
+9:38:50 PM|Info|HSReplayNetOAuth.UpdateAccountData >> Found account: Ropack#2387
+9:38:50 PM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Fetching twitch accounts...
+9:38:50 PM|Info|HSReplayNetOAuth.UpdateTwitchUsers >> Saved 0 account(s): 
+9:40:14 PM|Info|MainWindow.Window_Closing >> Shutting down...

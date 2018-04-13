@@ -1,0 +1,45 @@
+8:18:42 AM|Info|Core.Initialize >> HDT: 1.6.2.3592, Operating System: Windows 10 Home 16299, .NET Framework: 461308
+8:18:42 AM|Info|Updater.StartupUpdateCheck >> Checking for updates
+8:18:43 AM|Info|Updater.GetReleaseUrl >> Downloading releases file
+8:18:43 AM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+8:18:45 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+8:18:47 AM|Info|Updater.SquirrelUpdate >> No new updated available
+8:18:47 AM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+8:18:49 AM|Info|ThemeManager.LoadThemes >> Found theme: classic
+8:18:49 AM|Info|ThemeManager.LoadThemes >> Found theme: dark
+8:18:49 AM|Info|ThemeManager.LoadThemes >> Found theme: frost
+8:18:49 AM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+8:18:49 AM|Info|GameV2.Reset >> -------- Reset ---------
+8:18:52 AM|Error|JsonSerializer.Load >> System.Security.Cryptography.CryptographicException: Klíč není platný pro použití v zadaném stavu.
+
+   at System.Security.Cryptography.ProtectedData.Unprotect(Byte[] encryptedData, Byte[] optionalEntropy, DataProtectionScope scope)
+   at Hearthstone_Deck_Tracker.Utility.JsonSerializer`1.Load()
+8:19:00 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\ArenaHelper.dll
+8:19:00 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\Emgu.CV.dll
+8:19:00 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\Emgu.Util.dll
+8:19:00 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\data\cardhashes.json
+8:19:00 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\data\cardtier.json
+8:19:00 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\data\version.json
+8:19:00 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\x86\cvextern.dll
+8:19:00 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\x86\msvcp120.dll
+8:19:00 AM|Info|PluginManager.SyncPlugins >> Adding ArenaHelper\x86\msvcr120.dll
+8:19:03 AM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+8:19:11 AM|Info|MainWindow.SelectDeck >> Switched to deck: Arena 10-04 06:59 (v1.0)
+8:19:12 AM|Info|GameV2.Reset >> -------- Reset ---------
+8:19:22 AM|Info|BackupManager.Run >> Running BackupManager
+8:19:22 AM|Info|BackupManager.Run >> Deleting old backup: Backup_14032018.zip
+8:19:22 AM|Info|BackupManager.Run >> Deleting old backup: Backup_15032018.zip
+8:19:22 AM|Info|BackupManager.Run >> Deleting old backup: Backup_19032018.zip
+8:19:22 AM|Info|BackupManager.Run >> Creating backup for today
+8:19:23 AM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+8:19:23 AM|Info|PluginWrapper.Load >> Loading Arena Helper
+8:19:23 AM|Info|PluginWrapper.IsEnabled >> Enabled Arena Helper
+8:19:24 AM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Program Files (x86)\Hearthstone\Logs'
+8:19:24 AM|Info|ApiWrapper.UpdateUploadTokenStatus >> Checking token status...
+8:19:25 AM|Info|HsReplayDecks.Load >> Loaded from disk: Count=2688, ServerTS=4/9/2018 9:33:04 PM, Downloaded=4/10/2018 2:07:43 AM Age=3.06:11:41.6406796
+8:19:25 AM|Info|HsReplayDecks.Load >> Cached data was not found or stale. Fetching latest...
+8:19:25 AM|Info|ApiWrapper.GetAvailableDecks >> Fetching available decks...
+8:19:25 AM|Info|Plugin.CheckPluginUpdate >> https://github.com/rembound/Arena-Helper/releases/download/0.9.0/ArenaHelper.v0.9.0.zip
+8:19:25 AM|Info|ApiWrapper.UpdateUploadTokenStatus >> Token is claimed
+8:19:25 AM|Info|HsReplayDecks.Load >> Writing hsreplay_decks.cache to disk...
+8:19:25 AM|Info|HsReplayDecks.Load >> Complete: Count=2691, ServerTS=4/13/2018 5:24:29 AM, Downloaded=4/13/2018 8:19:25 AM Age=00:00:00.0447381

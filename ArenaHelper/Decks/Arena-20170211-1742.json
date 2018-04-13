@@ -1,0 +1,193 @@
+{
+  "deckname": "Arena 11-02 05:42",
+  "deckguid": "28b230a5-c396-47eb-b806-a254d7888e3b",
+  "detectedheroes": [
+    "Priest",
+    "Mage",
+    "Warlock"
+  ],
+  "pickedhero": "Mage",
+  "detectedcards": [
+    {
+      "Item1": "CFM_667",
+      "Item2": "EX1_274",
+      "Item3": "LOE_119"
+    },
+    {
+      "Item1": "CFM_021",
+      "Item2": "CS2_147",
+      "Item3": "CFM_039"
+    },
+    {
+      "Item1": "OG_295",
+      "Item2": "CS2_173",
+      "Item3": "EX1_057"
+    },
+    {
+      "Item1": "CS2_131",
+      "Item2": "CS2_222",
+      "Item3": "DS1_055"
+    },
+    {
+      "Item1": "CFM_671",
+      "Item2": "CS2_231",
+      "Item3": "CS2_023"
+    },
+    {
+      "Item1": "CFM_066",
+      "Item2": "KAR_092",
+      "Item3": "EX1_033"
+    },
+    {
+      "Item1": "FP1_008",
+      "Item2": "KAR_029",
+      "Item3": "EX1_008"
+    },
+    {
+      "Item1": "CFM_809",
+      "Item2": "KAR_029",
+      "Item3": "CS2_141"
+    },
+    {
+      "Item1": "OG_153",
+      "Item2": "CS2_200",
+      "Item3": "EX1_046"
+    },
+    {
+      "Item1": "BRM_022",
+      "Item2": "LOE_089",
+      "Item3": "CFM_649"
+    },
+    {
+      "Item1": "GVG_006",
+      "Item2": "EX1_508",
+      "Item3": "CFM_063"
+    },
+    {
+      "Item1": "GVG_064",
+      "Item2": "OG_151",
+      "Item3": "FP1_029"
+    },
+    {
+      "Item1": "EX1_015",
+      "Item2": "CFM_666",
+      "Item3": "AT_007"
+    },
+    {
+      "Item1": "CS2_186",
+      "Item2": "CS2_169",
+      "Item3": "KAR_710"
+    },
+    {
+      "Item1": "BRM_024",
+      "Item2": "EX1_029",
+      "Item3": "EX1_019"
+    },
+    {
+      "Item1": "GVG_068",
+      "Item2": "GVG_075",
+      "Item3": "EX1_289"
+    },
+    {
+      "Item1": "CS2_120",
+      "Item2": "LOEA10_3",
+      "Item3": "CFM_655"
+    },
+    {
+      "Item1": "EX1_508",
+      "Item2": "CS2_022",
+      "Item3": "CFM_039"
+    },
+    {
+      "Item1": "LOE_107",
+      "Item2": "EX1_509",
+      "Item3": "EX1_006"
+    },
+    {
+      "Item1": "CFM_620",
+      "Item2": "AT_109",
+      "Item3": "NEW1_025"
+    },
+    {
+      "Item1": "NEW1_012",
+      "Item2": "CS2_117",
+      "Item3": "LOE_029"
+    },
+    {
+      "Item1": "CS2_196",
+      "Item2": "CFM_647",
+      "Item3": "CFM_021"
+    },
+    {
+      "Item1": "CFM_668",
+      "Item2": "CFM_658",
+      "Item3": "EX1_080"
+    },
+    {
+      "Item1": "CFM_039",
+      "Item2": "EX1_396",
+      "Item3": "EX1_595"
+    },
+    {
+      "Item1": "CS2_032",
+      "Item2": "CFM_653",
+      "Item3": "OG_083"
+    },
+    {
+      "Item1": "CS2_122",
+      "Item2": "KAR_062",
+      "Item3": "CS2_169"
+    },
+    {
+      "Item1": "GVG_075",
+      "Item2": "CS2_221",
+      "Item3": "CS2_197"
+    },
+    {
+      "Item1": "CS2_188",
+      "Item2": "EX1_066",
+      "Item3": "CS2_122"
+    },
+    {
+      "Item1": "OG_326",
+      "Item2": "CFM_067",
+      "Item3": "OG_138"
+    },
+    {
+      "Item1": "KAR_033",
+      "Item2": "GVG_074",
+      "Item3": "OG_087"
+    }
+  ],
+  "pickedcards": [
+    "CFM_667",
+    "CS2_147",
+    "OG_295",
+    "CS2_222",
+    "CS2_023",
+    "KAR_092",
+    "FP1_008",
+    "CFM_809",
+    "OG_153",
+    "CFM_649",
+    "CFM_063",
+    "GVG_064",
+    "AT_007",
+    "CS2_186",
+    "BRM_024",
+    "GVG_068",
+    "CFM_655",
+    "CS2_022",
+    "EX1_509",
+    "AT_109",
+    "NEW1_012",
+    "CFM_647",
+    "CFM_658",
+    "EX1_595",
+    "CS2_032",
+    "KAR_062",
+    "GVG_075",
+    "EX1_066",
+    "OG_138"
+  ]
+}

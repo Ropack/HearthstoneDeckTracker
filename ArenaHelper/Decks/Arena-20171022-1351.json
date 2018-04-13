@@ -1,0 +1,346 @@
+{
+  "deckname": "Arena 22-10 01:51",
+  "deckguid": "2c854c90-1b23-4521-84ab-5eb01e97e01d",
+  "detectedheroes": [
+    "Paladin",
+    "Shaman",
+    "Rogue"
+  ],
+  "pickedhero": "Paladin",
+  "detectedcards": [
+    {
+      "Item1": "CFM_810",
+      "Item2": "OG_174",
+      "Item3": "OG_272"
+    },
+    {
+      "Item1": "CS2_222",
+      "Item2": "EX1_010",
+      "Item3": "ICC_905"
+    },
+    {
+      "Item1": "OG_138",
+      "Item2": "UNG_009",
+      "Item3": "ICC_019"
+    },
+    {
+      "Item1": "UNG_844",
+      "Item2": "ICC_801",
+      "Item3": "EX1_584"
+    },
+    {
+      "Item1": "UNG_002",
+      "Item2": "EX1_616",
+      "Item3": "CFM_325"
+    },
+    {
+      "Item1": "EX1_093",
+      "Item2": "UNG_844",
+      "Item3": "ICC_902"
+    },
+    {
+      "Item1": "UNG_960",
+      "Item2": "OG_311",
+      "Item3": "OG_145"
+    },
+    {
+      "Item1": "NEW1_023",
+      "Item2": "CFM_646",
+      "Item3": "EX1_066"
+    },
+    {
+      "Item1": "EX1_508",
+      "Item2": "CFM_854",
+      "Item3": "EX1_019"
+    },
+    {
+      "Item1": "NEW1_020",
+      "Item2": "NEW1_025",
+      "Item3": "OG_322"
+    },
+    {
+      "Item1": "UNG_818",
+      "Item2": "CFM_656",
+      "Item3": "KAR_702"
+    },
+    {
+      "Item1": "ICC_855",
+      "Item2": "CS2_089",
+      "Item3": "OG_249"
+    },
+    {
+      "Item1": "ICC_099",
+      "Item2": "UNG_002",
+      "Item3": "OG_147"
+    },
+    {
+      "Item1": "EX1_508",
+      "Item2": "ICC_467",
+      "Item3": "CS2_094"
+    },
+    {
+      "Item1": "KAR_010",
+      "Item2": "ICC_029",
+      "Item3": "CS2_089"
+    },
+    {
+      "Item1": "CS2_120",
+      "Item2": "CFM_060",
+      "Item3": "UNG_937"
+    },
+    {
+      "Item1": "EX1_059",
+      "Item2": "OG_222",
+      "Item3": "ICC_466"
+    },
+    {
+      "Item1": "ICC_032",
+      "Item2": "CS2_213",
+      "Item3": "CS2_089"
+    },
+    {
+      "Item1": "ICC_039",
+      "Item2": "ICC_032",
+      "Item3": "OG_247"
+    },
+    {
+      "Item1": "UNG_083",
+      "Item2": "ICC_244",
+      "Item3": "ICC_911"
+    },
+    {
+      "Item1": "CS2_091",
+      "Item2": "CFM_647",
+      "Item3": "CS2_119"
+    },
+    {
+      "Item1": "EX1_379",
+      "Item2": "CS2_089",
+      "Item3": "EX1_025"
+    },
+    {
+      "Item1": "EX1_562",
+      "Item2": "CFM_685",
+      "Item3": "UNG_907"
+    },
+    {
+      "Item1": "UNG_962",
+      "Item2": "OG_147",
+      "Item3": "CFM_668"
+    },
+    {
+      "Item1": "OG_326",
+      "Item2": "OG_273",
+      "Item3": "EX1_363"
+    },
+    {
+      "Item1": "UNG_076",
+      "Item2": "NEW1_022",
+      "Item3": "KAR_029"
+    },
+    {
+      "Item1": "CFM_851",
+      "Item2": "ICC_028",
+      "Item3": "ICC_093"
+    },
+    {
+      "Item1": "ICC_023",
+      "Item2": "CFM_753",
+      "Item3": "OG_138"
+    },
+    {
+      "Item1": "KAR_711",
+      "Item2": "OG_102",
+      "Item3": "CFM_790"
+    },
+    {
+      "Item1": "ICC_071",
+      "Item2": "CFM_025",
+      "Item3": "OG_200"
+    }
+  ],
+  "cardrating": [
+    {
+      "Item1": 95.0,
+      "Item2": 96.0,
+      "Item3": 113.0
+    },
+    {
+      "Item1": 111.0,
+      "Item2": 107.0,
+      "Item3": 78.0
+    },
+    {
+      "Item1": 112.0,
+      "Item2": 105.0,
+      "Item3": 85.0
+    },
+    {
+      "Item1": 20.0,
+      "Item2": 61.0,
+      "Item3": 76.0
+    },
+    {
+      "Item1": 128.0,
+      "Item2": 92.0,
+      "Item3": 67.0
+    },
+    {
+      "Item1": 117.0,
+      "Item2": 20.0,
+      "Item3": 89.0
+    },
+    {
+      "Item1": 122.0,
+      "Item2": 107.0,
+      "Item3": 107.0
+    },
+    {
+      "Item1": 111.0,
+      "Item2": 53.0,
+      "Item3": 135.0
+    },
+    {
+      "Item1": 60.0,
+      "Item2": 109.0,
+      "Item3": 109.0
+    },
+    {
+      "Item1": 108.0,
+      "Item2": 101.0,
+      "Item3": 78.0
+    },
+    {
+      "Item1": 108.0,
+      "Item2": 97.0,
+      "Item3": 103.0
+    },
+    {
+      "Item1": 141.0,
+      "Item2": 63.0,
+      "Item3": 98.0
+    },
+    {
+      "Item1": 50.0,
+      "Item2": 128.0,
+      "Item3": 106.0
+    },
+    {
+      "Item1": 60.0,
+      "Item2": 122.0,
+      "Item3": 132.0
+    },
+    {
+      "Item1": 70.0,
+      "Item2": 121.0,
+      "Item3": 63.0
+    },
+    {
+      "Item1": 98.0,
+      "Item2": 75.0,
+      "Item3": 77.0
+    },
+    {
+      "Item1": 119.0,
+      "Item2": 168.0,
+      "Item3": 133.0
+    },
+    {
+      "Item1": 101.0,
+      "Item2": 94.0,
+      "Item3": 63.0
+    },
+    {
+      "Item1": 102.0,
+      "Item2": 101.0,
+      "Item3": 96.0
+    },
+    {
+      "Item1": 72.0,
+      "Item2": 55.0,
+      "Item3": 132.0
+    },
+    {
+      "Item1": 149.0,
+      "Item2": 108.0,
+      "Item3": 84.0
+    },
+    {
+      "Item1": 63.0,
+      "Item2": 63.0,
+      "Item3": 92.0
+    },
+    {
+      "Item1": 131.0,
+      "Item2": 131.0,
+      "Item3": 70.0
+    },
+    {
+      "Item1": 106.0,
+      "Item2": 106.0,
+      "Item3": 117.0
+    },
+    {
+      "Item1": 89.0,
+      "Item2": 97.0,
+      "Item3": 112.0
+    },
+    {
+      "Item1": 125.0,
+      "Item2": 93.0,
+      "Item3": 91.0
+    },
+    {
+      "Item1": 111.0,
+      "Item2": 127.0,
+      "Item3": 107.0
+    },
+    {
+      "Item1": 71.0,
+      "Item2": 141.0,
+      "Item3": 112.0
+    },
+    {
+      "Item1": 71.0,
+      "Item2": 96.0,
+      "Item3": 41.0
+    },
+    {
+      "Item1": 16.0,
+      "Item2": 91.0,
+      "Item3": 90.0
+    }
+  ],
+  "pickedcards": [
+    "OG_272",
+    "CS2_222",
+    "OG_138",
+    "ICC_801",
+    "UNG_002",
+    "EX1_093",
+    "UNG_960",
+    "EX1_066",
+    "EX1_019",
+    "NEW1_020",
+    "UNG_818",
+    "ICC_855",
+    "UNG_002",
+    "CS2_094",
+    "ICC_029",
+    "CS2_120",
+    "OG_222",
+    "ICC_032",
+    "ICC_039",
+    "ICC_911",
+    "CS2_091",
+    "EX1_025",
+    "CFM_685",
+    "CFM_668",
+    "EX1_363",
+    "UNG_076",
+    "ICC_028",
+    "CFM_753",
+    "OG_102",
+    "CFM_025"
+  ]
+}

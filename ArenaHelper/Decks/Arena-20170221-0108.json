@@ -1,0 +1,23 @@
+{
+  "deckname": "Arena 21-02 01:08",
+  "deckguid": "d5a340f3-f399-4743-93ea-73f814c12342",
+  "detectedheroes": [
+    "Mage",
+    "Shaman",
+    "Paladin"
+  ],
+  "pickedhero": "Mage",
+  "detectedcards": [
+    {
+      "Item1": "GVG_091",
+      "Item2": "NEW1_041",
+      "Item3": "KAR_009"
+    },
+    {
+      "Item1": "CS2_181",
+      "Item2": "BRM_002",
+      "Item3": "AT_108"
+    }
+  ],
+  "pickedcards": []
+}

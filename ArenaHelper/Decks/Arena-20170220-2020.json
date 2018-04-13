@@ -1,0 +1,194 @@
+{
+  "deckname": "Arena 20-02 08:20",
+  "deckguid": "ba3a13db-73ae-4ecc-888c-51b4f5840c9a",
+  "detectedheroes": [
+    "Paladin",
+    "Shaman",
+    "Warrior"
+  ],
+  "pickedhero": "Paladin",
+  "detectedcards": [
+    {
+      "Item1": "EX1_584",
+      "Item2": "KAR_057",
+      "Item3": "CFM_668"
+    },
+    {
+      "Item1": "LOE_027",
+      "Item2": "GVG_058",
+      "Item3": "CS1_069"
+    },
+    {
+      "Item1": "CFM_753",
+      "Item2": "CS2_227",
+      "Item3": "EX1_057"
+    },
+    {
+      "Item1": "CS2_093",
+      "Item2": "OG_326",
+      "Item3": "FP1_020"
+    },
+    {
+      "Item1": "EX1_619",
+      "Item2": "CFM_325",
+      "Item3": "OG_322"
+    },
+    {
+      "Item1": "FP1_029",
+      "Item2": "GVG_057",
+      "Item3": "NEW1_018"
+    },
+    {
+      "Item1": "CFM_653",
+      "Item2": "EX1_082",
+      "Item3": "GVG_075"
+    },
+    {
+      "Item1": "GVG_067",
+      "Item2": "AT_076",
+      "Item3": "NEW1_023"
+    },
+    {
+      "Item1": "KAR_095",
+      "Item2": "EX1_021",
+      "Item3": "NEW1_018"
+    },
+    {
+      "Item1": "EX1_616",
+      "Item2": "EX1_349",
+      "Item3": "NEW1_037"
+    },
+    {
+      "Item1": "GVG_084",
+      "Item2": "BRM_034",
+      "Item3": "BRM_024"
+    },
+    {
+      "Item1": "KAR_095",
+      "Item2": "CS2_227",
+      "Item3": "GVG_103"
+    },
+    {
+      "Item1": "EX1_021",
+      "Item2": "EX1_029",
+      "Item3": "CS2_188"
+    },
+    {
+      "Item1": "FP1_020",
+      "Item2": "CS2_155",
+      "Item3": "CS2_189"
+    },
+    {
+      "Item1": "LOE_027",
+      "Item2": "OG_323",
+      "Item3": "CFM_753"
+    },
+    {
+      "Item1": "GVG_076",
+      "Item2": "CFM_650",
+      "Item3": "CS2_122"
+    },
+    {
+      "Item1": "CFM_753",
+      "Item2": "CS2_117",
+      "Item3": "FP1_002"
+    },
+    {
+      "Item1": "EX1_057",
+      "Item2": "EX1_396",
+      "Item3": "GVG_044"
+    },
+    {
+      "Item1": "GVG_069",
+      "Item2": "FP1_004",
+      "Item3": "CFM_666"
+    },
+    {
+      "Item1": "EX1_009",
+      "Item2": "OG_222",
+      "Item3": "CFM_639"
+    },
+    {
+      "Item1": "BRM_024",
+      "Item2": "EX1_049",
+      "Item3": "AT_094"
+    },
+    {
+      "Item1": "GVG_093",
+      "Item2": "AT_104",
+      "Item3": "GVG_090"
+    },
+    {
+      "Item1": "CS2_188",
+      "Item2": "AT_084",
+      "Item3": "CFM_648"
+    },
+    {
+      "Item1": "CFM_067",
+      "Item2": "EX1_019",
+      "Item3": "CFM_063"
+    },
+    {
+      "Item1": "CS2_186",
+      "Item2": "OG_311",
+      "Item3": "EX1_362"
+    },
+    {
+      "Item1": "GVG_076",
+      "Item2": "EX1_028",
+      "Item3": "CFM_666"
+    },
+    {
+      "Item1": "BRM_020",
+      "Item2": "EX1_008",
+      "Item3": "GVG_102"
+    },
+    {
+      "Item1": "FP1_017",
+      "Item2": "CS2_119",
+      "Item3": "FP1_020"
+    },
+    {
+      "Item1": "LOE_017",
+      "Item2": "EX1_029",
+      "Item3": "EX1_020"
+    },
+    {
+      "Item1": "EX1_032",
+      "Item2": "EX1_619",
+      "Item3": "EX1_584"
+    }
+  ],
+  "pickedcards": [
+    "CFM_668",
+    "GVG_058",
+    "CFM_753",
+    "CS2_093",
+    "EX1_619",
+    "NEW1_018",
+    "CFM_653",
+    "AT_076",
+    "NEW1_018",
+    "EX1_349",
+    "BRM_024",
+    "GVG_103",
+    "CS2_188",
+    "FP1_020",
+    "CFM_753",
+    "CS2_122",
+    "CFM_753",
+    "GVG_044",
+    "GVG_069",
+    "OG_222",
+    "BRM_024",
+    "GVG_090",
+    "CFM_648",
+    "EX1_019",
+    "EX1_362",
+    "EX1_028",
+    "EX1_008",
+    "FP1_020",
+    "LOE_017",
+    "EX1_619"
+  ]
+}
