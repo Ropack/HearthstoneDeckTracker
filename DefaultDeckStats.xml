@@ -1633,6 +1633,91 @@
             <Card Id="ICC_833" Count="1" />
           </OpponentCards>
         </Game>
+        <Game>
+          <GameId>d5a4d640-6c9c-474a-8080-f6e1184ae39b</GameId>
+          <PlayerHero>Priest</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Brawl</GameMode>
+          <Result>Win</Result>
+          <Turns>12</Turns>
+          <StartTime>2018-04-12T00:30:29.8132527+02:00</StartTime>
+          <EndTime>2018-04-12T00:41:42.5777272+02:00</EndTime>
+          <PlayerName>Ropack#2387</PlayerName>
+          <OpponentName>ciarec#2419</OpponentName>
+          <ReplayFile>Ropack#2387(Priest) vs ciarec#2419(Hunter) 0041-120418.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <HearthstoneBuild>23966</HearthstoneBuild>
+          <PlayerCardbackId>65</PlayerCardbackId>
+          <OpponentCardbackId>44</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2712</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.206</Address>
+            <AuroraPassword>kClpoo</AuroraPassword>
+            <ClientHandle>51964852</ClientHandle>
+            <GameHandle>26214472</GameHandle>
+            <Mission>2712</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>gJFDjf</SpectatorPassword>
+            <Version>614462</Version>
+          </ServerInfo>
+          <GameType>GT_TAVERNBRAWL</GameType>
+          <BrawlSeasonId>148</BrawlSeasonId>
+          <RankedSeasonId>54</RankedSeasonId>
+          <BrawlLosses>2</BrawlLosses>
+          <OpponentHeroCardId>HERO_05</OpponentHeroCardId>
+          <Region>EU</Region>
+          <DeckId>00000000-0000-0000-0000-000000000000</DeckId>
+          <DeckName>none</DeckName>
+          <HsReplay>
+            <UploadId>dY9dD98uA78bz94h5dRPza</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/dY9dD98uA78bz94h5dRPza/</ReplayUrl>
+          </HsReplay>
+          <PlayerCards>
+            <Card Id="LOOT_353" Count="1" />
+            <Card Id="UNG_029" Count="1" />
+            <Card Id="OG_101" Count="1" />
+            <Card Id="FP1_023" Count="1" />
+            <Card Id="OG_335" Count="1" />
+            <Card Id="EX1_345" Count="1" />
+            <Card Id="GVG_075" Count="1" />
+            <Card Id="CFM_790" Count="1" />
+            <Card Id="UNG_818" Count="1" />
+            <Card Id="BRM_027" Count="1" />
+            <Card Id="NEW1_037" Count="1" />
+            <Card Id="OG_338" Count="1" />
+            <Card Id="PRO_001" Count="1" />
+            <Card Id="LOE_076" Count="1" />
+            <Card Id="LOOT_414" Count="1" />
+            <Card Id="EX1_100" Count="1" />
+            <Card Id="GVG_082" Count="1" />
+            <Card Id="EX1_298" Count="1" />
+            <Card Id="GVG_107" Count="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="LOE_076" Count="1" />
+            <Card Id="FP1_011" Count="1" />
+            <Card Id="CFM_790" Count="1" />
+            <Card Id="EX1_557" Count="1" />
+            <Card Id="LOE_020" Count="1" />
+            <Card Id="LOOT_347" Count="1" />
+            <Card Id="GVG_065" Count="1" />
+            <Card Id="ICC_702" Count="1" />
+            <Card Id="LOOT_394" Count="1" />
+            <Card Id="ICC_415" Count="1" />
+            <Card Id="AT_108" Count="1" />
+            <Card Id="DS1_183" Count="1" />
+            <Card Id="GVG_096" Count="1" />
+            <Card Id="GVG_112" Count="1" />
+            <Card Id="LOOT_357" Count="1" />
+            <Card Id="CFM_670" Count="1" />
+          </OpponentCards>
+        </Game>
       </Games>
       <Name>Priest</Name>
     </DeckStats>
@@ -3953,6 +4038,158 @@
             <Card Id="CFM_062" Count="1" />
             <Card Id="CS2_088" Count="1" />
             <Card Id="UNG_950" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>9d754163-0515-4a72-85be-fe934b0dbaff</GameId>
+          <PlayerHero>Rogue</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Brawl</GameMode>
+          <Result>Loss</Result>
+          <Turns>6</Turns>
+          <StartTime>2018-04-12T00:12:29.4303189+02:00</StartTime>
+          <EndTime>2018-04-12T00:18:38.018317+02:00</EndTime>
+          <PlayerName>Ropack#2387</PlayerName>
+          <OpponentName>DylDonut#2611</OpponentName>
+          <ReplayFile>Ropack#2387(Rogue) vs DylDonut#2611(Mage) 0018-120418.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <HearthstoneBuild>23966</HearthstoneBuild>
+          <PlayerCardbackId>65</PlayerCardbackId>
+          <OpponentCardbackId>4</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2712</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.52</Address>
+            <AuroraPassword>kDkfML</AuroraPassword>
+            <ClientHandle>51964852</ClientHandle>
+            <GameHandle>30015534</GameHandle>
+            <Mission>2712</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>EoANHF</SpectatorPassword>
+            <Version>614462</Version>
+          </ServerInfo>
+          <GameType>GT_TAVERNBRAWL</GameType>
+          <BrawlSeasonId>148</BrawlSeasonId>
+          <RankedSeasonId>54</RankedSeasonId>
+          <OpponentHeroCardId>HERO_08</OpponentHeroCardId>
+          <Region>EU</Region>
+          <DeckId>00000000-0000-0000-0000-000000000000</DeckId>
+          <DeckName>none</DeckName>
+          <HsReplay>
+            <UploadId>q448yvTyn2Ngj3cK3pScWP</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/q448yvTyn2Ngj3cK3pScWP/</ReplayUrl>
+          </HsReplay>
+          <PlayerCards>
+            <Card Id="LOOT_503" Count="1" />
+            <Card Id="GVG_022" Count="1" />
+            <Card Id="UNG_856" Count="1" />
+            <Card Id="OG_338" Count="1" />
+            <Card Id="FP1_009" Count="1" />
+            <Card Id="EX1_298" Count="1" />
+            <Card Id="UNG_009" Count="1" />
+            <Card Id="GVG_112" Count="1" />
+            <Card Id="LOOT_375" Count="1" />
+            <Card Id="OG_042" Count="1" />
+            <Card Id="ICC_027" Count="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="GVG_082" Count="1" />
+            <Card Id="AT_133" Count="1" />
+            <Card Id="GVG_075" Count="1" />
+            <Card Id="GVG_003" Count="1" />
+            <Card Id="LOOT_347" Count="1" />
+            <Card Id="UNG_001" Count="1" />
+            <Card Id="GVG_107" Count="1" />
+            <Card Id="LOOT_539" Count="1" />
+            <Card Id="UNG_002" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>a045cba9-a9e7-45f9-9340-1e736c2f2fd6</GameId>
+          <PlayerHero>Rogue</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Brawl</GameMode>
+          <Result>Loss</Result>
+          <Turns>12</Turns>
+          <StartTime>2018-04-12T00:18:54.210845+02:00</StartTime>
+          <EndTime>2018-04-12T00:30:05.2393884+02:00</EndTime>
+          <PlayerName>Ropack#2387</PlayerName>
+          <OpponentName>shikigami#21131</OpponentName>
+          <ReplayFile>Ropack#2387(Rogue) vs shikigami#21131(Priest) 0030-120418.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <HearthstoneBuild>23966</HearthstoneBuild>
+          <PlayerCardbackId>65</PlayerCardbackId>
+          <OpponentCardbackId>8</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2712</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.84</Address>
+            <AuroraPassword>DdfPAg</AuroraPassword>
+            <ClientHandle>51964852</ClientHandle>
+            <GameHandle>17891434</GameHandle>
+            <Mission>2712</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>miOaGa</SpectatorPassword>
+            <Version>614462</Version>
+          </ServerInfo>
+          <GameType>GT_TAVERNBRAWL</GameType>
+          <BrawlSeasonId>148</BrawlSeasonId>
+          <RankedSeasonId>54</RankedSeasonId>
+          <BrawlLosses>1</BrawlLosses>
+          <OpponentHeroCardId>HERO_09</OpponentHeroCardId>
+          <Region>EU</Region>
+          <DeckId>00000000-0000-0000-0000-000000000000</DeckId>
+          <DeckName>none</DeckName>
+          <HsReplay>
+            <UploadId>4fpCUZpr2ngvv5M4PZ5XFj</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/4fpCUZpr2ngvv5M4PZ5XFj/</ReplayUrl>
+          </HsReplay>
+          <PlayerCards>
+            <Card Id="GVG_022" Count="1" />
+            <Card Id="KAR_069" Count="1" />
+            <Card Id="GVG_047" Count="1" />
+            <Card Id="UNG_856" Count="1" />
+            <Card Id="GVG_027" Count="1" />
+            <Card Id="AT_127" Count="1" />
+            <Card Id="ICC_854" Count="1" />
+            <Card Id="LOE_079" Count="1" />
+            <Card Id="GVG_099" Count="1" />
+            <Card Id="CFM_790" Count="1" />
+            <Card Id="AT_112" Count="1" />
+            <Card Id="KAR_114" Count="1" />
+            <Card Id="GVG_115" Count="1" />
+            <Card Id="EX1_100" Count="1" />
+            <Card Id="LOOT_347" Count="1" />
+            <Card Id="GVG_114" Count="1" />
+            <Card Id="LOOT_414" Count="1" />
+            <Card Id="LOOT_357" Count="1" />
+            <Card Id="GVG_107" Count="1" />
+            <Card Id="GVG_096" Count="1" />
+            <Card Id="OG_042" Count="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="OG_101" Count="1" />
+            <Card Id="LOOT_353" Count="1" />
+            <Card Id="LOE_006" Count="1" />
+            <Card Id="AT_131" Count="1" />
+            <Card Id="KAR_114" Count="1" />
+            <Card Id="GVG_107" Count="1" />
+            <Card Id="GVG_119" Count="1" />
+            <Card Id="GVG_090" Count="1" />
+            <Card Id="GVG_112" Count="1" />
+            <Card Id="LOOT_414" Count="1" />
+            <Card Id="ICC_314" Count="1" />
+            <Card Id="BRM_030" Count="1" />
           </OpponentCards>
         </Game>
       </Games>

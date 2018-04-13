@@ -1,0 +1,1287 @@
+1:51:01 PM|Info|Core.Initialize >> HDT: 1.5.12.3484, Operating System: Windows 10 Pro 16299, .NET Framework: 461308
+1:51:01 PM|Info|Updater.StartupUpdateCheck >> Checking for updates
+1:51:01 PM|Info|Updater.GetReleaseUrl >> Downloading releases file
+1:51:01 PM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+1:51:02 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+1:51:04 PM|Info|Updater.SquirrelUpdate >> No new updated available
+1:51:04 PM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+1:51:05 PM|Info|ThemeManager.LoadThemes >> Found theme: classic
+1:51:05 PM|Info|ThemeManager.LoadThemes >> Found theme: dark
+1:51:05 PM|Info|ThemeManager.LoadThemes >> Found theme: frost
+1:51:05 PM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+1:51:05 PM|Info|GameV2.Reset >> -------- Reset ---------
+1:51:07 PM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+1:51:09 PM|Info|MainWindow.SelectDeck >> Switched to deck: Arena 04-03 02:34 (v1.0)
+1:51:09 PM|Info|GameV2.Reset >> -------- Reset ---------
+1:51:11 PM|Info|BackupManager.Run >> Running BackupManager
+1:51:11 PM|Info|BackupManager.Run >> Backup for today already exists
+1:51:11 PM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+1:51:11 PM|Info|PluginWrapper.Load >> Loading Arena Helper
+1:51:11 PM|Info|Plugin.LoadData >> Arena Helper: Using userdata version of tierlist
+1:51:11 PM|Info|PluginWrapper.IsEnabled >> Enabled Arena Helper
+1:51:11 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'E:\Hearthstone\Logs'
+1:51:11 PM|Info|ApiWrapper.UpdateAccountStatus >> Checking account status...
+1:51:11 PM|Info|HsReplayDecks.Load >> Loaded from disk: Count=3463, ServerTS=3/3/2018 11:45:42 PM, Downloaded=3/4/2018 12:46:57 AM Age=13:04:14.7180296
+1:51:11 PM|Info|HsReplayDecks.Load >> Complete: Count=3463, ServerTS=3/3/2018 11:45:42 PM, Downloaded=3/4/2018 12:46:57 AM Age=13:04:14.7190214
+1:51:12 PM|Info|Plugin.CheckPluginUpdate >> https://github.com/rembound/Arena-Helper/releases/download/0.8.7/ArenaHelper.v0.8.7.zip
+1:51:12 PM|Info|ApiWrapper.UpdateAccountStatus >> Id=0, Username=, Status=Anonymous
+13:51:46|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+1:51:46 PM|Info|GameV2.CurrentMode >> LOGIN
+1:51:51 PM|Info|Helper.GetCurrentRegion >> Bnet config not found, can't determine region.
+1:51:52 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+13:51:52|Info|LogWatcherManager.OnLogFileFound >> Rachelle
+1:51:54 PM|Info|Helper.GetCurrentRegion >> Region: EU
+1:51:54 PM|Info|BackupManager.Run >> Running BackupManager
+1:51:54 PM|Info|BackupManager.Run >> Backup for today already exists
+13:52:00|Info|LogWatcherManager.OnLogFileFound >> FullScreenFX
+1:52:16 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+1:52:17 PM|Info|GameV2.CurrentMode >> HUB
+1:52:17 PM|Info|LoadingScreenHandler.CheckMirrorStatus >> Mirror status: Ok
+13:52:26|Info|LogWatcherManager.OnLogFileFound >> Arena
+1:52:29 PM|Info|GameV2.CurrentMode >> DRAFT
+1:52:30 PM|Info|DeckManager.AutoImportArena >> Found new complete HERO_08 arena deck!
+1:52:30 PM|Info|DeckManager.AutoImportArena >> ...but we already have that one. Discarding.
+1:52:30 PM|Info|FullScreenFxHandler.Handle >> Now in queue (3/4/2018 1:52:30 PM)
+1:52:30 PM|Info|FullScreenFxHandler.AutoSelectArenaDeck >> Switching to arena deck deck: Arena 04-03 02:34
+1:52:30 PM|Info|MainWindow.SelectDeck >> Switched to deck: Arena 04-03 02:34 (v1.0)
+1:52:31 PM|Info|GameV2.Reset >> -------- Reset ---------
+1:52:32 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'E:\Hearthstone\Logs'
+13:52:32|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+13:52:32|Info|LogWatcherManager.OnLogFileFound >> Rachelle
+1:52:32 PM|Info|GameV2.CurrentMode >> LOGIN
+1:52:32 PM|Info|GameV2.CurrentMode >> HUB
+1:52:32 PM|Info|GameV2.CurrentMode >> DRAFT
+1:52:33 PM|Info|DeckManager.AutoImportArena >> Found new complete HERO_08 arena deck!
+1:52:33 PM|Info|DeckManager.AutoImportArena >> ...but we already have that one. Discarding.
+1:52:49 PM|Info|GameEventHandler.HandleGameStart >> --- Game start ---
+1:52:49 PM|Info|GameV2.Reset >> -------- Reset ---------
+1:52:49 PM|Warning|Helper.GetRegionByServerIp >> Unknown IP: 37.244.49.229
+1:52:49 PM|Info|TurnTimer.Start >> Starting turn timer
+1:52:49 PM|Warning|TurnTimer.Start >> Waiting for player entity
+13:52:51|Info|LogWatcherManager.OnLogFileFound >> Power
+1:52:51 PM|Info|GameV2.CacheMatchInfo >> Ropack vs Siriusleloup
+1:52:51 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=64
+1:52:51 PM|Info|GameEventHandler.SetOpponentHero >> Opponent=Warlock
+1:52:51 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=66
+1:52:51 PM|Info|GameEventHandler.SetPlayerHero >> Player=Mage
+1:52:54 PM|Info|GameV2.CurrentMode >> GAMEPLAY
+1:52:54 PM|Info|Player.Draw >> [Opponent] id=20, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=1}
+1:52:54 PM|Info|Player.Draw >> [Opponent] id=10, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=1}
+1:52:54 PM|Info|Player.Draw >> [Opponent] id=8, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=1}
+1:52:54 PM|Info|Player.Draw >> [Player] id=36, cardId=GVG_091, cardName=Arcane Nullifier X-21, zonePos=1,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+1:52:54 PM|Info|Player.Draw >> [Player] id=41, cardId=LOOT_170, cardName=Raven Familiar, zonePos=2,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+1:52:54 PM|Info|Player.Draw >> [Player] id=43, cardId=KAR_062, cardName=Netherspite Historian, zonePos=3,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+1:52:54 PM|Info|Player.Draw >> [Player] id=35, cardId=CS2_032, cardName=Flamestrike, zonePos=4,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+1:52:54 PM|Info|Player.CreateInHand >> [Player] id=68, cardId=GAME_005, cardName=The Coin, zonePos=5,Info={turn=0, mark=Coin, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=2}
+1:53:35 PM|Info|Player.Draw >> [Opponent] id=5, cardId=, cardName=, zonePos=0,Info={turn=0, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=1}
+1:53:35 PM|Info|Player.Mulligan >> [Opponent] id=20, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=1}
+1:53:35 PM|Info|Player.Draw >> [Opponent] id=15, cardId=, cardName=, zonePos=0,Info={turn=0, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=1}
+1:53:35 PM|Info|Player.Mulligan >> [Opponent] id=10, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=1}
+1:53:35 PM|Info|Player.Draw >> [Opponent] id=26, cardId=, cardName=, zonePos=0,Info={turn=0, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=1}
+1:53:35 PM|Info|Player.Mulligan >> [Opponent] id=8, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=1}
+1:53:37 PM|Info|Player.Draw >> [Player] id=53, cardId=CFM_066, cardName=Kabal Lackey, zonePos=1,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+1:53:37 PM|Info|Player.Mulligan >> [Player] id=36, cardId=GVG_091, cardName=Arcane Nullifier X-21, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=2}
+1:53:37 PM|Info|Player.Draw >> [Player] id=38, cardId=AT_090, cardName=Mukla's Champion, zonePos=3,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+1:53:37 PM|Info|Player.Mulligan >> [Player] id=43, cardId=KAR_062, cardName=Netherspite Historian, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=2}
+1:53:37 PM|Info|Player.Draw >> [Player] id=60, cardId=LOOT_132, cardName=Dragonslayer, zonePos=4,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+1:53:37 PM|Info|Player.Mulligan >> [Player] id=35, cardId=CS2_032, cardName=Flamestrike, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=2}
+1:53:43 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+1:53:44 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 1 ---
+1:53:44 PM|Info|Player.Draw >> [Opponent] id=17, cardId=, cardName=, zonePos=0,Info={turn=1, originalZone=DECK, hidden=true, OriginalController=1}
+1:53:46 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 1 ---
+1:53:46 PM|Info|Player.Draw >> [Player] id=46, cardId=EX1_274, cardName=Ethereal Arcanist, zonePos=6,Info={turn=1, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+1:53:51 PM|Info|Player.Play >> [Player] id=53, cardId=CFM_066, cardName=Kabal Lackey, zonePos=0,Info={turn=1, originalZone=DECK, OriginalController=2}
+1:53:51 PM|Info|Player.CreateInSetAside >> [Player] id=69, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=1, mark=Created, created=true, hasOutstandingTagChanges=true}
+1:53:51 PM|Info|Player.CreateInPlay >> [Player] id=69, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=1, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+1:53:52 PM|Info|Player.PlayToGraveyard >> [Player] id=69, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=1, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+1:53:52 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 2 ---
+1:53:52 PM|Info|Player.Draw >> [Opponent] id=12, cardId=, cardName=, zonePos=0,Info={turn=2, originalZone=DECK, hidden=true, OriginalController=1}
+1:53:58 PM|Info|Player.Play >> [Opponent] id=15, cardId=EX1_096, cardName=Loot Hoarder, zonePos=1,Info={turn=2, mark=Mulliganed, mulliganed=true, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+1:54:01 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 2 ---
+1:54:01 PM|Info|Player.Draw >> [Player] id=55, cardId=GVG_099, cardName=Bomb Lobber, zonePos=6,Info={turn=2, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+1:54:09 PM|Info|Player.Play >> [Player] id=41, cardId=LOOT_170, cardName=Raven Familiar, zonePos=0,Info={turn=2, originalZone=DECK, OriginalController=2}
+1:54:09 PM|Info|Player.JoustReveal >> [Player] id=70, cardId=OG_090, cardName=Cabalist's Tome, zonePos=0,Info={turn=2, mark=Created, created=true, originalZone=DECK, OriginalController=2}
+1:54:09 PM|Info|Player.JoustReveal >> [Opponent] id=71, cardId=GVG_045, cardName=Imp-losion, zonePos=0,Info={turn=2, mark=Created, created=true, originalZone=DECK, OriginalController=1}
+1:54:09 PM|Info|Player.JoustReveal >> [Player] id=70, cardId=OG_090, cardName=Cabalist's Tome, zonePos=0,Info={turn=2, mark=Created, created=true, originalZone=DECK, OriginalController=2}
+1:54:16 PM|Info|Player.Draw >> [Player] id=34, cardId=OG_090, cardName=Cabalist's Tome, zonePos=6,Info={turn=2, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+1:54:18 PM|Info|Player.PlayToGraveyard >> [Player] id=53, cardId=CFM_066, cardName=Kabal Lackey, zonePos=0,Info={turn=2, originalZone=DECK, OriginalController=2}
+1:54:18 PM|Info|Player.PlayToGraveyard >> [Opponent] id=15, cardId=EX1_096, cardName=Loot Hoarder, zonePos=0,Info={turn=2, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=1}
+1:54:18 PM|Info|Player.Draw >> [Opponent] id=21, cardId=, cardName=, zonePos=0,Info={turn=2, originalZone=DECK, hidden=true, OriginalController=1}
+1:54:20 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 3 ---
+1:54:20 PM|Info|Player.Draw >> [Opponent] id=4, cardId=, cardName=, zonePos=0,Info={turn=3, originalZone=DECK, hidden=true, OriginalController=1}
+1:54:25 PM|Info|Player.Play >> [Opponent] id=5, cardId=OG_113, cardName=Darkshire Councilman, zonePos=1,Info={turn=3, mark=Mulliganed, mulliganed=true, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+1:54:29 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 3 ---
+1:54:29 PM|Info|Player.Draw >> [Player] id=39, cardId=LOOT_535, cardName=Dragoncaller Alanna, zonePos=7,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+1:55:00 PM|Info|Player.Play >> [Player] id=60, cardId=LOOT_132, cardName=Dragonslayer, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=2}
+1:55:03 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 4 ---
+1:55:03 PM|Info|Player.Draw >> [Opponent] id=18, cardId=, cardName=, zonePos=0,Info={turn=4, originalZone=DECK, hidden=true, OriginalController=1}
+1:55:14 PM|Info|Player.Play >> [Opponent] id=4, cardId=GVG_045, cardName=Imp-losion, zonePos=0,Info={turn=4, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+1:55:19 PM|Info|Player.CreateInPlay >> [Opponent] id=72, cardId=GVG_045t, cardName=Imp, zonePos=2,Info={turn=4, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+1:55:19 PM|Info|Player.CreateInSetAside >> [Opponent] id=73, cardId=OG_113e, cardName=Power of the People, zonePos=0,Info={turn=4, mark=Created, created=true, hasOutstandingTagChanges=true}
+1:55:19 PM|Info|Player.CreateInPlay >> [Opponent] id=73, cardId=OG_113e, cardName=Power of the People, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+1:55:21 PM|Info|Player.CreateInPlay >> [Opponent] id=74, cardId=GVG_045t, cardName=Imp, zonePos=3,Info={turn=4, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+1:55:22 PM|Info|Player.CreateInPlay >> [Opponent] id=75, cardId=GVG_045t, cardName=Imp, zonePos=4,Info={turn=4, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+1:55:24 PM|Info|Player.CreateInPlay >> [Opponent] id=76, cardId=GVG_045t, cardName=Imp, zonePos=5,Info={turn=4, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+1:55:26 PM|Info|Player.PlayToGraveyard >> [Opponent] id=4, cardId=GVG_045, cardName=Imp-losion, zonePos=0,Info={turn=4, originalZone=DECK, OriginalController=1}
+1:55:26 PM|Info|Player.PlayToGraveyard >> [Player] id=60, cardId=LOOT_132, cardName=Dragonslayer, zonePos=0,Info={turn=4, originalZone=DECK, OriginalController=2}
+1:55:27 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 4 ---
+1:55:27 PM|Info|Player.Draw >> [Player] id=40, cardId=UNG_948, cardName=Molten Reflection, zonePos=7,Info={turn=4, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+1:55:32 PM|Info|Player.PlayToGraveyard >> [Player] id=41, cardId=LOOT_170, cardName=Raven Familiar, zonePos=0,Info={turn=4, originalZone=DECK, OriginalController=2}
+1:55:33 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:4 from:-1)
+1:55:33 PM|Info|Player.PlayToGraveyard >> [Opponent] id=5, cardId=OG_113, cardName=Darkshire Councilman, zonePos=0,Info={turn=4, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=1}
+1:55:33 PM|Info|Player.RemoveFromPlay >> [Player] id=73, cardId=OG_113e, cardName=Power of the People, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+1:55:35 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 5 ---
+1:55:35 PM|Info|Player.Draw >> [Opponent] id=24, cardId=, cardName=, zonePos=0,Info={turn=5, originalZone=DECK, hidden=true, OriginalController=1}
+1:55:42 PM|Info|Player.Play >> [Opponent] id=12, cardId=FP1_012, cardName=Sludge Belcher, zonePos=1,Info={turn=5, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+1:55:44 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+1:55:50 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 5 ---
+1:55:50 PM|Info|Player.Draw >> [Player] id=58, cardId=GVG_103, cardName=Micro Machine, zonePos=8,Info={turn=5, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+1:56:06 PM|Info|Player.Play >> [Player] id=46, cardId=EX1_274, cardName=Ethereal Arcanist, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=2}
+1:56:08 PM|Info|Player.Play >> [Player] id=68, cardId=GAME_005, cardName=The Coin, zonePos=0,Info={turn=5, mark=Coin, created=true, originalZone=HAND, OriginalController=2}
+1:56:10 PM|Info|Player.PlayToGraveyard >> [Player] id=68, cardId=GAME_005, cardName=The Coin, zonePos=0,Info={turn=5, mark=Coin, created=true, originalZone=HAND, OriginalController=2}
+1:56:10 PM|Info|Player.Play >> [Player] id=58, cardId=GVG_103, cardName=Micro Machine, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=2}
+1:56:10 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 6 ---
+1:56:10 PM|Info|Player.CreateInSetAside >> [Player] id=77, cardId=GVG_076a, cardName=Pistons, zonePos=0,Info={turn=6, mark=Created, created=true, hasOutstandingTagChanges=true}
+1:56:10 PM|Info|Player.CreateInPlay >> [Player] id=77, cardId=GVG_076a, cardName=Pistons, zonePos=0,Info={turn=6, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+1:56:11 PM|Info|Player.Draw >> [Opponent] id=9, cardId=, cardName=, zonePos=0,Info={turn=6, originalZone=DECK, hidden=true, OriginalController=1}
+1:56:39 PM|Info|Player.PlayToGraveyard >> [Player] id=46, cardId=EX1_274, cardName=Ethereal Arcanist, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=2}
+1:56:42 PM|Info|Player.PlayToGraveyard >> [Opponent] id=74, cardId=GVG_045t, cardName=Imp, zonePos=0,Info={turn=6, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+1:56:43 PM|Info|Player.PlayToGraveyard >> [Opponent] id=75, cardId=GVG_045t, cardName=Imp, zonePos=0,Info={turn=6, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+1:56:43 PM|Info|Player.PlayToGraveyard >> [Player] id=58, cardId=GVG_103, cardName=Micro Machine, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=2}
+1:56:43 PM|Info|Player.RemoveFromPlay >> [Player] id=77, cardId=GVG_076a, cardName=Pistons, zonePos=0,Info={turn=6, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+1:56:46 PM|Info|Player.Play >> [Opponent] id=9, cardId=CFM_663, cardName=Kabal Trafficker, zonePos=4,Info={turn=6, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+1:56:49 PM|Info|Player.CreateInHand >> [Opponent] id=78, cardId=, cardName=, zonePos=6,Info={turn=6, mark=Created, created=true, originalZone=HAND}
+1:56:52 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 6 ---
+1:56:52 PM|Info|Player.Draw >> [Player] id=37, cardId=EX1_612, cardName=Kirin Tor Mage, zonePos=6,Info={turn=6, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+1:57:36 PM|Info|Player.Play >> [Player] id=34, cardId=OG_090, cardName=Cabalist's Tome, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=2}
+1:57:36 PM|Info|Player.CreateInHand >> [Player] id=79, cardId=CS2_024, cardName=Frostbolt, zonePos=6,Info={turn=6, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=2}
+1:57:36 PM|Info|Player.CreateInHand >> [Player] id=80, cardId=GVG_001, cardName=Flamecannon, zonePos=7,Info={turn=6, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=2}
+1:57:36 PM|Info|Player.CreateInHand >> [Player] id=81, cardId=LOOT_106, cardName=Deck of Wonders, zonePos=8,Info={turn=6, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=2}
+1:57:38 PM|Info|Player.PlayToGraveyard >> [Player] id=34, cardId=OG_090, cardName=Cabalist's Tome, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=2}
+1:57:40 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 7 ---
+1:57:40 PM|Info|Player.Draw >> [Opponent] id=25, cardId=, cardName=, zonePos=0,Info={turn=7, originalZone=DECK, hidden=true, OriginalController=1}
+1:57:57 PM|Info|Player.Play >> [Opponent] id=25, cardId=LOE_047, cardName=Tomb Spider, zonePos=3,Info={turn=7, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+1:57:58 PM|Info|Player.CreateInSetAside >> [Opponent] id=82, cardId=, cardName=, zonePos=0,Info={turn=7, mark=Created, created=true, hasOutstandingTagChanges=true}
+1:57:58 PM|Info|Player.CreateInSetAside >> [Opponent] id=83, cardId=, cardName=, zonePos=0,Info={turn=7, mark=Created, created=true, hasOutstandingTagChanges=true}
+1:58:03 PM|Info|Player.CreateInSetAside >> [Opponent] id=84, cardId=, cardName=, zonePos=0,Info={turn=7, mark=Created, created=true, hasOutstandingTagChanges=true}
+1:58:03 PM|Info|Player.CreateInHand >> [Opponent] id=83, cardId=, cardName=, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+1:58:06 PM|Info|Player.CreateInHand >> [Opponent] id=85, cardId=, cardName=, zonePos=8,Info={turn=7, mark=Created, created=true, originalZone=HAND}
+1:58:09 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 7 ---
+1:58:09 PM|Info|Player.Draw >> [Player] id=61, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=9,Info={turn=7, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+1:58:33 PM|Info|Player.Play >> [Player] id=80, cardId=GVG_001, cardName=Flamecannon, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+1:58:34 PM|Info|Player.PlayToGraveyard >> [Player] id=80, cardId=GVG_001, cardName=Flamecannon, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+1:58:34 PM|Info|Player.PlayToGraveyard >> [Opponent] id=12, cardId=FP1_012, cardName=Sludge Belcher, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=1}
+1:58:34 PM|Info|Player.CreateInPlay >> [Opponent] id=86, cardId=FP1_012t, cardName=Slime, zonePos=1,Info={turn=7, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+1:58:42 PM|Info|Player.Play >> [Player] id=79, cardId=CS2_024, cardName=Frostbolt, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+1:58:43 PM|Info|Player.PlayToGraveyard >> [Player] id=79, cardId=CS2_024, cardName=Frostbolt, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+1:58:48 PM|Info|Player.Play >> [Player] id=37, cardId=EX1_612, cardName=Kirin Tor Mage, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=2}
+1:58:48 PM|Info|Player.CreateInSetAside >> [Player] id=87, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=7, mark=Created, created=true, hasOutstandingTagChanges=true}
+1:58:48 PM|Info|Player.CreateInPlay >> [Player] id=87, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+1:58:49 PM|Info|Player.PlayToGraveyard >> [Player] id=87, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+1:58:49 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 8 ---
+1:58:49 PM|Info|Player.Draw >> [Opponent] id=29, cardId=, cardName=, zonePos=0,Info={turn=8, originalZone=DECK, hidden=true, OriginalController=1}
+1:59:18 PM|Info|Player.Play >> [Opponent] id=18, cardId=CFM_608, cardName=Blastcrystal Potion, zonePos=0,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+1:59:21 PM|Info|Player.PlayToGraveyard >> [Opponent] id=18, cardId=CFM_608, cardName=Blastcrystal Potion, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=1}
+1:59:21 PM|Info|Player.PlayToGraveyard >> [Player] id=37, cardId=EX1_612, cardName=Kirin Tor Mage, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=2}
+1:59:29 PM|Info|Player.Play >> [Opponent] id=21, cardId=OG_241, cardName=Possessed Villager, zonePos=3,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+1:59:33 PM|Info|Player.CreateInHand >> [Opponent] id=88, cardId=, cardName=, zonePos=8,Info={turn=8, mark=Created, created=true, originalZone=HAND}
+1:59:36 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 8 ---
+1:59:36 PM|Info|Player.CreateInSetAside >> [Player] id=89, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=8, mark=Created, created=true, hasOutstandingTagChanges=true}
+1:59:36 PM|Info|Player.CreateInPlay >> [Player] id=89, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=8, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+1:59:36 PM|Info|Player.Draw >> [Player] id=36, cardId=GVG_091, cardName=Arcane Nullifier X-21, zonePos=7,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+1:59:51 PM|Info|Player.Play >> [Player] id=61, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=2, OriginalCardId=LOOT_104}
+1:59:51 PM|Info|Player.PlayToGraveyard >> [Player] id=89, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=8, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+1:59:51 PM|Info|Player.PlayToGraveyard >> [Player] id=61, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=2, OriginalCardId=LOOT_104}
+1:59:51 PM|Info|Player.PlayToGraveyard >> [Opponent] id=72, cardId=GVG_045t, cardName=Imp, zonePos=0,Info={turn=8, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+1:59:51 PM|Info|Player.PlayToGraveyard >> [Opponent] id=76, cardId=GVG_045t, cardName=Imp, zonePos=0,Info={turn=8, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+1:59:51 PM|Info|Player.PlayToGraveyard >> [Opponent] id=21, cardId=OG_241, cardName=Possessed Villager, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=1}
+1:59:51 PM|Info|Player.CreateInPlay >> [Opponent] id=90, cardId=OG_241a, cardName=Shadowbeast, zonePos=2,Info={turn=8, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:00:01 PM|Info|Player.Play >> [Player] id=36, cardId=GVG_091, cardName=Arcane Nullifier X-21, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=2}
+2:00:05 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:00:07 PM|Info|GameEventHandler.HandleLoss >> --- Game was lost! ---
+2:00:07 PM|Info|TurnTimer.Stop >> Stopping turn timer
+2:00:07 PM|Info|GameEventHandler.HandleGameEnd >> Game ended...
+2:00:07 PM|Info|GameEventHandler.HandleGameEnd >> Format: 
+2:00:07 PM|Info|GameStats.GameEnd >> Current Game ended after 8 turns
+2:00:07 PM|Info|GameEventHandler.HandleGameEnd >> Assigned current game to deck: Arena 04-03 02:34
+2:00:07 PM|Info|GameEventHandler.LogIsComplete >> GOLD_REWARD_STATE not found
+2:00:08 PM|Info|LogUploader.Upload >> Uploading 1021758997...
+2:00:08 PM|Info|LogUploader.TryUpload >> Creating upload request...
+2:00:08 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:00:08 PM|Info|LogUploader.TryUpload >> Upload Id: ixsiappyKhb5zy73SxShAC
+2:00:09 PM|Info|LogUploader.TryUpload >> Upload complete
+2:00:09 PM|Info|LogUploader.Upload >> 1021758997 complete. Success=True
+2:00:15 PM|Info|GameV2.CurrentMode >> DRAFT
+2:00:15 PM|Info|GameEventHandler.HandleInMenu >> Game is now in menu.
+2:00:15 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:00:15 PM|Info|GameEventHandler.SaveAndUpdateStats >> Saving DeckStats
+2:00:16 PM|Info|DeckManager.AutoImportArena >> Found new complete HERO_08 arena deck!
+2:00:16 PM|Info|DeckManager.AutoImportArena >> ...but we already have that one. Discarding.
+2:00:17 PM|Info|FullScreenFxHandler.Handle >> Now in queue (3/4/2018 2:00:17 PM)
+2:00:17 PM|Info|FullScreenFxHandler.AutoSelectArenaDeck >> Switching to arena deck deck: Arena 04-03 02:34
+2:00:17 PM|Info|MainWindow.SelectDeck >> Switched to deck: Arena 04-03 02:34 (v1.0)
+2:00:18 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:00:19 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'E:\Hearthstone\Logs'
+14:00:19|Info|LogWatcherManager.OnLogFileFound >> Rachelle
+14:00:19|Info|LogWatcherManager.OnLogFileFound >> Power
+14:00:19|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+2:00:19 PM|Info|GameV2.CurrentMode >> DRAFT
+2:00:19 PM|Info|DeckManager.AutoImportArena >> Found new complete HERO_08 arena deck!
+2:00:19 PM|Info|DeckManager.AutoImportArena >> ...but we already have that one. Discarding.
+2:01:21 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:01:32 PM|Info|GameV2.CurrentMode >> FATAL_ERROR
+2:01:35 PM|Info|Core.UpdateOverlayAsync >> Exited game
+2:01:35 PM|Info|Core.UpdateOverlayAsync >> Reset region
+2:01:35 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:01:36 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'E:\Hearthstone\Logs'
+14:01:47|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+2:01:47 PM|Info|GameV2.CurrentMode >> LOGIN
+2:01:49 PM|Info|Helper.GetCurrentRegion >> Region: EU
+2:01:49 PM|Info|BackupManager.Run >> Running BackupManager
+2:01:49 PM|Info|BackupManager.Run >> Backup for today already exists
+2:01:49 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+14:01:49|Info|LogWatcherManager.OnLogFileFound >> Rachelle
+2:01:58 PM|Info|GameV2.CurrentMode >> HUB
+2:02:00 PM|Info|GameV2.CurrentMode >> DRAFT
+2:02:01 PM|Info|DeckManager.AutoImportArena >> Found new complete HERO_08 arena deck!
+2:02:01 PM|Info|DeckManager.AutoImportArena >> ...but we already have that one. Discarding.
+2:02:04 PM|Info|GameEventHandler.HandleGameStart >> --- Game start ---
+2:02:04 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:02:04 PM|Warning|Helper.GetRegionByServerIp >> Unknown IP: 37.244.49.82
+2:02:04 PM|Info|TurnTimer.Start >> Starting turn timer
+2:02:04 PM|Warning|TurnTimer.Start >> Waiting for player entity
+14:02:04|Info|LogWatcherManager.OnLogFileFound >> Power
+2:02:05 PM|Info|GameV2.CacheMatchInfo >> Ropack vs Imix
+2:02:06 PM|Info|GameV2.CurrentMode >> GAMEPLAY
+2:02:07 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=64
+2:02:07 PM|Info|GameEventHandler.SetOpponentHero >> Opponent=Priest
+2:02:07 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=66
+2:02:07 PM|Info|GameEventHandler.SetPlayerHero >> Player=Mage
+2:02:07 PM|Info|Player.Draw >> [Opponent] id=4, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=1}
+2:02:07 PM|Info|Player.Draw >> [Opponent] id=17, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=1}
+2:02:07 PM|Info|Player.Draw >> [Opponent] id=5, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=1}
+2:02:07 PM|Info|Player.Draw >> [Player] id=55, cardId=LOOT_132, cardName=Dragonslayer, zonePos=1,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:02:07 PM|Info|Player.Draw >> [Player] id=47, cardId=OG_247, cardName=Twisted Worgen, zonePos=2,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:02:07 PM|Info|Player.Draw >> [Player] id=52, cardId=CS2_117, cardName=Earthen Ring Farseer, zonePos=3,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:02:07 PM|Info|Player.Draw >> [Player] id=51, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=4,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:02:07 PM|Info|Player.CreateInHand >> [Player] id=68, cardId=GAME_005, cardName=The Coin, zonePos=5,Info={turn=0, mark=Coin, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=2}
+2:02:43 PM|Info|Player.Draw >> [Opponent] id=30, cardId=, cardName=, zonePos=0,Info={turn=0, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=1}
+2:02:43 PM|Info|Player.Mulligan >> [Opponent] id=4, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=1}
+2:02:43 PM|Info|Player.Draw >> [Opponent] id=10, cardId=, cardName=, zonePos=0,Info={turn=0, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=1}
+2:02:43 PM|Info|Player.Mulligan >> [Opponent] id=17, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=1}
+2:02:43 PM|Info|Player.Draw >> [Opponent] id=21, cardId=, cardName=, zonePos=0,Info={turn=0, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=1}
+2:02:43 PM|Info|Player.Mulligan >> [Opponent] id=5, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=1}
+2:02:44 PM|Info|Player.Draw >> [Player] id=53, cardId=CS2_028, cardName=Blizzard, zonePos=3,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:02:44 PM|Info|Player.Mulligan >> [Player] id=52, cardId=CS2_117, cardName=Earthen Ring Farseer, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=2}
+2:02:51 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 1 ---
+2:02:51 PM|Info|Player.Draw >> [Opponent] id=13, cardId=, cardName=, zonePos=0,Info={turn=1, originalZone=DECK, hidden=true, OriginalController=1}
+2:02:52 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 1 ---
+2:02:52 PM|Info|Player.CreateInSetAside >> [Player] id=69, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=1, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:02:52 PM|Info|Player.CreateInPlay >> [Player] id=69, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=1, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:02:52 PM|Info|Player.Draw >> [Player] id=52, cardId=CS2_117, cardName=Earthen Ring Farseer, zonePos=6,Info={turn=1, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:03:00 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 2 ---
+2:03:00 PM|Info|Player.Draw >> [Opponent] id=31, cardId=, cardName=, zonePos=0,Info={turn=2, originalZone=DECK, hidden=true, OriginalController=1}
+2:03:05 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 2 ---
+2:03:05 PM|Info|Player.Draw >> [Player] id=36, cardId=UNG_948, cardName=Molten Reflection, zonePos=7,Info={turn=2, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:03:10 PM|Info|Player.Play >> [Player] id=47, cardId=OG_247, cardName=Twisted Worgen, zonePos=0,Info={turn=2, originalZone=DECK, OriginalController=2}
+2:03:10 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 3 ---
+2:03:10 PM|Info|Player.Draw >> [Opponent] id=8, cardId=, cardName=, zonePos=0,Info={turn=3, originalZone=DECK, hidden=true, OriginalController=1}
+2:03:19 PM|Info|Player.Play >> [Opponent] id=8, cardId=CS2_235, cardName=Northshire Cleric, zonePos=1,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:03:23 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 3 ---
+2:03:23 PM|Info|Player.Draw >> [Player] id=54, cardId=AT_133, cardName=Gadgetzan Jouster, zonePos=7,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:03:37 PM|Info|Player.Play >> [Player] id=54, cardId=AT_133, cardName=Gadgetzan Jouster, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=2}
+2:03:37 PM|Info|Player.JoustReveal >> [Player] id=70, cardId=UNG_001, cardName=Pterrordax Hatchling, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=DECK, OriginalController=2}
+2:03:37 PM|Info|Player.JoustReveal >> [Opponent] id=71, cardId=EX1_412, cardName=Raging Worgen, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=DECK, OriginalController=1}
+2:03:37 PM|Info|Player.JoustReveal >> [Player] id=70, cardId=UNG_001, cardName=Pterrordax Hatchling, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=DECK, OriginalController=2}
+2:03:44 PM|Info|Player.PlayToGraveyard >> [Player] id=47, cardId=OG_247, cardName=Twisted Worgen, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=2}
+2:03:44 PM|Info|Player.PlayToGraveyard >> [Opponent] id=8, cardId=CS2_235, cardName=Northshire Cleric, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=1}
+2:03:44 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:3 from:-1)
+2:03:45 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 4 ---
+2:03:45 PM|Info|Player.Draw >> [Opponent] id=22, cardId=, cardName=, zonePos=0,Info={turn=4, originalZone=DECK, hidden=true, OriginalController=1}
+2:03:55 PM|Info|Player.Play >> [Opponent] id=31, cardId=KAR_710, cardName=Arcanosmith, zonePos=1,Info={turn=4, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:03:57 PM|Info|Player.CreateInPlay >> [Opponent] id=72, cardId=KAR_710m, cardName=Animated Shield, zonePos=2,Info={turn=4, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:04:00 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 4 ---
+2:04:00 PM|Info|Player.Draw >> [Player] id=44, cardId=OG_087, cardName=Servant of Yogg-Saron, zonePos=7,Info={turn=4, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:04:08 PM|Info|Player.Play >> [Player] id=68, cardId=GAME_005, cardName=The Coin, zonePos=0,Info={turn=4, mark=Coin, created=true, originalZone=HAND, OriginalController=2}
+2:04:09 PM|Info|Player.PlayToGraveyard >> [Player] id=68, cardId=GAME_005, cardName=The Coin, zonePos=0,Info={turn=4, mark=Coin, created=true, originalZone=HAND, OriginalController=2}
+2:04:09 PM|Info|Player.Play >> [Player] id=44, cardId=OG_087, cardName=Servant of Yogg-Saron, zonePos=0,Info={turn=4, originalZone=DECK, OriginalController=2}
+2:04:09 PM|Info|Player.CreateInPlay >> [Player] id=73, cardId=LOOT_080, cardName=Lesser Emerald Spellstone, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true}
+2:04:09 PM|Info|Player.CreateInSetAside >> [Player] id=73, cardId=LOOT_080, cardName=Lesser Emerald Spellstone, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:04:12 PM|Info|Player.CreateInPlay >> [Player] id=74, cardId=LOOT_077t, cardName=Wolf, zonePos=3,Info={turn=4, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:04:12 PM|Info|Player.CreateInPlay >> [Player] id=75, cardId=LOOT_077t, cardName=Wolf, zonePos=4,Info={turn=4, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:04:13 PM|Info|Player.PlayToGraveyard >> [Player] id=73, cardId=LOOT_080, cardName=Lesser Emerald Spellstone, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:04:15 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 5 ---
+2:04:15 PM|Info|Player.Draw >> [Opponent] id=7, cardId=, cardName=, zonePos=0,Info={turn=5, originalZone=DECK, hidden=true, OriginalController=1}
+2:05:06 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:05:14 PM|Info|Player.Play >> [Opponent] id=21, cardId=GVG_010, cardName=Velen's Chosen, zonePos=0,Info={turn=5, mark=Mulliganed, mulliganed=true, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:05:16 PM|Info|Player.CreateInSetAside >> [Opponent] id=76, cardId=GVG_010b, cardName=Velen's Chosen, zonePos=0,Info={turn=5, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:05:16 PM|Info|Player.CreateInPlay >> [Opponent] id=76, cardId=GVG_010b, cardName=Velen's Chosen, zonePos=0,Info={turn=5, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:05:18 PM|Info|Player.PlayToGraveyard >> [Opponent] id=21, cardId=GVG_010, cardName=Velen's Chosen, zonePos=0,Info={turn=5, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=1}
+2:05:22 PM|Info|Player.PlayToGraveyard >> [Player] id=44, cardId=OG_087, cardName=Servant of Yogg-Saron, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=2}
+2:05:23 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS1h_001 turn:5 from:-1)
+2:05:26 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 5 ---
+2:05:26 PM|Info|Player.Draw >> [Player] id=42, cardId=CS2_028, cardName=Blizzard, zonePos=6,Info={turn=5, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:05:50 PM|Info|Player.PlayToGraveyard >> [Opponent] id=72, cardId=KAR_710m, cardName=Animated Shield, zonePos=0,Info={turn=5, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:05:52 PM|Info|Player.PlayToGraveyard >> [Opponent] id=31, cardId=KAR_710, cardName=Arcanosmith, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=1}
+2:05:52 PM|Info|Player.RemoveFromPlay >> [Player] id=76, cardId=GVG_010b, cardName=Velen's Chosen, zonePos=0,Info={turn=5, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:05:52 PM|Info|Player.PlayToGraveyard >> [Player] id=74, cardId=LOOT_077t, cardName=Wolf, zonePos=0,Info={turn=5, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:05:52 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:5 from:-1)
+2:05:54 PM|Info|Player.Play >> [Player] id=55, cardId=LOOT_132, cardName=Dragonslayer, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=2}
+2:05:55 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 6 ---
+2:05:55 PM|Info|Player.Draw >> [Opponent] id=15, cardId=, cardName=, zonePos=0,Info={turn=6, originalZone=DECK, hidden=true, OriginalController=1}
+2:06:22 PM|Info|Player.Play >> [Opponent] id=13, cardId=GVG_008, cardName=Lightbomb, zonePos=0,Info={turn=6, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:06:24 PM|Info|Player.PlayToGraveyard >> [Opponent] id=13, cardId=GVG_008, cardName=Lightbomb, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=1}
+2:06:24 PM|Info|Player.PlayToGraveyard >> [Player] id=75, cardId=LOOT_077t, cardName=Wolf, zonePos=0,Info={turn=6, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:06:24 PM|Info|Player.PlayToGraveyard >> [Player] id=55, cardId=LOOT_132, cardName=Dragonslayer, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=2}
+2:06:26 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 6 ---
+2:06:27 PM|Info|Player.Draw >> [Player] id=45, cardId=KAR_062, cardName=Netherspite Historian, zonePos=6,Info={turn=6, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:06:50 PM|Info|Player.Play >> [Player] id=45, cardId=KAR_062, cardName=Netherspite Historian, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=2}
+2:06:50 PM|Info|Player.Play >> [Player] id=52, cardId=CS2_117, cardName=Earthen Ring Farseer, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=2}
+2:06:52 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 7 ---
+2:06:52 PM|Info|Player.Draw >> [Opponent] id=19, cardId=, cardName=, zonePos=0,Info={turn=7, originalZone=DECK, hidden=true, OriginalController=1}
+2:07:09 PM|Info|Player.Play >> [Opponent] id=30, cardId=AT_113, cardName=Recruiter, zonePos=1,Info={turn=7, mark=Mulliganed, mulliganed=true, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:07:14 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS1h_001 turn:7 from:-1)
+2:07:16 PM|Info|Player.CreateInHand >> [Opponent] id=77, cardId=, cardName=, zonePos=6,Info={turn=7, mark=Created, created=true, originalZone=HAND}
+2:07:17 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 7 ---
+2:07:17 PM|Info|Player.Draw >> [Player] id=43, cardId=GVG_099, cardName=Bomb Lobber, zonePos=5,Info={turn=7, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:07:22 PM|Info|Player.Play >> [Player] id=43, cardId=GVG_099, cardName=Bomb Lobber, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=2}
+2:07:26 PM|Info|Player.PlayToGraveyard >> [Opponent] id=30, cardId=AT_113, cardName=Recruiter, zonePos=0,Info={turn=7, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=1}
+2:07:29 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:7 from:-1)
+2:07:30 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 8 ---
+2:07:30 PM|Info|Player.Draw >> [Opponent] id=24, cardId=, cardName=, zonePos=0,Info={turn=8, originalZone=DECK, hidden=true, OriginalController=1}
+2:07:49 PM|Info|Player.Play >> [Opponent] id=24, cardId=EX1_412, cardName=Raging Worgen, zonePos=1,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:07:52 PM|Info|Player.Play >> [Opponent] id=77, cardId=CS2_152, cardName=Squire, zonePos=2,Info={turn=8, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=1}
+2:07:55 PM|Info|Player.Play >> [Opponent] id=7, cardId=LOOT_125, cardName=Stoneskin Basilisk, zonePos=3,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:07:58 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 8 ---
+2:07:58 PM|Info|Player.Draw >> [Player] id=35, cardId=EX1_274, cardName=Ethereal Arcanist, zonePos=5,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:08:17 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:8 from:-1)
+2:08:19 PM|Info|Player.Play >> [Player] id=42, cardId=CS2_028, cardName=Blizzard, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=2}
+2:08:20 PM|Info|Player.PlayToGraveyard >> [Player] id=42, cardId=CS2_028, cardName=Blizzard, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=2}
+2:08:20 PM|Info|Player.CreateInSetAside >> [Opponent] id=78, cardId=EX1_412e, cardName=Enraged, zonePos=0,Info={turn=8, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:08:20 PM|Info|Player.CreateInPlay >> [Opponent] id=78, cardId=EX1_412e, cardName=Enraged, zonePos=0,Info={turn=8, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:08:21 PM|Info|Player.PlayToGraveyard >> [Opponent] id=77, cardId=CS2_152, cardName=Squire, zonePos=0,Info={turn=8, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:08:21 PM|Info|Player.PlayToGraveyard >> [Opponent] id=7, cardId=LOOT_125, cardName=Stoneskin Basilisk, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=1}
+2:08:23 PM|Info|Player.PlayToGraveyard >> [Player] id=54, cardId=AT_133, cardName=Gadgetzan Jouster, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=2}
+2:08:23 PM|Info|Player.PlayToGraveyard >> [Opponent] id=24, cardId=EX1_412, cardName=Raging Worgen, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=1}
+2:08:23 PM|Info|Player.RemoveFromPlay >> [Player] id=78, cardId=EX1_412e, cardName=Enraged, zonePos=0,Info={turn=8, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:08:23 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=78): 5 -> 4
+2:08:26 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 9 ---
+2:08:26 PM|Info|Player.Draw >> [Opponent] id=4, cardId=, cardName=, zonePos=0,Info={turn=9, originalZone=DECK, hidden=true, OriginalController=1}
+2:08:50 PM|Info|Player.Play >> [Opponent] id=4, cardId=EX1_350, cardName=Prophet Velen, zonePos=1,Info={turn=9, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:08:50 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:08:56 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS1h_001 turn:9 from:-1)
+2:08:59 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 9 ---
+2:08:59 PM|Info|Player.Draw >> [Player] id=34, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=5,Info={turn=9, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:09:16 PM|Info|Player.Play >> [Player] id=35, cardId=EX1_274, cardName=Ethereal Arcanist, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=2}
+2:09:16 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:9 from:-1)
+2:09:19 PM|Info|Player.PlayToGraveyard >> [Player] id=43, cardId=GVG_099, cardName=Bomb Lobber, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=2}
+2:09:20 PM|Info|Player.PlayToGraveyard >> [Player] id=52, cardId=CS2_117, cardName=Earthen Ring Farseer, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=2}
+2:09:20 PM|Info|Player.PlayToGraveyard >> [Opponent] id=4, cardId=EX1_350, cardName=Prophet Velen, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=1}
+2:09:21 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 10 ---
+2:09:21 PM|Info|Player.Draw >> [Opponent] id=11, cardId=, cardName=, zonePos=0,Info={turn=10, originalZone=DECK, hidden=true, OriginalController=1}
+2:09:39 PM|Info|Player.Play >> [Opponent] id=11, cardId=LOOT_410, cardName=Duskbreaker, zonePos=1,Info={turn=10, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:09:41 PM|Info|Player.PlayToGraveyard >> [Player] id=45, cardId=KAR_062, cardName=Netherspite Historian, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=2}
+2:09:41 PM|Info|Player.PlayToGraveyard >> [Player] id=35, cardId=EX1_274, cardName=Ethereal Arcanist, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=2}
+2:09:44 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS1h_001 turn:10 from:-1)
+2:09:47 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 10 ---
+2:09:48 PM|Info|Player.CreateInSetAside >> [Player] id=79, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=10, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:09:48 PM|Info|Player.CreateInPlay >> [Player] id=79, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=10, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:09:48 PM|Info|Player.Draw >> [Player] id=49, cardId=LOOT_170, cardName=Raven Familiar, zonePos=5,Info={turn=10, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:09:53 PM|Info|Player.Play >> [Player] id=49, cardId=LOOT_170, cardName=Raven Familiar, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=2}
+2:09:53 PM|Info|Player.JoustReveal >> [Player] id=80, cardId=CS2_032, cardName=Flamestrike, zonePos=0,Info={turn=10, mark=Created, created=true, originalZone=DECK, OriginalController=2}
+2:09:53 PM|Info|Player.JoustReveal >> [Opponent] id=81, cardId=EX1_332, cardName=Silence, zonePos=0,Info={turn=10, mark=Created, created=true, originalZone=DECK, OriginalController=1}
+2:09:53 PM|Info|Player.JoustReveal >> [Player] id=80, cardId=CS2_032, cardName=Flamestrike, zonePos=0,Info={turn=10, mark=Created, created=true, originalZone=DECK, OriginalController=2}
+2:10:00 PM|Info|Player.Draw >> [Player] id=38, cardId=CS2_032, cardName=Flamestrike, zonePos=5,Info={turn=10, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:10:03 PM|Info|Player.Play >> [Player] id=34, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=2, OriginalCardId=LOOT_104}
+2:10:03 PM|Info|Player.PlayToGraveyard >> [Player] id=79, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=10, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:10:03 PM|Info|Player.Draw >> [Player] id=41, cardId=GVG_091, cardName=Arcane Nullifier X-21, zonePos=5,Info={turn=10, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:10:03 PM|Info|Player.Draw >> [Player] id=61, cardId=CFM_760, cardName=Kabal Crystal Runner, zonePos=6,Info={turn=10, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:10:04 PM|Info|Player.PlayToGraveyard >> [Player] id=34, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=2, OriginalCardId=LOOT_104}
+2:10:12 PM|Info|Player.Play >> [Player] id=41, cardId=GVG_091, cardName=Arcane Nullifier X-21, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=2}
+2:10:14 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 11 ---
+2:10:14 PM|Info|Player.Draw >> [Opponent] id=17, cardId=, cardName=, zonePos=0,Info={turn=11, originalZone=DECK, hidden=true, OriginalController=1}
+2:10:23 PM|Info|Player.Play >> [Opponent] id=15, cardId=CFM_603, cardName=Potion of Madness, zonePos=0,Info={turn=11, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:10:24 PM|Info|Player.StolenByOpponent >> [Player] id=49, cardId=LOOT_170, cardName=Raven Familiar, zonePos=1,Info={turn=11, mark=Created, stolen=true, originalZone=DECK, OriginalController=2}
+2:10:24 PM|Info|Player.StolenFromOpponent >> [Opponent] id=49, cardId=LOOT_170, cardName=Raven Familiar, zonePos=1,Info={turn=11, mark=Created, stolen=true, originalZone=DECK, OriginalController=2}
+2:10:24 PM|Info|Player.CreateInSetAside >> [Opponent] id=82, cardId=CFM_603e, cardName=Madness Potion, zonePos=0,Info={turn=11, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:10:24 PM|Info|Player.CreateInPlay >> [Opponent] id=82, cardId=CFM_603e, cardName=Madness Potion, zonePos=0,Info={turn=11, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:10:26 PM|Info|Player.PlayToGraveyard >> [Opponent] id=15, cardId=CFM_603, cardName=Potion of Madness, zonePos=0,Info={turn=11, originalZone=DECK, OriginalController=1}
+2:10:29 PM|Info|Player.PlayToGraveyard >> [Opponent] id=49, cardId=LOOT_170, cardName=Raven Familiar, zonePos=0,Info={turn=11, mark=Created, stolen=true, originalZone=DECK, OriginalController=2}
+2:10:29 PM|Info|Player.RemoveFromPlay >> [Player] id=82, cardId=CFM_603e, cardName=Madness Potion, zonePos=0,Info={turn=11, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:10:31 PM|Info|Player.PlayToGraveyard >> [Player] id=41, cardId=GVG_091, cardName=Arcane Nullifier X-21, zonePos=0,Info={turn=11, originalZone=DECK, OriginalController=2}
+2:10:33 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS1h_001 turn:11 from:-1)
+2:10:36 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 11 ---
+2:10:36 PM|Info|Player.Draw >> [Player] id=39, cardId=CFM_066, cardName=Kabal Lackey, zonePos=6,Info={turn=11, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:11:02 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+2:11:03 PM|Info|Updater.SquirrelUpdate >> No new updated available
+2:11:04 PM|Info|Player.Play >> [Player] id=61, cardId=CFM_760, cardName=Kabal Crystal Runner, zonePos=0,Info={turn=11, originalZone=DECK, OriginalController=2}
+2:11:12 PM|Info|Player.Play >> [Player] id=36, cardId=UNG_948, cardName=Molten Reflection, zonePos=0,Info={turn=11, originalZone=DECK, OriginalController=2}
+2:11:12 PM|Info|Player.CreateInPlay >> [Player] id=83, cardId=CFM_760, cardName=Kabal Crystal Runner, zonePos=2,Info={turn=11, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:11:13 PM|Info|Player.PlayToGraveyard >> [Player] id=36, cardId=UNG_948, cardName=Molten Reflection, zonePos=0,Info={turn=11, originalZone=DECK, OriginalController=2}
+2:11:15 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 12 ---
+2:11:15 PM|Info|Player.Draw >> [Opponent] id=14, cardId=, cardName=, zonePos=0,Info={turn=12, originalZone=DECK, hidden=true, OriginalController=1}
+2:11:48 PM|Info|Player.Play >> [Opponent] id=10, cardId=ICC_849, cardName=Embrace Darkness, zonePos=0,Info={turn=12, mark=Mulliganed, mulliganed=true, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:11:49 PM|Info|Player.CreateInSetAside >> [Opponent] id=84, cardId=ICC_849e, cardName=Embraced, zonePos=0,Info={turn=12, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:11:49 PM|Info|Player.CreateInPlay >> [Opponent] id=84, cardId=ICC_849e, cardName=Embraced, zonePos=0,Info={turn=12, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:11:51 PM|Info|Player.PlayToGraveyard >> [Opponent] id=10, cardId=ICC_849, cardName=Embrace Darkness, zonePos=0,Info={turn=12, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=1}
+2:11:58 PM|Info|Player.PlayToGraveyard >> [Opponent] id=11, cardId=LOOT_410, cardName=Duskbreaker, zonePos=0,Info={turn=12, originalZone=DECK, OriginalController=1}
+2:12:00 PM|Info|Player.Play >> [Opponent] id=14, cardId=LOOT_130, cardName=Arcane Tyrant, zonePos=1,Info={turn=12, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:12:02 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:12:04 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS1h_001 turn:12 from:-1)
+2:12:07 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 12 ---
+2:12:07 PM|Info|Player.Draw >> [Player] id=59, cardId=LOOT_103, cardName=Lesser Ruby Spellstone, zonePos=5,Info={turn=12, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:12:24 PM|Info|Player.PlayToGraveyard >> [Opponent] id=14, cardId=LOOT_130, cardName=Arcane Tyrant, zonePos=0,Info={turn=12, originalZone=DECK, OriginalController=1}
+2:12:24 PM|Info|Player.Play >> [Player] id=51, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=0,Info={turn=12, originalZone=DECK, OriginalController=2, OriginalCardId=LOOT_104}
+2:12:24 PM|Info|Player.PlayToGraveyard >> [Player] id=69, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=12, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:12:24 PM|Info|Player.CreateInPlay >> [Player] id=85, cardId=OG_234, cardName=Darkshire Alchemist, zonePos=3,Info={turn=12, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:12:26 PM|Info|Player.PlayToGraveyard >> [Player] id=51, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=0,Info={turn=12, originalZone=DECK, OriginalController=2, OriginalCardId=LOOT_104}
+2:12:30 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:12 from:-1)
+2:12:31 PM|Info|Player.PlayToGraveyard >> [Player] id=61, cardId=CFM_760, cardName=Kabal Crystal Runner, zonePos=0,Info={turn=12, originalZone=DECK, OriginalController=2}
+2:12:31 PM|Info|Player.RemoveFromPlay >> [Player] id=84, cardId=ICC_849e, cardName=Embraced, zonePos=0,Info={turn=12, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:12:33 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 13 ---
+2:12:33 PM|Info|Player.Draw >> [Opponent] id=5, cardId=, cardName=, zonePos=0,Info={turn=13, originalZone=DECK, hidden=true, OriginalController=1}
+2:12:42 PM|Info|Player.Play >> [Opponent] id=5, cardId=CFM_605, cardName=Drakonid Operative, zonePos=1,Info={turn=13, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:12:43 PM|Info|Player.CreateInSetAside >> [Opponent] id=86, cardId=, cardName=, zonePos=0,Info={turn=13, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:12:43 PM|Info|Player.CreateInSetAside >> [Opponent] id=87, cardId=, cardName=, zonePos=0,Info={turn=13, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:12:47 PM|Info|Player.CreateInSetAside >> [Opponent] id=88, cardId=, cardName=, zonePos=0,Info={turn=13, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:12:47 PM|Info|Player.CreateInHand >> [Opponent] id=86, cardId=, cardName=, zonePos=0,Info={turn=13, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:13:04 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS1h_001 turn:13 from:-1)
+2:13:07 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 13 ---
+2:13:07 PM|Info|Player.Draw >> [Player] id=48, cardId=GVG_067, cardName=Stonesplinter Trogg, zonePos=5,Info={turn=13, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:13:16 PM|Info|Player.Play >> [Player] id=59, cardId=LOOT_103, cardName=Lesser Ruby Spellstone, zonePos=0,Info={turn=13, originalZone=DECK, OriginalController=2}
+2:13:17 PM|Info|Player.CreateInHand >> [Player] id=89, cardId=CS2_027, cardName=Mirror Image, zonePos=5,Info={turn=13, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=2}
+2:13:17 PM|Info|Player.PlayToGraveyard >> [Player] id=59, cardId=LOOT_103, cardName=Lesser Ruby Spellstone, zonePos=0,Info={turn=13, originalZone=DECK, OriginalController=2}
+2:13:20 PM|Info|Player.Play >> [Player] id=48, cardId=GVG_067, cardName=Stonesplinter Trogg, zonePos=0,Info={turn=13, originalZone=DECK, OriginalController=2}
+2:13:20 PM|Info|Player.Play >> [Player] id=89, cardId=CS2_027, cardName=Mirror Image, zonePos=0,Info={turn=13, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+2:13:21 PM|Info|Player.CreateInPlay >> [Player] id=90, cardId=CS2_mirror, cardName=Mirror Image, zonePos=4,Info={turn=13, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:13:21 PM|Info|Player.CreateInPlay >> [Player] id=91, cardId=CS2_mirror, cardName=Mirror Image, zonePos=5,Info={turn=13, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:13:22 PM|Info|Player.PlayToGraveyard >> [Player] id=89, cardId=CS2_027, cardName=Mirror Image, zonePos=0,Info={turn=13, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+2:13:24 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:13 from:-1)
+2:13:25 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 14 ---
+2:13:25 PM|Info|Player.Draw >> [Opponent] id=16, cardId=, cardName=, zonePos=0,Info={turn=14, originalZone=DECK, hidden=true, OriginalController=1}
+2:13:30 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:14:02 PM|Info|Player.Play >> [Opponent] id=86, cardId=KAR_076, cardName=Firelands Portal, zonePos=0,Info={turn=14, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=1}
+2:14:03 PM|Info|Player.CreateInSetAside >> [Player] id=92, cardId=GVG_067a, cardName=Metabolized Magic, zonePos=0,Info={turn=14, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:14:03 PM|Info|Player.CreateInPlay >> [Player] id=92, cardId=GVG_067a, cardName=Metabolized Magic, zonePos=0,Info={turn=14, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:14:04 PM|Info|Player.CreateInPlay >> [Opponent] id=93, cardId=EX1_399, cardName=Gurubashi Berserker, zonePos=2,Info={turn=14, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:14:06 PM|Info|Player.PlayToGraveyard >> [Opponent] id=86, cardId=KAR_076, cardName=Firelands Portal, zonePos=0,Info={turn=14, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:14:06 PM|Info|Player.PlayToGraveyard >> [Player] id=83, cardId=CFM_760, cardName=Kabal Crystal Runner, zonePos=0,Info={turn=14, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:14:09 PM|Info|Player.Play >> [Opponent] id=17, cardId=EX1_332, cardName=Silence, zonePos=0,Info={turn=14, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:14:11 PM|Info|Player.RemoveFromPlay >> [Player] id=92, cardId=GVG_067a, cardName=Metabolized Magic, zonePos=0,Info={turn=14, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:14:13 PM|Info|Player.PlayToGraveyard >> [Opponent] id=17, cardId=EX1_332, cardName=Silence, zonePos=0,Info={turn=14, originalZone=DECK, OriginalController=1}
+2:14:15 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS1h_001 turn:14 from:-1)
+2:14:19 PM|Info|Player.PlayToGraveyard >> [Player] id=90, cardId=CS2_mirror, cardName=Mirror Image, zonePos=0,Info={turn=14, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:14:20 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 14 ---
+2:14:20 PM|Info|Player.Draw >> [Player] id=56, cardId=FP1_018, cardName=Duplicate, zonePos=4,Info={turn=14, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:14:26 PM|Info|Player.SecretPlayedFromHand >> [Player] id=56, cardId=FP1_018, cardName=Duplicate, zonePos=0,Info={turn=14, originalZone=DECK, OriginalController=2}
+2:14:28 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:14 from:-1)
+2:14:30 PM|Info|Player.PlayToGraveyard >> [Opponent] id=64, cardId=HERO_09, cardName=Anduin Wrynn, zonePos=0,Info={turn=14, originalZone=DECK, OriginalController=1}
+2:14:30 PM|Info|GameEventHandler.HandleWin >> --- Game was won! ---
+2:14:30 PM|Info|TurnTimer.Stop >> Stopping turn timer
+2:14:30 PM|Info|GameEventHandler.HandleGameEnd >> Game ended...
+2:14:30 PM|Info|GameEventHandler.HandleGameEnd >> Format: 
+2:14:30 PM|Info|GameStats.GameEnd >> Current Game ended after 14 turns
+2:14:30 PM|Info|GameEventHandler.HandleGameEnd >> Assigned current game to deck: Arena 04-03 02:34
+2:14:30 PM|Info|GameEventHandler.LogIsComplete >> GOLD_REWARD_STATE not found
+2:14:31 PM|Info|LogUploader.Upload >> Uploading 319242694...
+2:14:31 PM|Info|LogUploader.TryUpload >> Creating upload request...
+2:14:31 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:14:31 PM|Info|LogUploader.TryUpload >> Upload Id: cphkgku8euHBByxHrLysGm
+2:14:32 PM|Info|LogUploader.TryUpload >> Upload complete
+2:14:33 PM|Info|LogUploader.Upload >> 319242694 complete. Success=True
+2:14:39 PM|Info|GameV2.CurrentMode >> DRAFT
+2:14:39 PM|Info|GameEventHandler.HandleInMenu >> Game is now in menu.
+2:14:39 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:14:39 PM|Info|GameEventHandler.SaveAndUpdateStats >> Saving DeckStats
+2:14:40 PM|Info|DeckManager.AutoImportArena >> Found new complete HERO_08 arena deck!
+2:14:40 PM|Info|DeckManager.AutoImportArena >> ...but we already have that one. Discarding.
+2:14:46 PM|Info|GameEventHandler.HandleGameStart >> --- Game start ---
+2:14:46 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:14:46 PM|Warning|Helper.GetRegionByServerIp >> Unknown IP: 37.244.49.226
+2:14:46 PM|Info|TurnTimer.Start >> Starting turn timer
+2:14:46 PM|Warning|TurnTimer.Start >> Waiting for player entity
+2:14:48 PM|Info|GameV2.CacheMatchInfo >> Ropack vs GreatDominia
+2:14:48 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=68
+2:14:48 PM|Info|GameEventHandler.SetPlayerHero >> Player=Mage
+2:14:48 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=70
+2:14:48 PM|Info|GameEventHandler.SetOpponentHero >> Opponent=Druid
+2:14:48 PM|Info|GameV2.CurrentMode >> GAMEPLAY
+2:14:49 PM|Info|Player.Draw >> [Player] id=30, cardId=OG_247, cardName=Twisted Worgen, zonePos=1,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:14:49 PM|Info|Player.Draw >> [Player] id=10, cardId=LOOT_535, cardName=Dragoncaller Alanna, zonePos=2,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:14:49 PM|Info|Player.Draw >> [Player] id=5, cardId=CS2_028, cardName=Blizzard, zonePos=3,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:14:49 PM|Info|Player.Draw >> [Player] id=25, cardId=EX1_612, cardName=Kirin Tor Mage, zonePos=4,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:14:49 PM|Info|Player.CreateInHand >> [Player] id=72, cardId=GAME_005, cardName=The Coin, zonePos=5,Info={turn=0, mark=Coin, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=1}
+2:14:49 PM|Info|Player.Draw >> [Opponent] id=61, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+2:14:49 PM|Info|Player.Draw >> [Opponent] id=39, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+2:14:49 PM|Info|Player.Draw >> [Opponent] id=48, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+2:15:07 PM|Info|Player.Draw >> [Player] id=31, cardId=EX1_274, cardName=Ethereal Arcanist, zonePos=2,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:15:07 PM|Info|Player.Mulligan >> [Player] id=10, cardId=LOOT_535, cardName=Dragoncaller Alanna, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1}
+2:15:07 PM|Info|Player.Draw >> [Player] id=14, cardId=OG_090, cardName=Cabalist's Tome, zonePos=3,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:15:07 PM|Info|Player.Mulligan >> [Player] id=5, cardId=CS2_028, cardName=Blizzard, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1}
+2:15:14 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 1 ---
+2:15:14 PM|Info|Player.Draw >> [Opponent] id=60, cardId=, cardName=, zonePos=0,Info={turn=1, originalZone=DECK, hidden=true, OriginalController=2}
+2:15:21 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 1 ---
+2:15:21 PM|Info|Player.Draw >> [Player] id=19, cardId=CS2_032, cardName=Flamestrike, zonePos=6,Info={turn=1, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:15:32 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:15:35 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 2 ---
+2:15:35 PM|Info|Player.Draw >> [Opponent] id=64, cardId=, cardName=, zonePos=0,Info={turn=2, originalZone=DECK, hidden=true, OriginalController=2}
+2:15:39 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS2_017 turn:2 from:-1)
+2:15:39 PM|Info|Player.CreateInSetAside >> [Opponent] id=73, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=2, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:15:39 PM|Info|Player.CreateInPlay >> [Opponent] id=73, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=2, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:15:45 PM|Info|Player.PlayToGraveyard >> [Opponent] id=73, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=2, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:15:45 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 2 ---
+2:15:45 PM|Info|Player.Draw >> [Player] id=27, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=7,Info={turn=2, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:15:54 PM|Info|Player.Play >> [Player] id=30, cardId=OG_247, cardName=Twisted Worgen, zonePos=0,Info={turn=2, originalZone=DECK, OriginalController=1}
+2:15:55 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 3 ---
+2:15:55 PM|Info|Player.Draw >> [Opponent] id=43, cardId=, cardName=, zonePos=0,Info={turn=3, originalZone=DECK, hidden=true, OriginalController=2}
+2:16:00 PM|Info|Player.Play >> [Opponent] id=39, cardId=UNG_072, cardName=Stonehill Defender, zonePos=1,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:16:01 PM|Info|Player.CreateInSetAside >> [Opponent] id=74, cardId=, cardName=, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:16:01 PM|Info|Player.CreateInSetAside >> [Opponent] id=75, cardId=, cardName=, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:16:01 PM|Info|Player.CreateInSetAside >> [Opponent] id=76, cardId=, cardName=, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:16:01 PM|Info|Player.CreateInSetAside >> [Opponent] id=77, cardId=, cardName=, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:16:05 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:16:13 PM|Info|Player.CreateInSetAside >> [Opponent] id=78, cardId=, cardName=, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:16:13 PM|Info|Player.CreateInHand >> [Opponent] id=78, cardId=, cardName=, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+2:16:16 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 3 ---
+2:16:16 PM|Info|Player.CreateInSetAside >> [Player] id=79, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:16:16 PM|Info|Player.CreateInPlay >> [Player] id=79, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:16:16 PM|Info|Player.Draw >> [Player] id=21, cardId=GVG_099, cardName=Bomb Lobber, zonePos=7,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:16:38 PM|Info|Player.Play >> [Player] id=25, cardId=EX1_612, cardName=Kirin Tor Mage, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=1}
+2:16:38 PM|Info|Player.CreateInSetAside >> [Player] id=80, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:16:38 PM|Info|Player.CreateInPlay >> [Player] id=80, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:16:38 PM|Info|Player.PlayToGraveyard >> [Player] id=80, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:16:38 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 4 ---
+2:16:38 PM|Info|Player.Draw >> [Opponent] id=37, cardId=, cardName=, zonePos=0,Info={turn=4, originalZone=DECK, hidden=true, OriginalController=2}
+2:16:46 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS2_017 turn:4 from:-1)
+2:16:46 PM|Info|Player.CreateInSetAside >> [Opponent] id=81, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=4, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:16:46 PM|Info|Player.CreateInPlay >> [Opponent] id=81, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:16:53 PM|Info|Player.PlayToGraveyard >> [Opponent] id=81, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:16:53 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 4 ---
+2:16:53 PM|Info|Player.Draw >> [Player] id=20, cardId=LOE_119, cardName=Animated Armor, zonePos=7,Info={turn=4, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:16:58 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:17:12 PM|Info|Player.Play >> [Player] id=31, cardId=EX1_274, cardName=Ethereal Arcanist, zonePos=0,Info={turn=4, originalZone=DECK, OriginalController=1}
+2:17:13 PM|Info|Player.PlayToGraveyard >> [Opponent] id=39, cardId=UNG_072, cardName=Stonehill Defender, zonePos=0,Info={turn=4, originalZone=DECK, OriginalController=2}
+2:17:15 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 5 ---
+2:17:15 PM|Info|Player.Draw >> [Opponent] id=53, cardId=, cardName=, zonePos=0,Info={turn=5, originalZone=DECK, hidden=true, OriginalController=2}
+2:17:31 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS2_017 turn:5 from:-1)
+2:17:31 PM|Info|Player.CreateInSetAside >> [Opponent] id=82, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=5, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:17:31 PM|Info|Player.CreateInPlay >> [Opponent] id=82, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=5, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:17:39 PM|Info|Player.PlayToGraveyard >> [Player] id=30, cardId=OG_247, cardName=Twisted Worgen, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=1}
+2:17:44 PM|Info|Player.Play >> [Opponent] id=61, cardId=OG_047, cardName=Feral Rage, zonePos=0,Info={turn=5, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:17:46 PM|Info|Player.CreateInSetAside >> [Opponent] id=83, cardId=OG_047e, cardName=Spines, zonePos=0,Info={turn=5, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:17:46 PM|Info|Player.CreateInPlay >> [Opponent] id=83, cardId=OG_047e, cardName=Spines, zonePos=0,Info={turn=5, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:17:46 PM|Info|Player.PlayToGraveyard >> [Opponent] id=61, cardId=OG_047, cardName=Feral Rage, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=2}
+2:17:48 PM|Info|Player.PlayToGraveyard >> [Opponent] id=82, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=5, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:17:48 PM|Info|Player.PlayToGraveyard >> [Opponent] id=83, cardId=OG_047e, cardName=Spines, zonePos=0,Info={turn=5, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:17:48 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 5 ---
+2:17:48 PM|Info|Player.Draw >> [Player] id=9, cardId=GVG_091, cardName=Arcane Nullifier X-21, zonePos=7,Info={turn=5, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:17:52 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:18:01 PM|Info|Player.Play >> [Player] id=14, cardId=OG_090, cardName=Cabalist's Tome, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=1}
+2:18:01 PM|Info|Player.CreateInHand >> [Player] id=84, cardId=OG_081, cardName=Shatter, zonePos=7,Info={turn=5, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=1}
+2:18:01 PM|Info|Player.CreateInHand >> [Player] id=85, cardId=ICC_823, cardName=Simulacrum, zonePos=8,Info={turn=5, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=1}
+2:18:01 PM|Info|Player.CreateInHand >> [Player] id=86, cardId=BRM_003, cardName=Dragon's Breath, zonePos=9,Info={turn=5, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=1}
+2:18:02 PM|Info|Player.PlayToGraveyard >> [Player] id=14, cardId=OG_090, cardName=Cabalist's Tome, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=1}
+2:18:12 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 6 ---
+2:18:12 PM|Info|Player.Draw >> [Opponent] id=57, cardId=, cardName=, zonePos=0,Info={turn=6, originalZone=DECK, hidden=true, OriginalController=2}
+2:18:16 PM|Info|Player.Play >> [Opponent] id=53, cardId=GVG_105, cardName=Piloted Sky Golem, zonePos=1,Info={turn=6, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:18:19 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 6 ---
+2:18:19 PM|Info|Player.Draw >> [Player] id=4, cardId=CFM_854, cardName=Ancient of Blossoms, zonePos=10,Info={turn=6, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:18:34 PM|Info|Player.Play >> [Player] id=21, cardId=GVG_099, cardName=Bomb Lobber, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=1}
+2:18:37 PM|Info|Player.PlayToGraveyard >> [Opponent] id=53, cardId=GVG_105, cardName=Piloted Sky Golem, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=2}
+2:18:37 PM|Info|Player.CreateInPlay >> [Opponent] id=87, cardId=CFM_061, cardName=Jinyu Waterspeaker, zonePos=1,Info={turn=6, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:18:48 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 7 ---
+2:18:48 PM|Info|Player.Draw >> [Opponent] id=42, cardId=, cardName=, zonePos=0,Info={turn=7, originalZone=DECK, hidden=true, OriginalController=2}
+2:18:55 PM|Info|Player.PlayToGraveyard >> [Player] id=25, cardId=EX1_612, cardName=Kirin Tor Mage, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=1}
+2:19:03 PM|Info|Player.Play >> [Opponent] id=57, cardId=GVG_035, cardName=Malorne, zonePos=2,Info={turn=7, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:19:08 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 7 ---
+2:19:08 PM|Info|Player.Draw >> [Player] id=5, cardId=CS2_028, cardName=Blizzard, zonePos=10,Info={turn=7, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:19:55 PM|Info|Player.Play >> [Player] id=27, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=1, OriginalCardId=LOOT_104}
+2:19:55 PM|Info|Player.PlayToGraveyard >> [Player] id=79, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:19:55 PM|Info|Player.CreateInDeck >> [Player] id=88, cardId=, cardName=, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=DECK}
+2:19:56 PM|Info|Player.PlayToGraveyard >> [Player] id=27, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=1, OriginalCardId=LOOT_104}
+2:19:58 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:7 from:-1)
+2:20:04 PM|Info|Player.PlayToGraveyard >> [Player] id=21, cardId=GVG_099, cardName=Bomb Lobber, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=1}
+2:20:04 PM|Info|Player.PlayToGraveyard >> [Opponent] id=57, cardId=GVG_035, cardName=Malorne, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=2}
+2:20:04 PM|Info|Player.CreateInDeck >> [Opponent] id=57, cardId=GVG_035, cardName=Malorne, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=DECK, OriginalController=2}
+2:20:04 PM|Info|Player.RemoveFromDeck >> [Opponent] id=57, cardId=GVG_035, cardName=Malorne, zonePos=0,Info={turn=7, mark=Created, discarded=true, created=true, originalZone=DECK, OriginalController=2}
+2:20:04 PM|Info|Player.CreateInDeck >> [Opponent] id=89, cardId=, cardName=, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=DECK}
+2:20:12 PM|Info|Player.Play >> [Player] id=72, cardId=GAME_005, cardName=The Coin, zonePos=0,Info={turn=7, mark=Coin, created=true, originalZone=HAND, OriginalController=1}
+2:20:13 PM|Info|Player.PlayToGraveyard >> [Player] id=72, cardId=GAME_005, cardName=The Coin, zonePos=0,Info={turn=7, mark=Coin, created=true, originalZone=HAND, OriginalController=1}
+2:20:13 PM|Info|Player.Play >> [Player] id=86, cardId=BRM_003, cardName=Dragon's Breath, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:20:15 PM|Info|Player.PlayToGraveyard >> [Player] id=86, cardId=BRM_003, cardName=Dragon's Breath, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:20:15 PM|Info|Player.PlayToGraveyard >> [Opponent] id=87, cardId=CFM_061, cardName=Jinyu Waterspeaker, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:20:16 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 8 ---
+2:20:16 PM|Info|Player.Draw >> [Opponent] id=51, cardId=, cardName=, zonePos=0,Info={turn=8, originalZone=DECK, hidden=true, OriginalController=2}
+2:20:28 PM|Info|Player.Play >> [Opponent] id=60, cardId=UNG_099, cardName=Charged Devilsaur, zonePos=1,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:20:32 PM|Info|Player.PlayToGraveyard >> [Player] id=31, cardId=EX1_274, cardName=Ethereal Arcanist, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=1}
+2:20:33 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 8 ---
+2:20:33 PM|Info|Player.Draw >> [Player] id=10, cardId=LOOT_535, cardName=Dragoncaller Alanna, zonePos=8,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:20:40 PM|Info|Player.Play >> [Player] id=4, cardId=CFM_854, cardName=Ancient of Blossoms, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=1}
+2:20:41 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:8 from:-1)
+2:20:43 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 9 ---
+2:20:43 PM|Info|Player.Draw >> [Opponent] id=58, cardId=, cardName=, zonePos=0,Info={turn=9, originalZone=DECK, hidden=true, OriginalController=2}
+2:20:56 PM|Info|Player.Play >> [Opponent] id=64, cardId=CFM_816, cardName=Virmen Sensei, zonePos=1,Info={turn=9, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:20:58 PM|Info|Player.CreateInSetAside >> [Opponent] id=90, cardId=CFM_816e, cardName=Get Big, zonePos=0,Info={turn=9, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:20:58 PM|Info|Player.CreateInPlay >> [Opponent] id=90, cardId=CFM_816e, cardName=Get Big, zonePos=0,Info={turn=9, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:21:01 PM|Info|Player.Play >> [Opponent] id=43, cardId=KAR_095, cardName=Zoobot, zonePos=1,Info={turn=9, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:21:02 PM|Info|Player.CreateInSetAside >> [Opponent] id=91, cardId=KAR_095e, cardName=Well Fed, zonePos=0,Info={turn=9, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:21:02 PM|Info|Player.CreateInPlay >> [Opponent] id=91, cardId=KAR_095e, cardName=Well Fed, zonePos=0,Info={turn=9, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:21:07 PM|Info|Player.PlayToGraveyard >> [Player] id=4, cardId=CFM_854, cardName=Ancient of Blossoms, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=1}
+2:21:09 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 9 ---
+2:21:09 PM|Info|Player.Draw >> [Player] id=12, cardId=AT_090, cardName=Mukla's Champion, zonePos=8,Info={turn=9, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:21:20 PM|Info|Player.Play >> [Player] id=19, cardId=CS2_032, cardName=Flamestrike, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=1}
+2:21:21 PM|Info|Player.PlayToGraveyard >> [Player] id=19, cardId=CS2_032, cardName=Flamestrike, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=1}
+2:21:21 PM|Info|Player.PlayToGraveyard >> [Opponent] id=60, cardId=UNG_099, cardName=Charged Devilsaur, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=2}
+2:21:21 PM|Info|Player.RemoveFromPlay >> [Player] id=90, cardId=CFM_816e, cardName=Get Big, zonePos=0,Info={turn=9, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:21:21 PM|Info|Player.RemoveFromPlay >> [Player] id=91, cardId=KAR_095e, cardName=Well Fed, zonePos=0,Info={turn=9, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:21:21 PM|Info|Player.PlayToGraveyard >> [Opponent] id=43, cardId=KAR_095, cardName=Zoobot, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=2}
+2:21:22 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:9 from:-1)
+2:21:23 PM|Info|Player.PlayToGraveyard >> [Opponent] id=64, cardId=CFM_816, cardName=Virmen Sensei, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=2}
+2:21:23 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 10 ---
+2:21:23 PM|Info|Player.Draw >> [Opponent] id=89, cardId=, cardName=, zonePos=0,Info={turn=10, created=true, originalZone=DECK, hidden=true, OriginalController=2}
+2:21:33 PM|Info|Player.Play >> [Opponent] id=48, cardId=ICC_085, cardName=Ultimate Infestation, zonePos=0,Info={turn=10, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:21:34 PM|Info|Player.Draw >> [Opponent] id=54, cardId=, cardName=, zonePos=0,Info={turn=10, originalZone=DECK, hidden=true, OriginalController=2}
+2:21:34 PM|Info|Player.Draw >> [Opponent] id=36, cardId=, cardName=, zonePos=0,Info={turn=10, originalZone=DECK, hidden=true, OriginalController=2}
+2:21:34 PM|Info|Player.Draw >> [Opponent] id=46, cardId=, cardName=, zonePos=0,Info={turn=10, originalZone=DECK, hidden=true, OriginalController=2}
+2:21:34 PM|Info|Player.Draw >> [Opponent] id=35, cardId=, cardName=, zonePos=0,Info={turn=10, originalZone=DECK, hidden=true, OriginalController=2}
+2:21:34 PM|Info|Player.DeckDiscard >> [Opponent] id=66, cardId=LOOT_233, cardName=Cursed Disciple, zonePos=0,Info={turn=10, discarded=true, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:21:34 PM|Info|Player.CreateInPlay >> [Opponent] id=92, cardId=ICC_085t, cardName=Ghoul Infestor, zonePos=1,Info={turn=10, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:21:39 PM|Info|Player.PlayToGraveyard >> [Opponent] id=48, cardId=ICC_085, cardName=Ultimate Infestation, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=2}
+2:21:45 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 10 ---
+2:21:45 PM|Info|Player.Draw >> [Player] id=17, cardId=FP1_018, cardName=Duplicate, zonePos=8,Info={turn=10, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:22:03 PM|Info|Player.Play >> [Player] id=20, cardId=LOE_119, cardName=Animated Armor, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=1}
+2:22:04 PM|Info|Player.SecretPlayedFromHand >> [Player] id=17, cardId=FP1_018, cardName=Duplicate, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=1}
+2:22:05 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:10 from:-1)
+2:22:07 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 11 ---
+2:22:07 PM|Info|Player.DeckDiscard >> [Opponent] id=49, cardId=ICC_027, cardName=Bone Drake, zonePos=0,Info={turn=11, discarded=true, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:22:21 PM|Info|Player.Play >> [Opponent] id=36, cardId=LOOT_309, cardName=Oaken Summons, zonePos=0,Info={turn=11, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:22:23 PM|Info|Player.DeckToPlay >> [Opponent] id=41, cardId=UNG_928, cardName=Tar Creeper, zonePos=2,Info={turn=11, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:22:24 PM|Info|Player.PlayToGraveyard >> [Opponent] id=36, cardId=LOOT_309, cardName=Oaken Summons, zonePos=0,Info={turn=11, originalZone=DECK, OriginalController=2}
+2:22:30 PM|Info|Player.PlayToGraveyard >> [Opponent] id=92, cardId=ICC_085t, cardName=Ghoul Infestor, zonePos=0,Info={turn=11, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:22:30 PM|Info|Player.PlayToGraveyard >> [Player] id=20, cardId=LOE_119, cardName=Animated Armor, zonePos=0,Info={turn=11, originalZone=DECK, OriginalController=1}
+2:22:30 PM|Info|Player.CreateInHand >> [Player] id=93, cardId=LOE_119, cardName=Animated Armor, zonePos=7,Info={turn=11, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=1}
+2:22:30 PM|Info|Player.CreateInHand >> [Player] id=94, cardId=LOE_119, cardName=Animated Armor, zonePos=8,Info={turn=11, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:22:55 PM|Info|Player.Play >> [Opponent] id=54, cardId=GVG_032, cardName=Grove Tender, zonePos=2,Info={turn=11, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:23:00 PM|Info|Player.Play >> [Opponent] id=58, cardId=GVG_108, cardName=Recombobulator, zonePos=3,Info={turn=11, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:23:02 PM|Info|Player.CreateInSetAside >> [Opponent] id=95, cardId=, cardName=, zonePos=0,Info={turn=11, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:23:02 PM|Info|Player.CreateInPlay >> [Opponent] id=95, cardId=UNG_072, cardName=Stonehill Defender, zonePos=0,Info={turn=11, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:23:02 PM|Info|Player.RemoveFromPlay >> [Player] id=54, cardId=GVG_032, cardName=Grove Tender, zonePos=0,Info={turn=11, originalZone=DECK, OriginalController=2}
+2:23:06 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS2_017 turn:11 from:-1)
+2:23:06 PM|Info|Player.CreateInSetAside >> [Opponent] id=96, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=11, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:23:06 PM|Info|Player.CreateInPlay >> [Opponent] id=96, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=11, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:23:12 PM|Info|Player.PlayToGraveyard >> [Opponent] id=96, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=11, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:23:13 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 11 ---
+2:23:14 PM|Info|Player.Draw >> [Player] id=16, cardId=CFM_066, cardName=Kabal Lackey, zonePos=9,Info={turn=11, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:23:22 PM|Info|Player.Play >> [Player] id=93, cardId=LOE_119, cardName=Animated Armor, zonePos=0,Info={turn=11, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:23:23 PM|Info|Player.Play >> [Player] id=9, cardId=GVG_091, cardName=Arcane Nullifier X-21, zonePos=0,Info={turn=11, originalZone=DECK, OriginalController=1}
+2:23:26 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:11 from:-1)
+2:23:28 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 12 ---
+2:23:28 PM|Info|Player.Draw >> [Opponent] id=45, cardId=, cardName=, zonePos=0,Info={turn=12, originalZone=DECK, hidden=true, OriginalController=2}
+2:23:39 PM|Info|Player.PlayToGraveyard >> [Opponent] id=58, cardId=GVG_108, cardName=Recombobulator, zonePos=0,Info={turn=12, originalZone=DECK, OriginalController=2}
+2:23:41 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS2_017 turn:12 from:-1)
+2:23:41 PM|Info|Player.CreateInSetAside >> [Opponent] id=97, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=12, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:23:41 PM|Info|Player.CreateInPlay >> [Opponent] id=97, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=12, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:23:48 PM|Info|Player.Play >> [Opponent] id=89, cardId=GVG_035, cardName=Malorne, zonePos=3,Info={turn=12, mark=Created, created=true, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:23:54 PM|Info|Player.PlayToGraveyard >> [Player] id=9, cardId=GVG_091, cardName=Arcane Nullifier X-21, zonePos=0,Info={turn=12, originalZone=DECK, OriginalController=1}
+2:24:02 PM|Info|Player.PlayToGraveyard >> [Opponent] id=97, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=12, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:24:02 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 12 ---
+2:24:03 PM|Info|Player.Draw >> [Player] id=33, cardId=KAR_062, cardName=Netherspite Historian, zonePos=8,Info={turn=12, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:24:23 PM|Info|Player.Play >> [Player] id=5, cardId=CS2_028, cardName=Blizzard, zonePos=0,Info={turn=12, originalZone=DECK, OriginalController=1}
+2:24:24 PM|Info|Player.PlayToGraveyard >> [Player] id=5, cardId=CS2_028, cardName=Blizzard, zonePos=0,Info={turn=12, originalZone=DECK, OriginalController=1}
+2:24:24 PM|Info|Player.PlayToGraveyard >> [Opponent] id=95, cardId=UNG_072, cardName=Stonehill Defender, zonePos=0,Info={turn=12, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:24:30 PM|Info|Player.Play >> [Player] id=84, cardId=OG_081, cardName=Shatter, zonePos=0,Info={turn=12, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:24:32 PM|Info|Player.PlayToGraveyard >> [Player] id=84, cardId=OG_081, cardName=Shatter, zonePos=0,Info={turn=12, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:24:32 PM|Info|Player.PlayToGraveyard >> [Opponent] id=89, cardId=GVG_035, cardName=Malorne, zonePos=0,Info={turn=12, mark=Created, created=true, originalZone=DECK, OriginalController=2}
+2:24:32 PM|Info|Player.CreateInDeck >> [Opponent] id=89, cardId=GVG_035, cardName=Malorne, zonePos=0,Info={turn=12, mark=Created, created=true, originalZone=DECK, OriginalController=2}
+2:24:32 PM|Info|Player.RemoveFromDeck >> [Opponent] id=89, cardId=GVG_035, cardName=Malorne, zonePos=0,Info={turn=12, mark=Created, discarded=true, created=true, originalZone=DECK, OriginalController=2}
+2:24:32 PM|Info|Player.CreateInDeck >> [Opponent] id=98, cardId=, cardName=, zonePos=0,Info={turn=12, mark=Created, created=true, originalZone=DECK}
+2:24:37 PM|Info|Player.PlayToGraveyard >> [Opponent] id=41, cardId=UNG_928, cardName=Tar Creeper, zonePos=0,Info={turn=12, originalZone=DECK, OriginalController=2}
+2:24:37 PM|Info|Player.Play >> [Player] id=33, cardId=KAR_062, cardName=Netherspite Historian, zonePos=0,Info={turn=12, originalZone=DECK, OriginalController=1}
+2:24:38 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 13 ---
+2:24:38 PM|Info|Player.Draw >> [Opponent] id=65, cardId=, cardName=, zonePos=0,Info={turn=13, originalZone=DECK, hidden=true, OriginalController=2}
+2:24:55 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS2_017 turn:13 from:-1)
+2:24:55 PM|Info|Player.CreateInSetAside >> [Opponent] id=99, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=13, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:24:55 PM|Info|Player.CreateInPlay >> [Opponent] id=99, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=13, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:24:58 PM|Info|Player.Play >> [Opponent] id=46, cardId=ICC_700, cardName=Happy Ghoul, zonePos=1,Info={turn=13, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:25:02 PM|Info|Player.Play >> [Opponent] id=45, cardId=LOE_050, cardName=Mounted Raptor, zonePos=2,Info={turn=13, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:25:05 PM|Info|Player.Play >> [Opponent] id=65, cardId=CS2_013, cardName=Wild Growth, zonePos=0,Info={turn=13, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:25:06 PM|Info|Player.CreateInHand >> [Opponent] id=100, cardId=, cardName=, zonePos=6,Info={turn=13, mark=Created, created=true, originalZone=HAND}
+2:25:09 PM|Info|Player.PlayToGraveyard >> [Opponent] id=65, cardId=CS2_013, cardName=Wild Growth, zonePos=0,Info={turn=13, originalZone=DECK, OriginalController=2}
+2:25:09 PM|Info|Player.Play >> [Opponent] id=100, cardId=CS2_013t, cardName=Excess Mana, zonePos=0,Info={turn=13, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=2}
+2:25:10 PM|Info|Player.Draw >> [Opponent] id=47, cardId=, cardName=, zonePos=0,Info={turn=13, originalZone=DECK, hidden=true, OriginalController=2}
+2:25:13 PM|Info|Player.PlayToGraveyard >> [Opponent] id=100, cardId=CS2_013t, cardName=Excess Mana, zonePos=0,Info={turn=13, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+2:25:17 PM|Info|Player.PlayToGraveyard >> [Player] id=93, cardId=LOE_119, cardName=Animated Armor, zonePos=0,Info={turn=13, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:25:17 PM|Info|Player.PlayToGraveyard >> [Opponent] id=99, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=13, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:25:17 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 13 ---
+2:25:17 PM|Info|Player.Draw >> [Player] id=13, cardId=AT_133, cardName=Gadgetzan Jouster, zonePos=6,Info={turn=13, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:25:50 PM|Info|Player.Play >> [Player] id=13, cardId=AT_133, cardName=Gadgetzan Jouster, zonePos=0,Info={turn=13, originalZone=DECK, OriginalController=1}
+2:25:50 PM|Info|Player.JoustReveal >> [Player] id=101, cardId=GVG_103, cardName=Micro Machine, zonePos=0,Info={turn=13, mark=Created, created=true, originalZone=DECK, OriginalController=1}
+2:25:50 PM|Info|Player.JoustReveal >> [Opponent] id=102, cardId=OG_326, cardName=Duskboar, zonePos=0,Info={turn=13, mark=Created, created=true, originalZone=DECK, OriginalController=2}
+2:25:50 PM|Info|Player.JoustReveal >> [Player] id=101, cardId=GVG_103, cardName=Micro Machine, zonePos=0,Info={turn=13, mark=Created, created=true, originalZone=DECK, OriginalController=1}
+2:25:57 PM|Info|Player.Play >> [Player] id=16, cardId=CFM_066, cardName=Kabal Lackey, zonePos=0,Info={turn=13, originalZone=DECK, OriginalController=1}
+2:25:57 PM|Info|Player.CreateInSetAside >> [Player] id=103, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=13, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:25:57 PM|Info|Player.CreateInPlay >> [Player] id=103, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=13, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:25:58 PM|Info|Player.Play >> [Player] id=12, cardId=AT_090, cardName=Mukla's Champion, zonePos=0,Info={turn=13, originalZone=DECK, OriginalController=1}
+2:26:13 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:13 from:-1)
+2:26:13 PM|Info|Player.CreateInSetAside >> [Player] id=104, cardId=AT_090e, cardName=Might of the Monkey, zonePos=0,Info={turn=13, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:26:13 PM|Info|Player.CreateInPlay >> [Player] id=104, cardId=AT_090e, cardName=Might of the Monkey, zonePos=0,Info={turn=13, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:26:13 PM|Info|Player.CreateInSetAside >> [Player] id=105, cardId=AT_090e, cardName=Might of the Monkey, zonePos=0,Info={turn=13, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:26:13 PM|Info|Player.CreateInPlay >> [Player] id=105, cardId=AT_090e, cardName=Might of the Monkey, zonePos=0,Info={turn=13, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:26:13 PM|Info|Player.CreateInSetAside >> [Player] id=106, cardId=AT_090e, cardName=Might of the Monkey, zonePos=0,Info={turn=13, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:26:13 PM|Info|Player.CreateInPlay >> [Player] id=106, cardId=AT_090e, cardName=Might of the Monkey, zonePos=0,Info={turn=13, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:26:16 PM|Info|Player.PlayToGraveyard >> [Opponent] id=45, cardId=LOE_050, cardName=Mounted Raptor, zonePos=0,Info={turn=13, originalZone=DECK, OriginalController=2}
+2:26:16 PM|Info|Player.CreateInPlay >> [Opponent] id=107, cardId=CS2_065, cardName=Voidwalker, zonePos=2,Info={turn=13, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:26:18 PM|Info|Player.PlayToGraveyard >> [Player] id=103, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=13, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:26:18 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 14 ---
+2:26:18 PM|Info|Player.Draw >> [Opponent] id=98, cardId=, cardName=, zonePos=0,Info={turn=14, created=true, originalZone=DECK, hidden=true, OriginalController=2}
+2:26:36 PM|Info|Player.PlayToGraveyard >> [Opponent] id=46, cardId=ICC_700, cardName=Happy Ghoul, zonePos=0,Info={turn=14, originalZone=DECK, OriginalController=2}
+2:26:36 PM|Info|Player.PlayToGraveyard >> [Player] id=12, cardId=AT_090, cardName=Mukla's Champion, zonePos=0,Info={turn=14, originalZone=DECK, OriginalController=1}
+2:26:40 PM|Info|Player.Play >> [Opponent] id=78, cardId=LOOT_137, cardName=Sleepy Dragon, zonePos=1,Info={turn=14, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=2}
+2:26:45 PM|Info|Player.PlayToGraveyard >> [Player] id=33, cardId=KAR_062, cardName=Netherspite Historian, zonePos=0,Info={turn=14, originalZone=DECK, OriginalController=1}
+2:26:45 PM|Info|Player.RemoveFromPlay >> [Player] id=104, cardId=AT_090e, cardName=Might of the Monkey, zonePos=0,Info={turn=14, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:26:47 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 14 ---
+2:26:47 PM|Info|Player.Draw >> [Player] id=32, cardId=CFM_760, cardName=Kabal Crystal Runner, zonePos=4,Info={turn=14, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:27:13 PM|Info|Player.PlayToGraveyard >> [Opponent] id=107, cardId=CS2_065, cardName=Voidwalker, zonePos=0,Info={turn=14, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:27:15 PM|Info|Player.PlayToGraveyard >> [Player] id=16, cardId=CFM_066, cardName=Kabal Lackey, zonePos=0,Info={turn=14, originalZone=DECK, OriginalController=1}
+2:27:15 PM|Info|Player.RemoveFromPlay >> [Player] id=106, cardId=AT_090e, cardName=Might of the Monkey, zonePos=0,Info={turn=14, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:27:18 PM|Info|Player.Play >> [Player] id=10, cardId=LOOT_535, cardName=Dragoncaller Alanna, zonePos=0,Info={turn=14, originalZone=DECK, OriginalController=1}
+2:27:18 PM|Info|Player.CreateInPlay >> [Player] id=108, cardId=LOOT_535t, cardName=Fire Dragon, zonePos=4,Info={turn=14, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:27:18 PM|Info|Player.CreateInPlay >> [Player] id=109, cardId=LOOT_535t, cardName=Fire Dragon, zonePos=2,Info={turn=14, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:27:18 PM|Info|Player.CreateInPlay >> [Player] id=110, cardId=LOOT_535t, cardName=Fire Dragon, zonePos=5,Info={turn=14, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:27:18 PM|Info|Player.CreateInPlay >> [Player] id=111, cardId=LOOT_535t, cardName=Fire Dragon, zonePos=3,Info={turn=14, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:27:23 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 15 ---
+2:27:23 PM|Info|Player.Draw >> [Opponent] id=38, cardId=, cardName=, zonePos=0,Info={turn=15, originalZone=DECK, hidden=true, OriginalController=2}
+2:27:44 PM|Info|Player.Play >> [Opponent] id=47, cardId=LOOT_413, cardName=Plated Beetle, zonePos=2,Info={turn=15, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:27:53 PM|Info|Player.Play >> [Opponent] id=37, cardId=EX1_173, cardName=Starfire, zonePos=0,Info={turn=15, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:27:54 PM|Info|Player.Draw >> [Opponent] id=67, cardId=, cardName=, zonePos=0,Info={turn=15, originalZone=DECK, hidden=true, OriginalController=2}
+2:27:58 PM|Info|Player.PlayToGraveyard >> [Opponent] id=37, cardId=EX1_173, cardName=Starfire, zonePos=0,Info={turn=15, originalZone=DECK, OriginalController=2}
+2:27:58 PM|Info|Player.PlayToGraveyard >> [Player] id=109, cardId=LOOT_535t, cardName=Fire Dragon, zonePos=0,Info={turn=15, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:27:59 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS2_017 turn:15 from:-1)
+2:27:59 PM|Info|Player.CreateInSetAside >> [Opponent] id=112, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=15, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:27:59 PM|Info|Player.CreateInPlay >> [Opponent] id=112, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=15, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:28:11 PM|Info|Player.PlayToGraveyard >> [Opponent] id=112, cardId=CS2_017o, cardName=Claws, zonePos=0,Info={turn=15, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:28:11 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 15 ---
+2:28:11 PM|Info|Player.Draw >> [Player] id=24, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=4,Info={turn=15, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:28:23 PM|Info|Player.PlayToGraveyard >> [Opponent] id=78, cardId=LOOT_137, cardName=Sleepy Dragon, zonePos=0,Info={turn=15, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+2:28:24 PM|Info|Player.PlayToGraveyard >> [Opponent] id=47, cardId=LOOT_413, cardName=Plated Beetle, zonePos=0,Info={turn=15, originalZone=DECK, OriginalController=2}
+2:28:40 PM|Info|Player.Play >> [Player] id=94, cardId=LOE_119, cardName=Animated Armor, zonePos=0,Info={turn=15, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:28:41 PM|Info|Player.Play >> [Player] id=85, cardId=ICC_823, cardName=Simulacrum, zonePos=0,Info={turn=15, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:28:41 PM|Info|Player.CreateInHand >> [Player] id=113, cardId=CFM_760, cardName=Kabal Crystal Runner, zonePos=3,Info={turn=15, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=1}
+2:28:43 PM|Info|Player.PlayToGraveyard >> [Player] id=85, cardId=ICC_823, cardName=Simulacrum, zonePos=0,Info={turn=15, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:28:43 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:15 from:-1)
+2:28:44 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 16 ---
+2:28:44 PM|Info|Player.Draw >> [Opponent] id=44, cardId=, cardName=, zonePos=0,Info={turn=16, originalZone=DECK, hidden=true, OriginalController=2}
+2:29:04 PM|Info|Player.Play >> [Opponent] id=44, cardId=EX1_105, cardName=Mountain Giant, zonePos=1,Info={turn=16, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:29:07 PM|Info|Player.Play >> [Opponent] id=51, cardId=UNG_103, cardName=Evolving Spores, zonePos=0,Info={turn=16, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:29:08 PM|Info|Player.CreateInSetAside >> [Opponent] id=114, cardId=, cardName=, zonePos=0,Info={turn=16, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:29:08 PM|Info|Player.CreateInSetAside >> [Opponent] id=115, cardId=, cardName=, zonePos=0,Info={turn=16, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:29:10 PM|Info|Player.CreateInSetAside >> [Opponent] id=116, cardId=, cardName=, zonePos=0,Info={turn=16, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:29:10 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=114): 6 -> 4
+2:29:10 PM|Info|Player.CreateInSetAside >> [Opponent] id=117, cardId=UNG_999t14, cardName=Volcanic Might, zonePos=0,Info={turn=16, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:29:12 PM|Info|Player.CreateInPlay >> [Opponent] id=117, cardId=UNG_999t14, cardName=Volcanic Might, zonePos=0,Info={turn=16, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:29:12 PM|Info|Player.CreateInSetAside >> [Opponent] id=118, cardId=UNG_999t14e, cardName=Volcanic Might, zonePos=0,Info={turn=16, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:29:12 PM|Info|Player.CreateInPlay >> [Opponent] id=118, cardId=UNG_999t14e, cardName=Volcanic Might, zonePos=0,Info={turn=16, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:29:12 PM|Info|Player.PlayToGraveyard >> [Opponent] id=117, cardId=UNG_999t14, cardName=Volcanic Might, zonePos=0,Info={turn=16, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:29:13 PM|Info|Player.PlayToGraveyard >> [Opponent] id=51, cardId=UNG_103, cardName=Evolving Spores, zonePos=0,Info={turn=16, originalZone=DECK, OriginalController=2}
+2:29:13 PM|Info|GameEventHandler.HandleWin >> --- Game was won! ---
+2:29:13 PM|Info|TurnTimer.Stop >> Stopping turn timer
+2:29:13 PM|Info|GameEventHandler.HandleGameEnd >> Game ended...
+2:29:13 PM|Info|GameEventHandler.HandleGameEnd >> Format: 
+2:29:13 PM|Info|GameStats.GameEnd >> Current Game ended after 16 turns
+2:29:13 PM|Info|GameEventHandler.HandleGameEnd >> Assigned current game to deck: Arena 04-03 02:34
+2:29:13 PM|Info|GameEventHandler.LogIsComplete >> GOLD_REWARD_STATE not found
+2:29:13 PM|Info|LogUploader.Upload >> Uploading -1256967956...
+2:29:13 PM|Info|LogUploader.TryUpload >> Creating upload request...
+2:29:13 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:29:13 PM|Info|LogUploader.TryUpload >> Upload Id: xHsWughAKDAZjkASioQXpB
+2:29:14 PM|Info|LogUploader.TryUpload >> Upload complete
+2:29:15 PM|Info|LogUploader.Upload >> -1256967956 complete. Success=True
+2:30:07 PM|Info|GameV2.CurrentMode >> DRAFT
+2:30:07 PM|Info|GameEventHandler.HandleInMenu >> Game is now in menu.
+2:30:07 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:30:07 PM|Info|GameEventHandler.SaveAndUpdateStats >> Saving DeckStats
+2:30:08 PM|Info|DeckManager.AutoImportArena >> Found new complete HERO_08 arena deck!
+2:30:08 PM|Info|DeckManager.AutoImportArena >> ...but we already have that one. Discarding.
+2:30:27 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:30:27 PM|Info|FullScreenFxHandler.Handle >> Now in queue (3/4/2018 2:30:27 PM)
+2:30:27 PM|Info|FullScreenFxHandler.AutoSelectArenaDeck >> Switching to arena deck deck: Arena 04-03 02:34
+2:30:27 PM|Info|MainWindow.SelectDeck >> Switched to deck: Arena 04-03 02:34 (v1.0)
+2:30:27 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:30:28 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'E:\Hearthstone\Logs'
+14:30:28|Info|LogWatcherManager.OnLogFileFound >> Power
+14:30:28|Info|LogWatcherManager.OnLogFileFound >> Rachelle
+14:30:28|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+2:30:29 PM|Info|GameV2.CurrentMode >> DRAFT
+2:30:29 PM|Info|DeckManager.AutoImportArena >> Found new complete HERO_08 arena deck!
+2:30:29 PM|Info|DeckManager.AutoImportArena >> ...but we already have that one. Discarding.
+2:30:49 PM|Info|GameEventHandler.HandleGameStart >> --- Game start ---
+2:30:49 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:30:49 PM|Warning|Helper.GetRegionByServerIp >> Unknown IP: 37.244.49.186
+2:30:49 PM|Info|TurnTimer.Start >> Starting turn timer
+2:30:49 PM|Warning|TurnTimer.Start >> Waiting for player entity
+2:30:51 PM|Info|GameV2.CacheMatchInfo >> Ropack vs diablo15
+2:30:51 PM|Info|GameV2.CurrentMode >> GAMEPLAY
+2:30:52 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=64
+2:30:52 PM|Info|GameEventHandler.SetPlayerHero >> Player=Mage
+2:30:52 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=66
+2:30:52 PM|Info|GameEventHandler.SetOpponentHero >> Opponent=Mage
+2:30:52 PM|Info|Player.Draw >> [Player] id=6, cardId=GVG_091, cardName=Arcane Nullifier X-21, zonePos=1,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:30:52 PM|Info|Player.Draw >> [Player] id=23, cardId=UNG_948, cardName=Molten Reflection, zonePos=2,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:30:52 PM|Info|Player.Draw >> [Player] id=33, cardId=LOOT_170, cardName=Raven Familiar, zonePos=3,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:30:52 PM|Info|Player.Draw >> [Player] id=11, cardId=EX1_612, cardName=Kirin Tor Mage, zonePos=4,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:30:52 PM|Info|Player.CreateInHand >> [Player] id=68, cardId=GAME_005, cardName=The Coin, zonePos=5,Info={turn=0, mark=Coin, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=1}
+2:30:52 PM|Info|Player.Draw >> [Opponent] id=62, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+2:30:52 PM|Info|Player.Draw >> [Opponent] id=53, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+2:30:52 PM|Info|Player.Draw >> [Opponent] id=45, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+2:31:02 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+2:31:03 PM|Info|Updater.SquirrelUpdate >> No new updated available
+2:31:08 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:31:17 PM|Info|Player.Draw >> [Player] id=32, cardId=CS2_032, cardName=Flamestrike, zonePos=2,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:31:17 PM|Info|Player.Mulligan >> [Player] id=23, cardId=UNG_948, cardName=Molten Reflection, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1}
+2:31:29 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:31:40 PM|Info|Player.Draw >> [Opponent] id=61, cardId=, cardName=, zonePos=0,Info={turn=0, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=2}
+2:31:40 PM|Info|Player.Mulligan >> [Opponent] id=53, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+2:31:43 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 1 ---
+2:31:43 PM|Info|Player.Draw >> [Opponent] id=49, cardId=, cardName=, zonePos=0,Info={turn=1, originalZone=DECK, hidden=true, OriginalController=2}
+2:31:49 PM|Info|Player.Play >> [Opponent] id=62, cardId=KAR_009, cardName=Babbling Book, zonePos=1,Info={turn=1, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:31:50 PM|Info|Player.CreateInHand >> [Opponent] id=69, cardId=, cardName=, zonePos=4,Info={turn=1, mark=Created, created=true, originalZone=HAND}
+2:31:53 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 1 ---
+2:31:53 PM|Info|Player.Draw >> [Player] id=5, cardId=CS2_117, cardName=Earthen Ring Farseer, zonePos=6,Info={turn=1, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:31:55 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:32:11 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 2 ---
+2:32:11 PM|Info|Player.Draw >> [Opponent] id=39, cardId=, cardName=, zonePos=0,Info={turn=2, originalZone=DECK, hidden=true, OriginalController=2}
+2:32:17 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS2_034 turn:2 from:-1)
+2:32:22 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 2 ---
+2:32:22 PM|Info|Player.Draw >> [Player] id=21, cardId=CFM_066, cardName=Kabal Lackey, zonePos=7,Info={turn=2, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:32:47 PM|Info|Player.Play >> [Player] id=33, cardId=LOOT_170, cardName=Raven Familiar, zonePos=0,Info={turn=2, originalZone=DECK, OriginalController=1}
+2:32:47 PM|Info|Player.JoustReveal >> [Player] id=70, cardId=FP1_018, cardName=Duplicate, zonePos=0,Info={turn=2, mark=Created, created=true, originalZone=DECK, OriginalController=1}
+2:32:47 PM|Info|Player.JoustReveal >> [Opponent] id=71, cardId=LOOT_172, cardName=Dragon's Fury, zonePos=0,Info={turn=2, mark=Created, created=true, originalZone=DECK, OriginalController=2}
+2:32:47 PM|Info|Player.JoustReveal >> [Player] id=70, cardId=FP1_018, cardName=Duplicate, zonePos=0,Info={turn=2, mark=Created, created=true, originalZone=DECK, OriginalController=1}
+2:32:53 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 3 ---
+2:32:53 PM|Info|Player.Draw >> [Opponent] id=42, cardId=, cardName=, zonePos=0,Info={turn=3, originalZone=DECK, hidden=true, OriginalController=2}
+2:33:00 PM|Info|Player.PlayToGraveyard >> [Opponent] id=62, cardId=KAR_009, cardName=Babbling Book, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=2}
+2:33:01 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS2_034 turn:3 from:-1)
+2:33:03 PM|Info|Player.PlayToGraveyard >> [Player] id=33, cardId=LOOT_170, cardName=Raven Familiar, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=1}
+2:33:04 PM|Info|Player.Play >> [Opponent] id=39, cardId=CS2_027, cardName=Mirror Image, zonePos=0,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:33:06 PM|Info|Player.CreateInPlay >> [Opponent] id=72, cardId=CS2_mirror, cardName=Mirror Image, zonePos=1,Info={turn=3, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:33:06 PM|Info|Player.CreateInPlay >> [Opponent] id=73, cardId=CS2_mirror, cardName=Mirror Image, zonePos=2,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:33:07 PM|Info|Player.PlayToGraveyard >> [Opponent] id=39, cardId=CS2_027, cardName=Mirror Image, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=2}
+2:33:08 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 3 ---
+2:33:08 PM|Info|Player.Draw >> [Player] id=13, cardId=AT_090, cardName=Mukla's Champion, zonePos=7,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:33:13 PM|Info|Player.Play >> [Player] id=11, cardId=EX1_612, cardName=Kirin Tor Mage, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=1}
+2:33:13 PM|Info|Player.CreateInSetAside >> [Player] id=74, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:33:13 PM|Info|Player.CreateInPlay >> [Player] id=74, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:33:13 PM|Info|Player.PlayToGraveyard >> [Player] id=74, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:33:13 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 4 ---
+2:33:13 PM|Info|Player.Draw >> [Opponent] id=51, cardId=, cardName=, zonePos=0,Info={turn=4, originalZone=DECK, hidden=true, OriginalController=2}
+2:33:18 PM|Info|Player.Play >> [Opponent] id=45, cardId=LOOT_537, cardName=Leyline Manipulator, zonePos=1,Info={turn=4, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:33:21 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 4 ---
+2:33:21 PM|Info|Player.Draw >> [Player] id=15, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=7,Info={turn=4, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:33:28 PM|Info|Player.Play >> [Player] id=6, cardId=GVG_091, cardName=Arcane Nullifier X-21, zonePos=0,Info={turn=4, originalZone=DECK, OriginalController=1}
+2:33:30 PM|Info|Player.PlayToGraveyard >> [Opponent] id=72, cardId=CS2_mirror, cardName=Mirror Image, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:33:30 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 5 ---
+2:33:30 PM|Info|Player.Draw >> [Opponent] id=43, cardId=, cardName=, zonePos=0,Info={turn=5, originalZone=DECK, hidden=true, OriginalController=2}
+2:34:04 PM|Info|Player.Play >> [Opponent] id=51, cardId=ICC_093, cardName=Tuskarr Fisherman, zonePos=3,Info={turn=5, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:34:05 PM|Info|Player.CreateInSetAside >> [Opponent] id=75, cardId=ICC_093e, cardName=Fresh Fish!, zonePos=0,Info={turn=5, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:34:05 PM|Info|Player.CreateInPlay >> [Opponent] id=75, cardId=ICC_093e, cardName=Fresh Fish!, zonePos=0,Info={turn=5, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:34:08 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS2_034 turn:5 from:-1)
+2:34:11 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 5 ---
+2:34:11 PM|Info|Player.CreateInSetAside >> [Player] id=76, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=5, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:34:11 PM|Info|Player.CreateInPlay >> [Player] id=76, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=5, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:34:11 PM|Info|Player.Draw >> [Player] id=9, cardId=UNG_001, cardName=Pterrordax Hatchling, zonePos=7,Info={turn=5, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:34:29 PM|Info|Player.PlayToGraveyard >> [Opponent] id=73, cardId=CS2_mirror, cardName=Mirror Image, zonePos=0,Info={turn=5, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:34:31 PM|Info|Player.PlayToGraveyard >> [Player] id=11, cardId=EX1_612, cardName=Kirin Tor Mage, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=1}
+2:34:31 PM|Info|Player.PlayToGraveyard >> [Opponent] id=45, cardId=LOOT_537, cardName=Leyline Manipulator, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=2}
+2:34:31 PM|Info|Player.RemoveFromPlay >> [Player] id=75, cardId=ICC_093e, cardName=Fresh Fish!, zonePos=0,Info={turn=5, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:34:32 PM|Info|Player.Play >> [Player] id=5, cardId=CS2_117, cardName=Earthen Ring Farseer, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=1}
+2:34:35 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:5 from:-1)
+2:34:36 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 6 ---
+2:34:36 PM|Info|Player.Draw >> [Opponent] id=60, cardId=, cardName=, zonePos=0,Info={turn=6, originalZone=DECK, hidden=true, OriginalController=2}
+2:34:48 PM|Info|Player.SecretPlayedFromHand >> [Opponent] id=60, cardId=, cardName=, zonePos=0,Info={turn=6, originalZone=DECK, hidden=true, OriginalController=2}
+2:34:48 PM|Info|SecretsManager.NewSecret >> id=60, cardId=, cardName=, zonePos=0,Info={turn=6, originalZone=DECK, hidden=true, OriginalController=2}
+2:35:02 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:35:03 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS2_034 turn:6 from:-1)
+2:35:06 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 6 ---
+2:35:06 PM|Info|Player.Draw >> [Player] id=23, cardId=UNG_948, cardName=Molten Reflection, zonePos=7,Info={turn=6, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:35:17 PM|Info|SecretsManager.Exclude >> Excluded Secret EX1_609
+2:35:17 PM|Info|SecretsManager.Exclude >> Excluded Secret LOOT_101
+2:35:17 PM|Info|SecretsManager.Exclude >> Excluded Secret CFM_620
+2:35:17 PM|Info|SecretsManager.Exclude >> Excluded Secret EX1_379
+2:35:17 PM|Info|SecretsManager.Exclude >> Excluded Secret EX1_294
+2:35:17 PM|Info|SecretsManager.Exclude >> Excluded Secret ICC_082
+2:35:17 PM|Info|Player.Play >> [Player] id=21, cardId=CFM_066, cardName=Kabal Lackey, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=1}
+2:35:17 PM|Info|Player.CreateInSetAside >> [Player] id=77, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=6, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:35:17 PM|Info|Player.CreateInPlay >> [Player] id=77, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=6, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:35:22 PM|Info|SecretsManager.Exclude >> Excluded Secret EX1_130
+2:35:22 PM|Info|SecretsManager.Exclude >> Excluded Secret EX1_554
+2:35:22 PM|Info|SecretsManager.Exclude >> Excluded Secret ICC_200
+2:35:22 PM|Info|SecretsManager.Exclude >> Excluded Secret EX1_611
+2:35:23 PM|Info|Player.PlayToGraveyard >> [Opponent] id=51, cardId=ICC_093, cardName=Tuskarr Fisherman, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=2}
+2:35:23 PM|Info|SecretsManager.Exclude >> Excluded Secret FP1_018
+2:35:23 PM|Info|SecretsManager.Exclude >> Excluded Secret CFM_800
+2:35:23 PM|Info|SecretsManager.Exclude >> Excluded Secret LOOT_204
+2:35:23 PM|Info|SecretsManager.Exclude >> Excluded Secret EX1_136
+2:35:23 PM|Info|SecretsManager.Exclude >> Excluded Secret AT_002
+2:35:23 PM|Info|Player.CreateInHand >> [Opponent] id=78, cardId=, cardName=, zonePos=6,Info={turn=6, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true}
+2:35:23 PM|Info|Player.CreateInHand >> [Opponent] id=79, cardId=, cardName=, zonePos=7,Info={turn=6, mark=Created, created=true, originalZone=HAND}
+2:35:28 PM|Info|Player.SecretTriggered >> [Opponent] id=60, cardId=FP1_018, cardName=Duplicate, zonePos=0,Info={turn=6, originalZone=DECK, hidden=true, OriginalController=2}
+2:35:28 PM|Info|SecretsManager.Exclude >> Excluded Secret FP1_018
+2:35:31 PM|Info|Player.Play >> [Player] id=9, cardId=UNG_001, cardName=Pterrordax Hatchling, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=1}
+2:35:31 PM|Info|Player.CreateInSetAside >> [Player] id=80, cardId=UNG_999t5, cardName=Liquid Membrane, zonePos=0,Info={turn=6, mark=Created, created=true, hasOutstandingTagChanges=true, OriginalController=1}
+2:35:31 PM|Info|Player.CreateInSetAside >> [Player] id=81, cardId=UNG_999t2, cardName=Living Spores, zonePos=0,Info={turn=6, mark=Created, created=true, hasOutstandingTagChanges=true, OriginalController=1}
+2:35:35 PM|Info|Player.CreateInSetAside >> [Player] id=82, cardId=UNG_999t6, cardName=Massive, zonePos=0,Info={turn=6, mark=Created, created=true, hasOutstandingTagChanges=true, OriginalController=1}
+2:35:35 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=81): 6 -> 4
+2:35:35 PM|Info|Player.CreateInPlay >> [Player] id=83, cardId=UNG_999t2, cardName=Living Spores, zonePos=0,Info={turn=6, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true}
+2:35:35 PM|Info|Player.CreateInSetAside >> [Player] id=83, cardId=UNG_999t2, cardName=Living Spores, zonePos=0,Info={turn=6, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:35:35 PM|Info|Player.CreateInSetAside >> [Player] id=84, cardId=UNG_999t2e, cardName=Living Spores, zonePos=0,Info={turn=6, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:35:35 PM|Info|Player.CreateInPlay >> [Player] id=84, cardId=UNG_999t2e, cardName=Living Spores, zonePos=0,Info={turn=6, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:35:36 PM|Info|Player.PlayToGraveyard >> [Player] id=83, cardId=UNG_999t2, cardName=Living Spores, zonePos=0,Info={turn=6, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:35:37 PM|Info|Player.PlayToGraveyard >> [Player] id=77, cardId=EX1_612o, cardName=Power of the Kirin Tor, zonePos=0,Info={turn=6, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:35:37 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 7 ---
+2:35:37 PM|Info|Player.Draw >> [Opponent] id=37, cardId=, cardName=, zonePos=0,Info={turn=7, originalZone=DECK, hidden=true, OriginalController=2}
+2:35:42 PM|Info|Player.Play >> [Opponent] id=37, cardId=LOOT_172, cardName=Dragon's Fury, zonePos=0,Info={turn=7, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:35:43 PM|Info|Player.JoustReveal >> [Opponent] id=85, cardId=AT_001, cardName=Flame Lance, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=DECK, OriginalController=2}
+2:35:50 PM|Info|Player.CreateInSetAside >> [Opponent] id=86, cardId=AT_001, cardName=Flame Lance, zonePos=0,Info={turn=7, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:35:50 PM|Info|Player.PlayToGraveyard >> [Opponent] id=37, cardId=LOOT_172, cardName=Dragon's Fury, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=2}
+2:35:51 PM|Info|Player.PlayToGraveyard >> [Player] id=6, cardId=GVG_091, cardName=Arcane Nullifier X-21, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=1}
+2:35:51 PM|Info|Player.PlayToGraveyard >> [Player] id=5, cardId=CS2_117, cardName=Earthen Ring Farseer, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=1}
+2:35:51 PM|Info|Player.PlayToGraveyard >> [Player] id=21, cardId=CFM_066, cardName=Kabal Lackey, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=1}
+2:35:51 PM|Info|Player.PlayToGraveyard >> [Player] id=9, cardId=UNG_001, cardName=Pterrordax Hatchling, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=1}
+2:35:51 PM|Info|Player.RemoveFromPlay >> [Player] id=84, cardId=UNG_999t2e, cardName=Living Spores, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:35:51 PM|Info|Player.CreateInPlay >> [Player] id=87, cardId=UNG_999t2t1, cardName=Plant, zonePos=2,Info={turn=7, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:35:51 PM|Info|Player.CreateInPlay >> [Player] id=88, cardId=UNG_999t2t1, cardName=Plant, zonePos=1,Info={turn=7, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:35:52 PM|Info|Player.Play >> [Opponent] id=79, cardId=ICC_093, cardName=Tuskarr Fisherman, zonePos=1,Info={turn=7, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=2}
+2:35:55 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 7 ---
+2:35:55 PM|Info|Player.Draw >> [Player] id=24, cardId=CFM_760, cardName=Kabal Crystal Runner, zonePos=6,Info={turn=7, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:36:05 PM|Info|Player.Play >> [Player] id=15, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=1, OriginalCardId=LOOT_104}
+2:36:05 PM|Info|Player.PlayToGraveyard >> [Player] id=76, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:36:05 PM|Info|Player.CreateInDeck >> [Player] id=89, cardId=, cardName=, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=DECK, hasOutstandingTagChanges=true}
+2:36:05 PM|Info|Player.CreateInDeck >> [Player] id=90, cardId=, cardName=, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=DECK, hasOutstandingTagChanges=true}
+2:36:05 PM|Info|Player.CreateInDeck >> [Player] id=91, cardId=, cardName=, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=DECK, hasOutstandingTagChanges=true}
+2:36:05 PM|Info|Player.CreateInDeck >> [Player] id=92, cardId=, cardName=, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=DECK, hasOutstandingTagChanges=true}
+2:36:05 PM|Info|Player.CreateInDeck >> [Player] id=93, cardId=LOOT_106t, cardName=Scroll of Wonder, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=DECK, hasOutstandingTagChanges=true}
+2:36:10 PM|Info|Player.PlayToGraveyard >> [Player] id=15, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=1, OriginalCardId=LOOT_104}
+2:36:10 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:7 from:-1)
+2:36:11 PM|Info|Player.PlayToGraveyard >> [Player] id=87, cardId=UNG_999t2t1, cardName=Plant, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:36:12 PM|Info|Player.PlayToGraveyard >> [Player] id=88, cardId=UNG_999t2t1, cardName=Plant, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:36:12 PM|Info|Player.PlayToGraveyard >> [Opponent] id=79, cardId=ICC_093, cardName=Tuskarr Fisherman, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+2:36:12 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 8 ---
+2:36:12 PM|Info|Player.Draw >> [Opponent] id=63, cardId=, cardName=, zonePos=0,Info={turn=8, originalZone=DECK, hidden=true, OriginalController=2}
+2:36:28 PM|Info|Player.Play >> [Opponent] id=63, cardId=LOOT_153, cardName=Violet Wurm, zonePos=1,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:36:31 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 8 ---
+2:36:31 PM|Info|Player.Draw >> [Player] id=19, cardId=CFM_854, cardName=Ancient of Blossoms, zonePos=6,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:36:38 PM|Info|Player.Play >> [Player] id=19, cardId=CFM_854, cardName=Ancient of Blossoms, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=1}
+2:36:40 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:8 from:-1)
+2:36:41 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 9 ---
+2:36:41 PM|Info|Player.Draw >> [Opponent] id=53, cardId=, cardName=, zonePos=0,Info={turn=9, originalZone=DECK, hidden=true, OriginalController=2}
+2:36:51 PM|Info|SecretsManager.Exclude >> Excluded Secret CFM_026
+2:36:51 PM|Info|Player.Play >> [Opponent] id=61, cardId=UNG_002, cardName=Volcanosaur, zonePos=1,Info={turn=9, mark=Mulliganed, mulliganed=true, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:36:52 PM|Info|Player.CreateInSetAside >> [Opponent] id=94, cardId=, cardName=, zonePos=0,Info={turn=9, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:36:52 PM|Info|Player.CreateInSetAside >> [Opponent] id=95, cardId=, cardName=, zonePos=0,Info={turn=9, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:36:55 PM|Info|Player.CreateInSetAside >> [Opponent] id=96, cardId=, cardName=, zonePos=0,Info={turn=9, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:36:55 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=94): 6 -> 4
+2:36:55 PM|Info|Player.CreateInSetAside >> [Opponent] id=97, cardId=UNG_999t14, cardName=Volcanic Might, zonePos=0,Info={turn=9, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:36:55 PM|Info|Player.CreateInPlay >> [Opponent] id=97, cardId=UNG_999t14, cardName=Volcanic Might, zonePos=0,Info={turn=9, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:36:56 PM|Info|Player.CreateInSetAside >> [Opponent] id=98, cardId=UNG_999t14e, cardName=Volcanic Might, zonePos=0,Info={turn=9, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:36:56 PM|Info|Player.CreateInPlay >> [Opponent] id=98, cardId=UNG_999t14e, cardName=Volcanic Might, zonePos=0,Info={turn=9, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:36:56 PM|Info|Player.PlayToGraveyard >> [Opponent] id=97, cardId=UNG_999t14, cardName=Volcanic Might, zonePos=0,Info={turn=9, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:36:56 PM|Info|Player.CreateInSetAside >> [Opponent] id=99, cardId=, cardName=, zonePos=0,Info={turn=9, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:36:56 PM|Info|Player.CreateInSetAside >> [Opponent] id=100, cardId=, cardName=, zonePos=0,Info={turn=9, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:36:59 PM|Info|Player.CreateInSetAside >> [Opponent] id=101, cardId=UNG_999t3, cardName=Flaming Claws, zonePos=0,Info={turn=9, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:36:59 PM|Warning|TagChangeActions.ZoneChangeFromOther >> unhandled zone change (id=101): 6 -> 4
+2:36:59 PM|Info|Player.CreateInSetAside >> [Opponent] id=102, cardId=UNG_999t3, cardName=Flaming Claws, zonePos=0,Info={turn=9, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:36:59 PM|Info|Player.CreateInPlay >> [Opponent] id=102, cardId=UNG_999t3, cardName=Flaming Claws, zonePos=0,Info={turn=9, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:37:00 PM|Info|Player.CreateInSetAside >> [Opponent] id=103, cardId=UNG_999t3e, cardName=Flaming Claws, zonePos=0,Info={turn=9, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:37:00 PM|Info|Player.CreateInPlay >> [Opponent] id=103, cardId=UNG_999t3e, cardName=Flaming Claws, zonePos=0,Info={turn=9, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:37:00 PM|Info|Player.PlayToGraveyard >> [Opponent] id=102, cardId=UNG_999t3, cardName=Flaming Claws, zonePos=0,Info={turn=9, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:37:02 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS2_034 turn:9 from:-1)
+2:37:03 PM|Info|Player.PlayToGraveyard >> [Player] id=19, cardId=CFM_854, cardName=Ancient of Blossoms, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=1}
+2:37:05 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 9 ---
+2:37:05 PM|Info|Player.Draw >> [Player] id=12, cardId=OG_247, cardName=Twisted Worgen, zonePos=6,Info={turn=9, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:37:20 PM|Info|Player.Play >> [Player] id=12, cardId=OG_247, cardName=Twisted Worgen, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=1}
+2:37:20 PM|Info|Player.Play >> [Player] id=24, cardId=CFM_760, cardName=Kabal Crystal Runner, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=1}
+2:37:22 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 10 ---
+2:37:22 PM|Info|Player.Draw >> [Opponent] id=44, cardId=, cardName=, zonePos=0,Info={turn=10, originalZone=DECK, hidden=true, OriginalController=2}
+2:37:39 PM|Info|Player.Play >> [Opponent] id=44, cardId=AT_086, cardName=Saboteur, zonePos=3,Info={turn=10, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:37:40 PM|Info|Player.CreateInSetAside >> [Opponent] id=104, cardId=AT_086e, cardName=Villainy, zonePos=0,Info={turn=10, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:37:40 PM|Info|Player.CreateInPlay >> [Opponent] id=104, cardId=AT_086e, cardName=Villainy, zonePos=0,Info={turn=10, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:37:42 PM|Info|Player.Play >> [Opponent] id=69, cardId=CS2_029, cardName=Fireball, zonePos=0,Info={turn=10, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=2}
+2:37:45 PM|Info|Player.PlayToGraveyard >> [Opponent] id=69, cardId=CS2_029, cardName=Fireball, zonePos=0,Info={turn=10, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+2:37:45 PM|Info|Player.PlayToGraveyard >> [Player] id=24, cardId=CFM_760, cardName=Kabal Crystal Runner, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=1}
+2:37:49 PM|Info|GameEventHandler.HandleOpponentHeroPower >> OpponentHeroPower (id:CS2_034 turn:10 from:-1)
+2:37:52 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 10 ---
+2:37:52 PM|Info|Player.Draw >> [Player] id=18, cardId=LOE_119, cardName=Animated Armor, zonePos=5,Info={turn=10, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:38:14 PM|Info|Player.PlayToGraveyard >> [Player] id=12, cardId=OG_247, cardName=Twisted Worgen, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=1}
+2:38:14 PM|Info|Player.Play >> [Player] id=32, cardId=CS2_032, cardName=Flamestrike, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=1}
+2:38:15 PM|Info|Player.PlayToGraveyard >> [Player] id=32, cardId=CS2_032, cardName=Flamestrike, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=1}
+2:38:15 PM|Info|Player.PlayToGraveyard >> [Opponent] id=63, cardId=LOOT_153, cardName=Violet Wurm, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=2}
+2:38:15 PM|Info|Player.PlayToGraveyard >> [Opponent] id=61, cardId=UNG_002, cardName=Volcanosaur, zonePos=0,Info={turn=10, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=2}
+2:38:15 PM|Info|Player.RemoveFromPlay >> [Player] id=98, cardId=UNG_999t14e, cardName=Volcanic Might, zonePos=0,Info={turn=10, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:38:15 PM|Info|Player.RemoveFromPlay >> [Player] id=103, cardId=UNG_999t3e, cardName=Flaming Claws, zonePos=0,Info={turn=10, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:38:15 PM|Info|Player.PlayToGraveyard >> [Opponent] id=44, cardId=AT_086, cardName=Saboteur, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=2}
+2:38:15 PM|Info|Player.CreateInPlay >> [Opponent] id=105, cardId=LOOT_153t1, cardName=Grub, zonePos=1,Info={turn=10, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:38:15 PM|Info|Player.CreateInPlay >> [Opponent] id=106, cardId=LOOT_153t1, cardName=Grub, zonePos=3,Info={turn=10, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:38:15 PM|Info|Player.CreateInPlay >> [Opponent] id=107, cardId=LOOT_153t1, cardName=Grub, zonePos=3,Info={turn=10, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:38:15 PM|Info|Player.CreateInPlay >> [Opponent] id=108, cardId=LOOT_153t1, cardName=Grub, zonePos=3,Info={turn=10, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:38:15 PM|Info|Player.CreateInPlay >> [Opponent] id=109, cardId=LOOT_153t1, cardName=Grub, zonePos=3,Info={turn=10, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:38:15 PM|Info|Player.CreateInPlay >> [Opponent] id=110, cardId=LOOT_153t1, cardName=Grub, zonePos=3,Info={turn=10, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:38:15 PM|Info|Player.CreateInPlay >> [Opponent] id=111, cardId=LOOT_153t1, cardName=Grub, zonePos=2,Info={turn=10, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:38:17 PM|Info|Player.Play >> [Player] id=68, cardId=GAME_005, cardName=The Coin, zonePos=0,Info={turn=10, mark=Coin, created=true, originalZone=HAND, OriginalController=1}
+2:38:18 PM|Info|Player.PlayToGraveyard >> [Player] id=68, cardId=GAME_005, cardName=The Coin, zonePos=0,Info={turn=10, mark=Coin, created=true, originalZone=HAND, OriginalController=1}
+2:38:18 PM|Info|Player.Play >> [Player] id=18, cardId=LOE_119, cardName=Animated Armor, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=1}
+2:38:19 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 11 ---
+2:38:19 PM|Info|Player.PlayToGraveyard >> [Opponent] id=104, cardId=AT_086e, cardName=Villainy, zonePos=0,Info={turn=11, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:38:19 PM|Info|Player.Draw >> [Opponent] id=59, cardId=, cardName=, zonePos=0,Info={turn=11, originalZone=DECK, hidden=true, OriginalController=2}
+2:38:37 PM|Info|Player.PlayToGraveyard >> [Opponent] id=105, cardId=LOOT_153t1, cardName=Grub, zonePos=0,Info={turn=11, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:38:38 PM|Info|Player.PlayToGraveyard >> [Opponent] id=111, cardId=LOOT_153t1, cardName=Grub, zonePos=0,Info={turn=11, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:38:40 PM|Info|Player.PlayToGraveyard >> [Opponent] id=110, cardId=LOOT_153t1, cardName=Grub, zonePos=0,Info={turn=11, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:38:43 PM|Info|Player.PlayToGraveyard >> [Opponent] id=109, cardId=LOOT_153t1, cardName=Grub, zonePos=0,Info={turn=11, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:38:43 PM|Info|Player.PlayToGraveyard >> [Player] id=18, cardId=LOE_119, cardName=Animated Armor, zonePos=0,Info={turn=11, originalZone=DECK, OriginalController=1}
+2:38:45 PM|Info|Player.Play >> [Opponent] id=53, cardId=CS2_029, cardName=Fireball, zonePos=0,Info={turn=11, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:38:48 PM|Info|Player.PlayToGraveyard >> [Opponent] id=53, cardId=CS2_029, cardName=Fireball, zonePos=0,Info={turn=11, originalZone=DECK, OriginalController=2}
+2:38:50 PM|Info|Player.Play >> [Opponent] id=49, cardId=BRM_003, cardName=Dragon's Breath, zonePos=0,Info={turn=11, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:38:53 PM|Info|Player.PlayToGraveyard >> [Opponent] id=49, cardId=BRM_003, cardName=Dragon's Breath, zonePos=0,Info={turn=11, originalZone=DECK, OriginalController=2}
+2:38:55 PM|Info|Player.Play >> [Opponent] id=43, cardId=CS2_029, cardName=Fireball, zonePos=0,Info={turn=11, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:38:58 PM|Info|Player.PlayToGraveyard >> [Opponent] id=43, cardId=CS2_029, cardName=Fireball, zonePos=0,Info={turn=11, originalZone=DECK, OriginalController=2}
+2:38:58 PM|Info|Player.PlayToGraveyard >> [Player] id=64, cardId=HERO_08, cardName=Jaina Proudmoore, zonePos=0,Info={turn=11, originalZone=DECK, OriginalController=1}
+2:38:58 PM|Info|GameEventHandler.HandleLoss >> --- Game was lost! ---
+2:38:58 PM|Info|TurnTimer.Stop >> Stopping turn timer
+2:38:58 PM|Info|GameEventHandler.HandleGameEnd >> Game ended...
+2:38:58 PM|Info|GameEventHandler.HandleGameEnd >> Format: 
+2:38:58 PM|Info|GameStats.GameEnd >> Current Game ended after 11 turns
+2:38:58 PM|Info|GameEventHandler.HandleGameEnd >> Assigned current game to deck: Arena 04-03 02:34
+2:38:58 PM|Info|GameEventHandler.LogIsComplete >> GOLD_REWARD_STATE not found
+2:38:59 PM|Info|LogUploader.Upload >> Uploading -1164853109...
+2:38:59 PM|Info|LogUploader.TryUpload >> Creating upload request...
+2:38:59 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:38:59 PM|Info|LogUploader.TryUpload >> Upload Id: tfQPUbagMyT2BEMXvpmavg
+2:39:00 PM|Info|LogUploader.TryUpload >> Upload complete
+2:39:00 PM|Info|LogUploader.Upload >> -1164853109 complete. Success=True
+2:39:04 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:39:09 PM|Info|GameV2.CurrentMode >> DRAFT
+2:39:09 PM|Info|GameEventHandler.HandleInMenu >> Game is now in menu.
+2:39:09 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:39:09 PM|Info|GameEventHandler.SaveAndUpdateStats >> Saving DeckStats
+2:39:10 PM|Info|DeckManager.AutoImportArena >> Found new complete HERO_08 arena deck!
+2:39:10 PM|Info|DeckManager.AutoImportArena >> ...but we already have that one. Discarding.
+2:39:11 PM|Info|FullScreenFxHandler.Handle >> Now in queue (3/4/2018 2:39:11 PM)
+2:39:11 PM|Info|FullScreenFxHandler.AutoSelectArenaDeck >> Switching to arena deck deck: Arena 04-03 02:34
+2:39:11 PM|Info|MainWindow.SelectDeck >> Switched to deck: Arena 04-03 02:34 (v1.0)
+2:39:11 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:39:12 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'E:\Hearthstone\Logs'
+14:39:12|Info|LogWatcherManager.OnLogFileFound >> Rachelle
+14:39:12|Info|LogWatcherManager.OnLogFileFound >> Power
+14:39:12|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+2:39:12 PM|Info|GameV2.CurrentMode >> DRAFT
+2:39:13 PM|Info|DeckManager.AutoImportArena >> Found new complete HERO_08 arena deck!
+2:39:13 PM|Info|DeckManager.AutoImportArena >> ...but we already have that one. Discarding.
+2:39:27 PM|Info|GameEventHandler.HandleGameStart >> --- Game start ---
+2:39:27 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:39:27 PM|Warning|Helper.GetRegionByServerIp >> Unknown IP: 37.244.49.91
+2:39:27 PM|Info|TurnTimer.Start >> Starting turn timer
+2:39:27 PM|Warning|TurnTimer.Start >> Waiting for player entity
+2:39:31 PM|Info|GameV2.CacheMatchInfo >> Ropack vs Tuulizz
+2:39:32 PM|Info|GameV2.CurrentMode >> GAMEPLAY
+2:39:32 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=64
+2:39:32 PM|Info|GameEventHandler.SetPlayerHero >> Player=Mage
+2:39:32 PM|Info|TagChangeActions.SetHeroAsync >> Found hero with id=66
+2:39:32 PM|Info|GameEventHandler.SetOpponentHero >> Opponent=Mage
+2:39:32 PM|Info|Player.Draw >> [Player] id=23, cardId=EX1_274, cardName=Ethereal Arcanist, zonePos=1,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:39:32 PM|Info|Player.Draw >> [Player] id=13, cardId=GVG_099, cardName=Bomb Lobber, zonePos=2,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:39:32 PM|Info|Player.Draw >> [Player] id=28, cardId=CFM_854, cardName=Ancient of Blossoms, zonePos=3,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:39:32 PM|Info|Player.Draw >> [Opponent] id=58, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+2:39:32 PM|Info|Player.Draw >> [Opponent] id=42, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+2:39:32 PM|Info|Player.Draw >> [Opponent] id=63, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+2:39:32 PM|Info|Player.Draw >> [Opponent] id=57, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+2:39:32 PM|Info|Player.CreateInHand >> [Opponent] id=68, cardId=GAME_005, cardName=The Coin, zonePos=5,Info={turn=0, mark=Coin, created=true, originalZone=HAND, hasOutstandingTagChanges=true}
+2:39:57 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:40:00 PM|Info|Player.Draw >> [Opponent] id=59, cardId=, cardName=, zonePos=0,Info={turn=0, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=2}
+2:40:00 PM|Info|Player.Mulligan >> [Opponent] id=42, cardId=, cardName=, zonePos=0,Info={turn=0, originalZone=DECK, hidden=true, OriginalController=2}
+2:40:02 PM|Info|Player.Draw >> [Player] id=10, cardId=FP1_018, cardName=Duplicate, zonePos=1,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:40:02 PM|Info|Player.Mulligan >> [Player] id=23, cardId=EX1_274, cardName=Ethereal Arcanist, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1}
+2:40:02 PM|Info|Player.Draw >> [Player] id=26, cardId=CS2_032, cardName=Flamestrike, zonePos=2,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:40:02 PM|Info|Player.Mulligan >> [Player] id=13, cardId=GVG_099, cardName=Bomb Lobber, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1}
+2:40:02 PM|Info|Player.Draw >> [Player] id=29, cardId=GVG_067, cardName=Stonesplinter Trogg, zonePos=3,Info={turn=0, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:40:02 PM|Info|Player.Mulligan >> [Player] id=28, cardId=CFM_854, cardName=Ancient of Blossoms, zonePos=0,Info={turn=0, originalZone=DECK, OriginalController=1}
+2:40:08 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 1 ---
+2:40:08 PM|Info|Player.Draw >> [Player] id=15, cardId=LOOT_170, cardName=Raven Familiar, zonePos=4,Info={turn=1, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:40:16 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 1 ---
+2:40:16 PM|Info|Player.Draw >> [Opponent] id=36, cardId=, cardName=, zonePos=0,Info={turn=1, originalZone=DECK, hidden=true, OriginalController=2}
+2:40:20 PM|Info|Player.Play >> [Opponent] id=58, cardId=FP1_028, cardName=Undertaker, zonePos=1,Info={turn=1, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:40:23 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 2 ---
+2:40:23 PM|Info|Player.Draw >> [Player] id=19, cardId=GVG_091, cardName=Arcane Nullifier X-21, zonePos=5,Info={turn=2, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:40:44 PM|Info|Player.Play >> [Player] id=15, cardId=LOOT_170, cardName=Raven Familiar, zonePos=0,Info={turn=2, originalZone=DECK, OriginalController=1}
+2:40:44 PM|Info|Player.JoustReveal >> [Player] id=69, cardId=KAR_076, cardName=Firelands Portal, zonePos=0,Info={turn=2, mark=Created, created=true, originalZone=DECK, OriginalController=1}
+2:40:44 PM|Info|Player.JoustReveal >> [Opponent] id=70, cardId=UNG_955, cardName=Meteor, zonePos=0,Info={turn=2, mark=Created, created=true, originalZone=DECK, OriginalController=2}
+2:40:44 PM|Info|Player.JoustReveal >> [Player] id=69, cardId=KAR_076, cardName=Firelands Portal, zonePos=0,Info={turn=2, mark=Created, created=true, originalZone=DECK, OriginalController=1}
+2:40:51 PM|Info|Player.Draw >> [Player] id=24, cardId=KAR_076, cardName=Firelands Portal, zonePos=5,Info={turn=2, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:40:51 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 2 ---
+2:40:51 PM|Info|Player.Draw >> [Opponent] id=62, cardId=, cardName=, zonePos=0,Info={turn=2, originalZone=DECK, hidden=true, OriginalController=2}
+2:41:01 PM|Info|Player.Play >> [Opponent] id=36, cardId=GVG_108, cardName=Recombobulator, zonePos=2,Info={turn=2, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:41:02 PM|Info|Player.CreateInSetAside >> [Opponent] id=71, cardId=, cardName=, zonePos=0,Info={turn=2, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:41:02 PM|Info|Player.CreateInPlay >> [Opponent] id=71, cardId=LOE_010, cardName=Pit Snake, zonePos=0,Info={turn=2, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:41:02 PM|Info|Player.RemoveFromPlay >> [Player] id=58, cardId=FP1_028, cardName=Undertaker, zonePos=0,Info={turn=2, originalZone=DECK, OriginalController=2}
+2:41:07 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 3 ---
+2:41:07 PM|Info|Player.Draw >> [Player] id=31, cardId=OG_247, cardName=Twisted Worgen, zonePos=6,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:41:26 PM|Info|Player.Play >> [Player] id=31, cardId=OG_247, cardName=Twisted Worgen, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=1}
+2:41:28 PM|Info|Player.PlayToGraveyard >> [Player] id=15, cardId=LOOT_170, cardName=Raven Familiar, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=1}
+2:41:28 PM|Info|Player.PlayToGraveyard >> [Opponent] id=36, cardId=GVG_108, cardName=Recombobulator, zonePos=0,Info={turn=3, originalZone=DECK, OriginalController=2}
+2:41:28 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 3 ---
+2:41:28 PM|Info|Player.Draw >> [Opponent] id=61, cardId=, cardName=, zonePos=0,Info={turn=3, originalZone=DECK, hidden=true, OriginalController=2}
+2:41:35 PM|Info|Player.Play >> [Opponent] id=63, cardId=UNG_072, cardName=Stonehill Defender, zonePos=1,Info={turn=3, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:41:37 PM|Info|Player.CreateInSetAside >> [Opponent] id=72, cardId=, cardName=, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:41:37 PM|Info|Player.CreateInSetAside >> [Opponent] id=73, cardId=, cardName=, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:41:41 PM|Info|Player.CreateInSetAside >> [Opponent] id=74, cardId=, cardName=, zonePos=0,Info={turn=3, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:41:41 PM|Info|Player.CreateInHand >> [Opponent] id=73, cardId=, cardName=, zonePos=0,Info={turn=3, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+2:41:43 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 4 ---
+2:41:43 PM|Info|Player.Draw >> [Player] id=28, cardId=CFM_854, cardName=Ancient of Blossoms, zonePos=6,Info={turn=4, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:42:05 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:4 from:-1)
+2:42:06 PM|Info|Player.PlayToGraveyard >> [Opponent] id=71, cardId=LOE_010, cardName=Pit Snake, zonePos=0,Info={turn=4, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:42:08 PM|Info|Player.Play >> [Player] id=29, cardId=GVG_067, cardName=Stonesplinter Trogg, zonePos=0,Info={turn=4, originalZone=DECK, OriginalController=1}
+2:42:08 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 4 ---
+2:42:08 PM|Info|Player.Draw >> [Opponent] id=55, cardId=, cardName=, zonePos=0,Info={turn=4, originalZone=DECK, hidden=true, OriginalController=2}
+2:42:17 PM|Info|Player.Play >> [Opponent] id=55, cardId=KAR_009, cardName=Babbling Book, zonePos=2,Info={turn=4, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:42:18 PM|Info|Player.CreateInHand >> [Opponent] id=75, cardId=, cardName=, zonePos=7,Info={turn=4, mark=Created, created=true, originalZone=HAND}
+2:42:21 PM|Info|Player.Play >> [Opponent] id=61, cardId=EX1_020, cardName=Scarlet Crusader, zonePos=3,Info={turn=4, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:42:26 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 5 ---
+2:42:26 PM|Info|Player.Draw >> [Player] id=12, cardId=OG_090, cardName=Cabalist's Tome, zonePos=6,Info={turn=5, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:42:37 PM|Info|Player.Play >> [Player] id=19, cardId=GVG_091, cardName=Arcane Nullifier X-21, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=1}
+2:42:40 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 5 ---
+2:42:40 PM|Info|Player.Draw >> [Opponent] id=37, cardId=, cardName=, zonePos=0,Info={turn=5, originalZone=DECK, hidden=true, OriginalController=2}
+2:42:59 PM|Info|Player.Play >> [Opponent] id=68, cardId=GAME_005, cardName=The Coin, zonePos=0,Info={turn=5, mark=Coin, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=2}
+2:43:01 PM|Info|Player.CreateInSetAside >> [Player] id=76, cardId=GVG_067a, cardName=Metabolized Magic, zonePos=0,Info={turn=5, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:43:01 PM|Info|Player.CreateInPlay >> [Player] id=76, cardId=GVG_067a, cardName=Metabolized Magic, zonePos=0,Info={turn=5, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:43:02 PM|Info|Player.PlayToGraveyard >> [Opponent] id=68, cardId=GAME_005, cardName=The Coin, zonePos=0,Info={turn=5, mark=Coin, created=true, originalZone=HAND, OriginalController=2}
+2:43:04 PM|Info|Player.Play >> [Opponent] id=59, cardId=CS2_028, cardName=Blizzard, zonePos=0,Info={turn=5, mark=Mulliganed, mulliganed=true, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:43:08 PM|Info|Player.PlayToGraveyard >> [Opponent] id=59, cardId=CS2_028, cardName=Blizzard, zonePos=0,Info={turn=5, mark=Mulliganed, mulliganed=true, originalZone=DECK, OriginalController=2}
+2:43:08 PM|Info|Player.PlayToGraveyard >> [Player] id=31, cardId=OG_247, cardName=Twisted Worgen, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=1}
+2:43:08 PM|Info|Player.PlayToGraveyard >> [Player] id=29, cardId=GVG_067, cardName=Stonesplinter Trogg, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=1}
+2:43:08 PM|Info|Player.RemoveFromPlay >> [Player] id=76, cardId=GVG_067a, cardName=Metabolized Magic, zonePos=0,Info={turn=5, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:43:08 PM|Info|Player.PlayToGraveyard >> [Player] id=19, cardId=GVG_091, cardName=Arcane Nullifier X-21, zonePos=0,Info={turn=5, originalZone=DECK, OriginalController=1}
+2:43:16 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 6 ---
+2:43:16 PM|Info|Player.Draw >> [Player] id=8, cardId=UNG_948, cardName=Molten Reflection, zonePos=6,Info={turn=6, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:43:23 PM|Info|Player.Play >> [Player] id=28, cardId=CFM_854, cardName=Ancient of Blossoms, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=1}
+2:43:25 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 6 ---
+2:43:25 PM|Info|Player.Draw >> [Opponent] id=39, cardId=, cardName=, zonePos=0,Info={turn=6, originalZone=DECK, hidden=true, OriginalController=2}
+2:43:34 PM|Info|Player.Play >> [Opponent] id=39, cardId=AT_121, cardName=Crowd Favorite, zonePos=4,Info={turn=6, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:43:37 PM|Info|Player.Play >> [Opponent] id=57, cardId=CFM_659, cardName=Gadgetzan Socialite, zonePos=1,Info={turn=6, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:43:38 PM|Info|Player.CreateInSetAside >> [Opponent] id=77, cardId=AT_121e, cardName=Huge Ego, zonePos=0,Info={turn=6, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:43:38 PM|Info|Player.CreateInPlay >> [Opponent] id=77, cardId=AT_121e, cardName=Huge Ego, zonePos=0,Info={turn=6, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:43:42 PM|Info|Player.PlayToGraveyard >> [Opponent] id=61, cardId=EX1_020, cardName=Scarlet Crusader, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=2}
+2:43:43 PM|Info|Player.PlayToGraveyard >> [Opponent] id=55, cardId=KAR_009, cardName=Babbling Book, zonePos=0,Info={turn=6, originalZone=DECK, OriginalController=2}
+2:43:43 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 7 ---
+2:43:43 PM|Info|Player.Draw >> [Player] id=23, cardId=EX1_274, cardName=Ethereal Arcanist, zonePos=6,Info={turn=7, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:44:01 PM|Info|Player.Play >> [Player] id=24, cardId=KAR_076, cardName=Firelands Portal, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=1}
+2:44:01 PM|Info|Player.CreateInPlay >> [Player] id=78, cardId=BRM_034, cardName=Blackwing Corruptor, zonePos=2,Info={turn=7, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:44:03 PM|Info|Player.PlayToGraveyard >> [Player] id=24, cardId=KAR_076, cardName=Firelands Portal, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=1}
+2:44:03 PM|Info|Player.PlayToGraveyard >> [Opponent] id=39, cardId=AT_121, cardName=Crowd Favorite, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=2}
+2:44:03 PM|Info|Player.RemoveFromPlay >> [Player] id=77, cardId=AT_121e, cardName=Huge Ego, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:44:06 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 7 ---
+2:44:06 PM|Info|Player.Draw >> [Opponent] id=42, cardId=, cardName=, zonePos=0,Info={turn=7, originalZone=DECK, hidden=true, OriginalController=2}
+2:44:14 PM|Info|Player.PlayToGraveyard >> [Opponent] id=63, cardId=UNG_072, cardName=Stonehill Defender, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=2}
+2:44:15 PM|Info|Player.PlayToGraveyard >> [Player] id=28, cardId=CFM_854, cardName=Ancient of Blossoms, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=1}
+2:44:15 PM|Info|Player.PlayToGraveyard >> [Opponent] id=57, cardId=CFM_659, cardName=Gadgetzan Socialite, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=2}
+2:44:16 PM|Info|Player.Play >> [Opponent] id=42, cardId=KAR_076, cardName=Firelands Portal, zonePos=0,Info={turn=7, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:44:17 PM|Info|Player.CreateInPlay >> [Opponent] id=79, cardId=ICC_029, cardName=Cobalt Scalebane, zonePos=1,Info={turn=7, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:44:19 PM|Info|Player.PlayToGraveyard >> [Opponent] id=42, cardId=KAR_076, cardName=Firelands Portal, zonePos=0,Info={turn=7, originalZone=DECK, OriginalController=2}
+2:44:19 PM|Info|Player.PlayToGraveyard >> [Player] id=78, cardId=BRM_034, cardName=Blackwing Corruptor, zonePos=0,Info={turn=7, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:44:22 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 8 ---
+2:44:22 PM|Info|Player.Draw >> [Player] id=14, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=6,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:44:28 PM|Info|Player.Play >> [Player] id=12, cardId=OG_090, cardName=Cabalist's Tome, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=1}
+2:44:28 PM|Info|Player.CreateInHand >> [Player] id=80, cardId=OG_081, cardName=Shatter, zonePos=6,Info={turn=8, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=1}
+2:44:28 PM|Info|Player.CreateInHand >> [Player] id=81, cardId=EX1_279, cardName=Pyroblast, zonePos=7,Info={turn=8, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=1}
+2:44:28 PM|Info|Player.CreateInHand >> [Player] id=82, cardId=ICC_082, cardName=Frozen Clone, zonePos=8,Info={turn=8, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=1}
+2:44:28 PM|Info|Player.PlayToGraveyard >> [Player] id=12, cardId=OG_090, cardName=Cabalist's Tome, zonePos=0,Info={turn=8, originalZone=DECK, OriginalController=1}
+2:44:36 PM|Info|Player.SecretPlayedFromHand >> [Player] id=82, cardId=ICC_082, cardName=Frozen Clone, zonePos=0,Info={turn=8, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:44:38 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 8 ---
+2:44:38 PM|Info|Player.Draw >> [Opponent] id=54, cardId=, cardName=, zonePos=0,Info={turn=8, originalZone=DECK, hidden=true, OriginalController=2}
+2:44:46 PM|Info|Player.SecretPlayedFromHand >> [Opponent] id=75, cardId=, cardName=, zonePos=0,Info={turn=8, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+2:44:46 PM|Info|SecretsManager.NewSecret >> id=75, cardId=, cardName=, zonePos=0,Info={turn=8, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+2:44:51 PM|Info|Player.Play >> [Opponent] id=37, cardId=CS2_033, cardName=Water Elemental, zonePos=2,Info={turn=8, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=2}
+2:44:53 PM|Info|Player.CreateInHand >> [Player] id=83, cardId=CS2_033, cardName=Water Elemental, zonePos=8,Info={turn=8, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=1}
+2:44:53 PM|Info|Player.CreateInHand >> [Player] id=84, cardId=CS2_033, cardName=Water Elemental, zonePos=9,Info={turn=8, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:44:58 PM|Info|Player.CreateInSetAside >> [Opponent] id=85, cardId=ICC_029e, cardName=Dragonscales, zonePos=0,Info={turn=8, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:44:58 PM|Info|Player.CreateInPlay >> [Opponent] id=85, cardId=ICC_029e, cardName=Dragonscales, zonePos=0,Info={turn=8, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=2}
+2:45:01 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 9 ---
+2:45:01 PM|Info|Player.CreateInSetAside >> [Player] id=86, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=9, mark=Created, created=true, hasOutstandingTagChanges=true}
+2:45:01 PM|Info|Player.CreateInPlay >> [Player] id=86, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=9, mark=Created, created=true, originalZone=PLAY, hasOutstandingTagChanges=true, OriginalController=1}
+2:45:01 PM|Info|Player.Draw >> [Player] id=5, cardId=UNG_001, cardName=Pterrordax Hatchling, zonePos=10,Info={turn=9, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:45:11 PM|Info|Player.Play >> [Player] id=26, cardId=CS2_032, cardName=Flamestrike, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=1}
+2:45:11 PM|Info|SecretsManager.Exclude >> Excluded Secret EX1_287
+2:45:11 PM|Info|SecretsManager.Exclude >> Excluded Secret UNG_024
+2:45:11 PM|Info|SecretsManager.Exclude >> Excluded Secret KAR_004
+2:45:11 PM|Info|Player.PlayToGraveyard >> [Player] id=26, cardId=CS2_032, cardName=Flamestrike, zonePos=0,Info={turn=9, originalZone=DECK, OriginalController=1}
+2:45:13 PM|Info|GameEventHandler.HandlePlayerHeroPower >> PlayerHeroPower (id:CS2_034 turn:9 from:-1)
+2:45:13 PM|Info|SecretsManager.Exclude >> Excluded Secret LOE_021
+2:45:14 PM|Info|Player.PlayToGraveyard >> [Opponent] id=79, cardId=ICC_029, cardName=Cobalt Scalebane, zonePos=0,Info={turn=9, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:45:14 PM|Info|SecretsManager.Exclude >> Excluded Secret FP1_018
+2:45:14 PM|Info|SecretsManager.Exclude >> Excluded Secret CFM_800
+2:45:14 PM|Info|SecretsManager.Exclude >> Excluded Secret LOOT_204
+2:45:14 PM|Info|SecretsManager.Exclude >> Excluded Secret EX1_136
+2:45:14 PM|Info|SecretsManager.Exclude >> Excluded Secret AT_002
+2:45:14 PM|Info|Player.CreateInPlay >> [Opponent] id=87, cardId=EX1_310, cardName=Doomguard, zonePos=2,Info={turn=9, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:45:14 PM|Info|SecretsManager.Exclude >> Excluded Secret FP1_020
+2:45:19 PM|Info|Player.SecretTriggered >> [Opponent] id=75, cardId=AT_002, cardName=Effigy, zonePos=0,Info={turn=9, mark=Created, created=true, originalZone=HAND, OriginalController=2}
+2:45:19 PM|Info|SecretsManager.Exclude >> Excluded Secret AT_002
+2:45:20 PM|Info|GameEventHandler.HandleTurnStart >> --- Opponent turn 9 ---
+2:45:20 PM|Info|Player.Draw >> [Opponent] id=34, cardId=, cardName=, zonePos=0,Info={turn=9, originalZone=DECK, hidden=true, OriginalController=2}
+2:45:36 PM|Info|Player.Play >> [Opponent] id=73, cardId=LOOT_137, cardName=Sleepy Dragon, zonePos=1,Info={turn=9, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=2}
+2:45:39 PM|Info|GameEventHandler.HandleTurnStart >> --- Player turn 10 ---
+2:45:39 PM|Info|Player.Draw >> [Player] id=25, cardId=LOOT_103, cardName=Lesser Ruby Spellstone, zonePos=10,Info={turn=10, originalZone=DECK, hasOutstandingTagChanges=true, OriginalController=1}
+2:46:04 PM|Info|Player.Play >> [Player] id=25, cardId=LOOT_103, cardName=Lesser Ruby Spellstone, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=1}
+2:46:04 PM|Info|Player.CreateInHand >> [Player] id=88, cardId=EX1_277, cardName=Arcane Missiles, zonePos=10,Info={turn=10, mark=Created, created=true, originalZone=HAND, hasOutstandingTagChanges=true, OriginalController=1}
+2:46:04 PM|Info|Player.PlayToGraveyard >> [Player] id=25, cardId=LOOT_103, cardName=Lesser Ruby Spellstone, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=1}
+2:46:15 PM|Info|Player.Play >> [Player] id=14, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=1, OriginalCardId=LOOT_104}
+2:46:15 PM|Info|Player.PlayToGraveyard >> [Player] id=86, cardId=LOOT_104e, cardName=Shifting, zonePos=0,Info={turn=10, mark=Created, created=true, originalZone=PLAY, OriginalController=1}
+2:46:16 PM|Info|Player.PlayToGraveyard >> [Player] id=14, cardId=LOOT_104, cardName=Shifting Scroll, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=1, OriginalCardId=LOOT_104}
+2:46:16 PM|Info|Player.PlayToGraveyard >> [Opponent] id=37, cardId=CS2_033, cardName=Water Elemental, zonePos=0,Info={turn=10, originalZone=DECK, OriginalController=2}
+2:46:16 PM|Info|Player.RemoveFromPlay >> [Player] id=85, cardId=ICC_029e, cardName=Dragonscales, zonePos=0,Info={turn=10, mark=Created, created=true, originalZone=PLAY, OriginalController=2}
+2:46:16 PM|Info|Player.Play >> [Player] id=88, cardId=EX1_277, cardName=Arcane Missiles, zonePos=0,Info={turn=10, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:46:19 PM|Info|Player.PlayToGraveyard >> [Player] id=88, cardId=EX1_277, cardName=Arcane Missiles, zonePos=0,Info={turn=10, mark=Created, created=true, originalZone=HAND, OriginalController=1}
+2:46:22 PM|Info|GameEventHandler.HandleLoss >> --- Game was lost! ---
+2:46:22 PM|Info|TurnTimer.Stop >> Stopping turn timer
+2:46:22 PM|Info|GameEventHandler.HandleGameEnd >> Game ended...
+2:46:22 PM|Info|GameEventHandler.HandleGameEnd >> Format: 
+2:46:22 PM|Info|GameStats.GameEnd >> Current Game ended after 10 turns
+2:46:22 PM|Info|GameEventHandler.HandleGameEnd >> Assigned current game to deck: Arena 04-03 02:34
+2:46:22 PM|Info|GameEventHandler.LogIsComplete >> GOLD_REWARD_STATE not found
+2:46:23 PM|Info|LogUploader.Upload >> Uploading 1428255018...
+2:46:23 PM|Info|LogUploader.TryUpload >> Creating upload request...
+2:46:23 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:46:23 PM|Info|LogUploader.TryUpload >> Upload Id: WJQFUQEzA6JNLDCttq2HeN
+2:46:24 PM|Info|LogUploader.TryUpload >> Upload complete
+2:46:24 PM|Info|LogUploader.Upload >> 1428255018 complete. Success=True
+2:46:43 PM|Info|GameV2.CurrentMode >> DRAFT
+2:46:43 PM|Info|GameEventHandler.HandleInMenu >> Game is now in menu.
+2:46:43 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:46:43 PM|Info|GameEventHandler.SaveAndUpdateStats >> Saving DeckStats
+2:46:44 PM|Info|DeckManager.AutoImportArena >> Found new complete HERO_08 arena deck!
+2:46:44 PM|Info|DeckManager.AutoImportArena >> ...but we already have that one. Discarding.
+2:47:10 PM|Info|FullScreenFxHandler.Handle >> Now in queue (3/4/2018 2:47:10 PM)
+2:47:10 PM|Info|FullScreenFxHandler.AutoSelectArenaDeck >> Switching to arena deck deck: Arena 04-03 02:34
+2:47:10 PM|Info|MainWindow.SelectDeck >> Switched to deck: Arena 04-03 02:34 (v1.0)
+2:47:11 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:47:12 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'E:\Hearthstone\Logs'
+14:47:12|Info|LogWatcherManager.OnLogFileFound >> Power
+14:47:12|Info|LogWatcherManager.OnLogFileFound >> Rachelle
+14:47:12|Info|LogWatcherManager.OnLogFileFound >> LoadingScreen
+2:47:12 PM|Info|GameV2.CurrentMode >> DRAFT
+2:47:12 PM|Info|DeckManager.AutoImportArena >> Found new complete HERO_08 arena deck!
+2:47:12 PM|Info|DeckManager.AutoImportArena >> ...but we already have that one. Discarding.
+2:47:19 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:47:23 PM|... 1 duplicate messages
+2:47:23 PM|Info|GameV2.CurrentMode >> HUB
+2:47:24 PM|Info|GameV2.CurrentMode >> PACKOPENING
+2:47:28 PM|Info|PackUploader.UploadPack >> New Pack! Id=30, Cards=[LOOT_033, LOOT_079, LOOT_122, LOOT_534, LOOT_347]
+2:47:36 PM|Info|GameV2.CurrentMode >> HUB
+2:47:39 PM|Info|GameV2.CurrentMode >> COLLECTIONMANAGER
+2:47:48 PM|Info|GameV2.CurrentMode >> HUB
+2:51:02 PM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+2:51:03 PM|Info|Updater.SquirrelUpdate >> No new updated available
+2:51:12 PM|Info|Plugin.CheckPluginUpdate >> https://github.com/rembound/Arena-Helper/releases/download/0.8.7/ArenaHelper.v0.8.7.zip
+2:52:51 PM|Info|OverlayWindow.SetTopmost >> Overlay is topmost after 1 tries.
+2:52:53 PM|Info|Core.UpdateOverlayAsync >> Exited game
+2:52:53 PM|Info|Core.UpdateOverlayAsync >> Reset region
+2:52:54 PM|Info|GameV2.Reset >> -------- Reset ---------
+2:52:55 PM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'E:\Hearthstone\Logs'
+2:57:51 PM|Info|MainWindow.Window_Closing >> Shutting down...
