@@ -1,0 +1,19 @@
+{
+  "deckname": "Arena 12-04 11:05",
+  "deckguid": "a6a81e75-5159-4390-a2a4-81b432d158b4",
+  "detectedheroes": [
+    "Warrior",
+    "Paladin",
+    "Mage"
+  ],
+  "pickedhero": "Mage",
+  "detectedcards": [
+    {
+      "Item1": "HERO_01",
+      "Item2": "HERO_04",
+      "Item3": "HERO_08"
+    }
+  ],
+  "cardrating": [],
+  "pickedcards": []
+}
