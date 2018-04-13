@@ -1,0 +1,31 @@
+11:08:38 AM|Info|Core.Initialize >> HDT: 1.6.2.3592, Operating System: Windows 10 Home 16299, .NET Framework: 461308
+11:08:38 AM|Info|Updater.StartupUpdateCheck >> Checking for updates
+11:08:38 AM|Info|Updater.GetReleaseUrl >> Downloading releases file
+11:08:39 AM|Info|Updater.GetReleaseUrl >> using 'live' release: https://github.com/HearthSim/HDT-Releases
+11:08:42 AM|Info|Updater.SquirrelUpdate >> Checking for updates (ignoreDelta=False)
+11:08:43 AM|Info|Updater.SquirrelUpdate >> No new updated available
+11:08:43 AM|Info|SplashScreenWindow.ShowConditional >> Showing splashscreen...
+11:08:43 AM|Info|ThemeManager.LoadThemes >> Found theme: classic
+11:08:43 AM|Info|ThemeManager.LoadThemes >> Found theme: dark
+11:08:43 AM|Info|ThemeManager.LoadThemes >> Found theme: frost
+11:08:43 AM|Info|ThemeManager.LoadThemes >> Found theme: minimal
+11:08:43 AM|Info|GameV2.Reset >> -------- Reset ---------
+11:08:44 AM|Error|JsonSerializer.Load >> System.Security.Cryptography.CryptographicException: Klíč není platný pro použití v zadaném stavu.
+
+   at System.Security.Cryptography.ProtectedData.Unprotect(Byte[] encryptedData, Byte[] optionalEntropy, DataProtectionScope scope)
+   at Hearthstone_Deck_Tracker.Utility.JsonSerializer`1.Load()
+11:08:46 AM|Info|OverlayWindow.SetTopmost >> Hearthstone window not found
+11:08:48 AM|Info|MainWindow.SelectDeck >> Switched to deck: CubeZolaLock (v1.2)
+11:08:48 AM|Info|GameV2.Reset >> -------- Reset ---------
+11:08:51 AM|Info|BackupManager.Run >> Running BackupManager
+11:08:51 AM|Info|BackupManager.Run >> Backup for today already exists
+11:08:51 AM|Info|PluginManager.LoadPluginsFromPath >> Loading Plugins...
+11:08:51 AM|Info|PluginWrapper.Load >> Loading Arena Helper
+11:08:51 AM|Info|PluginWrapper.IsEnabled >> Enabled Arena Helper
+11:08:51 AM|Info|LogWatcherManager.Start >> Using Hearthstone log directory 'C:\Program Files (x86)\Hearthstone\Logs'
+11:08:51 AM|Info|ApiWrapper.UpdateUploadTokenStatus >> Checking token status...
+11:08:51 AM|Info|HsReplayDecks.Load >> Loaded from disk: Count=2665, ServerTS=4/12/2018 8:27:31 PM, Downloaded=4/12/2018 11:48:20 PM Age=11:20:31.5825563
+11:08:51 AM|Info|HsReplayDecks.Load >> Complete: Count=2665, ServerTS=4/12/2018 8:27:31 PM, Downloaded=4/12/2018 11:48:20 PM Age=11:20:31.5825563
+11:08:52 AM|Info|Plugin.CheckPluginUpdate >> https://github.com/rembound/Arena-Helper/releases/download/0.9.0/ArenaHelper.v0.9.0.zip
+11:08:52 AM|Info|ApiWrapper.UpdateUploadTokenStatus >> Token is claimed
+11:09:05 AM|Info|MainWindow.Window_Closing >> Shutting down...
