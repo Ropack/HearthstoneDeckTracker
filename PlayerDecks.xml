@@ -31296,6 +31296,157 @@
     <Name>CubeZolaLock</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>NEW1_012</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_020</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_024</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_096</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_941</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GIL_801</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_818</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_252</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ICC_700</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_124</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_020</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_125</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_046</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_119</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_021</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GIL_645</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_172</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_593</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_028</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_315</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_032</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GIL_623</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_155</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_028</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_955</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_705</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_848</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Mage</Class>
+    <LastEdited>2018-04-17T11:37:53.0528318+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>1533663206</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>true</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <ArenaReward>
+      <Gold>35</Gold>
+      <Dust>0</Dust>
+      <PaymentMethod>Gold</PaymentMethod>
+      <Cards>
+        <CardReward xsi:nil="true" />
+        <CardReward xsi:nil="true" />
+        <CardReward xsi:nil="true" />
+      </Cards>
+      <Packs>
+        <ArenaRewardPacks>Gilneas</ArenaRewardPacks>
+        <ArenaRewardPacks>None</ArenaRewardPacks>
+      </Packs>
+    </ArenaReward>
+    <DeckId>da1a9c6a-82a9-4a45-908a-04e4f9cb16b0</DeckId>
+    <Name>Arena 17-04 11:37</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Warrior</Class>
@@ -31306,6 +31457,11 @@
       <Class>Hunter</Class>
       <Id>163fd715-dc7b-47fb-a914-7324fd764ba5</Id>
       <Name>Custom Hunter</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Mage</Class>
+      <Id>da1a9c6a-82a9-4a45-908a-04e4f9cb16b0</Id>
+      <Name>Arena 17-04 11:37</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
