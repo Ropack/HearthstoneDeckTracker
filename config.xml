@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Steel</AccentName>
   <AppTheme>BaseDark</AppTheme>
-  <ActiveDeckIdString>da1a9c6a-82a9-4a45-908a-04e4f9cb16b0</ActiveDeckIdString>
+  <ActiveDeckIdString>f2915b49-db8d-46d1-8df5-6ba12ba52792</ActiveDeckIdString>
   <AdditionalOverlayTooltips>false</AdditionalOverlayTooltips>
   <AdvancedOptions>true</AdvancedOptions>
   <AlwaysOverwriteLogConfig>true</AlwaysOverwriteLogConfig>
@@ -106,20 +106,20 @@
   </GoldProgress>
   <GoldProgressLastReset>
     <dateTime>0001-01-01T00:00:00</dateTime>
-    <dateTime>2018-04-15T00:00:00</dateTime>
+    <dateTime>2018-04-20T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
   </GoldProgressLastReset>
   <GoldProgressTotal>
     <int>0</int>
-    <int>50</int>
+    <int>10</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
   </GoldProgressTotal>
   <GoogleAnalytics>true</GoogleAnalytics>
-  <HearthstoneDirectory>E:\Hearthstone</HearthstoneDirectory>
+  <HearthstoneDirectory>C:\Program Files (x86)\Hearthstone</HearthstoneDirectory>
   <HearthstoneLogsDirectoryName>Logs</HearthstoneLogsDirectoryName>
   <HearthstoneWindowName>Hearthstone</HearthstoneWindowName>
   <ArenaStatsClassFilter>All</ArenaStatsClassFilter>
@@ -328,8 +328,8 @@
   <TimersVerticalPosition>44.5</TimersVerticalPosition>
   <TimersVerticalSpacing>42</TimersVerticalSpacing>
   <TrackerCardToolTips>true</TrackerCardToolTips>
-  <TrackerWindowLeft>2146</TrackerWindowLeft>
-  <TrackerWindowTop>177</TrackerWindowTop>
+  <TrackerWindowLeft>100</TrackerWindowLeft>
+  <TrackerWindowTop>100</TrackerWindowTop>
   <UseAnyUnityWindow>false</UseAnyUnityWindow>
   <UseAnimations>true</UseAnimations>
   <UseFullTextSearch>false</UseFullTextSearch>

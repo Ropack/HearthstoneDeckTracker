@@ -31447,6 +31447,107 @@
     <Name>Arena 17-04 11:37</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>EX1_145</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_144</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_073</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_074</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_146</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_012</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_018</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_033</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_162</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_124</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_096</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_129</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_060</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_044</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_850</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_075</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_211</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_087</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Rogue</Class>
+    <LastEdited>2018-04-20T11:22:34.5524897+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>1534740640</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <DeckId>490edeaa-4e71-4cfd-ba4f-9e586ba79cb3</DeckId>
+    <Name>Custom Rogue</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Warrior</Class>
@@ -31459,9 +31560,14 @@
       <Name>Custom Hunter</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Mage</Class>
-      <Id>da1a9c6a-82a9-4a45-908a-04e4f9cb16b0</Id>
-      <Name>Arena 17-04 11:37</Name>
+      <Class>Rogue</Class>
+      <Id>490edeaa-4e71-4cfd-ba4f-9e586ba79cb3</Id>
+      <Name>Custom Rogue</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Warlock</Class>
+      <Id>f2915b49-db8d-46d1-8df5-6ba12ba52792</Id>
+      <Name>CubeZolaLock</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
