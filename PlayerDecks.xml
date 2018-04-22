@@ -31548,6 +31548,99 @@
     <Name>Custom Rogue</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>ICC_092</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_008</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_087</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_809</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_960</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ICC_038</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_349</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_203</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_122</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_072</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_286</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_167</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_333</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_950</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GIL_826</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Paladin</Class>
+    <LastEdited>2018-04-22T01:16:13.9534556+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>1539261598</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <DeckId>5fb950c1-3838-4f17-974a-7ca8cde8487f</DeckId>
+    <Name>Odd Paladin</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Warrior</Class>
@@ -31563,11 +31656,6 @@
       <Class>Rogue</Class>
       <Id>490edeaa-4e71-4cfd-ba4f-9e586ba79cb3</Id>
       <Name>Custom Rogue</Name>
-    </DeckInfo>
-    <DeckInfo>
-      <Class>Warlock</Class>
-      <Id>f2915b49-db8d-46d1-8df5-6ba12ba52792</Id>
-      <Name>CubeZolaLock</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
