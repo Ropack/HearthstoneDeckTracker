@@ -31641,6 +31641,153 @@
     <Name>Odd Paladin</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_063</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_014</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_308</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_066</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_059</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_041</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_021</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_076</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_388</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_814</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_845</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_125</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_529</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_147</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_062</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_303</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_291</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_905</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_161</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_075</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_028</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_315</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_027</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_383</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_010</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_848</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Warlock</Class>
+    <LastEdited>2018-04-24T00:55:10.1719389+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>1541402036</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>true</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <ArenaReward>
+      <Gold>120</Gold>
+      <Dust>0</Dust>
+      <PaymentMethod>Gold</PaymentMethod>
+      <Cards>
+        <CardReward xsi:nil="true" />
+        <CardReward xsi:nil="true" />
+        <CardReward xsi:nil="true" />
+      </Cards>
+      <Packs>
+        <ArenaRewardPacks>Gilneas</ArenaRewardPacks>
+        <ArenaRewardPacks>None</ArenaRewardPacks>
+      </Packs>
+    </ArenaReward>
+    <DeckId>cbc1c4c9-b03f-44bd-bd34-a97b2b5a110c</DeckId>
+    <Name>Arena 24-04 12:55</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Warrior</Class>
@@ -31656,6 +31803,16 @@
       <Class>Rogue</Class>
       <Id>490edeaa-4e71-4cfd-ba4f-9e586ba79cb3</Id>
       <Name>Custom Rogue</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Warlock</Class>
+      <Id>cbc1c4c9-b03f-44bd-bd34-a97b2b5a110c</Id>
+      <Name>Arena 24-04 12:55</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Paladin</Class>
+      <Id>5fb950c1-3838-4f17-974a-7ca8cde8487f</Id>
+      <Name>Odd Paladin</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
