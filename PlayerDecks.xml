@@ -31788,6 +31788,157 @@
     <Name>Arena 24-04 12:55</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>UNG_205</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_856</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_004</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_126</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_124</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_522</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_278</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GIL_143</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_823</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_118</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_060</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_133</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GIL_819</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_233</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_211</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_144</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_810</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GIL_528</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_076</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_257</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_167</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GIL_667</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_041</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_064</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_010</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GIL_118</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_153</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Rogue</Class>
+    <LastEdited>2018-04-25T00:45:57.6275379+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>1542491084</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>true</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <ArenaReward>
+      <Gold>0</Gold>
+      <Dust>0</Dust>
+      <PaymentMethod>Unknown</PaymentMethod>
+      <Cards>
+        <CardReward xsi:nil="true" />
+        <CardReward xsi:nil="true" />
+        <CardReward xsi:nil="true" />
+      </Cards>
+      <Packs>
+        <ArenaRewardPacks>None</ArenaRewardPacks>
+        <ArenaRewardPacks>None</ArenaRewardPacks>
+      </Packs>
+    </ArenaReward>
+    <DeckId>cb93140b-588d-4056-8cf3-05f4f836f4de</DeckId>
+    <Name>Arena 25-04 12:45</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Warrior</Class>
@@ -31800,19 +31951,14 @@
       <Name>Custom Hunter</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Rogue</Class>
-      <Id>490edeaa-4e71-4cfd-ba4f-9e586ba79cb3</Id>
-      <Name>Custom Rogue</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Warlock</Class>
       <Id>cbc1c4c9-b03f-44bd-bd34-a97b2b5a110c</Id>
       <Name>Arena 24-04 12:55</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Paladin</Class>
-      <Id>5fb950c1-3838-4f17-974a-7ca8cde8487f</Id>
-      <Name>Odd Paladin</Name>
+      <Class>Rogue</Class>
+      <Id>cb93140b-588d-4056-8cf3-05f4f836f4de</Id>
+      <Name>Arena 25-04 12:45</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
