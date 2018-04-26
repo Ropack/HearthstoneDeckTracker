@@ -7632,5 +7632,97 @@
       </Games>
       <Name>Curator</Name>
     </DeckStats>
+    <DeckStats>
+      <DeckId>00000000-0000-0000-0000-000000000000</DeckId>
+      <Games>
+        <Game>
+          <GameId>770564b0-73d7-4bd7-9ac2-0d2d3500d8c5</GameId>
+          <PlayerHero>Toki, Time-Tinker</PlayerHero>
+          <OpponentHero>Experiment 3C</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Practice</GameMode>
+          <Result>Loss</Result>
+          <Turns>26</Turns>
+          <StartTime>2018-04-26T23:59:48.3111438+02:00</StartTime>
+          <EndTime>2018-04-27T00:35:27.086891+02:00</EndTime>
+          <PlayerName>Ropack#2387</PlayerName>
+          <OpponentName>Experiment 3C</OpponentName>
+          <WasConceded>false</WasConceded>
+          <HearthstoneBuild>23966</HearthstoneBuild>
+          <PlayerCardbackId>65</PlayerCardbackId>
+          <OpponentCardbackId>129</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2706</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.168</Address>
+            <AuroraPassword>OCDAgm</AuroraPassword>
+            <ClientHandle>51964852</ClientHandle>
+            <GameHandle>28180489</GameHandle>
+            <Mission>2706</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>lhigBc</SpectatorPassword>
+            <Version>626393</Version>
+          </ServerInfo>
+          <GameType>GT_VS_AI</GameType>
+          <RankedSeasonId>54</RankedSeasonId>
+          <OpponentHeroCardId>GILA_BOSS_27h</OpponentHeroCardId>
+          <Region>EU</Region>
+          <DeckId>00000000-0000-0000-0000-000000000000</DeckId>
+          <DeckName>none</DeckName>
+          <HsReplay>
+            <UploadId>3UzZgx3dgigXAo7utsGgLg</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/3UzZgx3dgigXAo7utsGgLg/</ReplayUrl>
+          </HsReplay>
+          <PlayerCards>
+            <Card Id="CS2_033" Count="1" />
+            <Card Id="EX1_082" Count="1" />
+            <Card Id="EX1_277" Count="1" />
+            <Card Id="GVG_003" Count="1" />
+            <Card Id="UNG_846" Count="2" />
+            <Card Id="GIL_213" Count="1" />
+            <Card Id="EX1_085" Count="1" />
+            <Card Id="UNG_027" Count="1" />
+            <Card Id="CS2_029" Count="1" />
+            <Card Id="UNG_070" Count="1" />
+            <Card Id="EX1_559" Count="1" />
+            <Card Id="BRM_002" Count="1" />
+            <Card Id="AT_007" Count="1" />
+            <Card Id="UNG_028" Count="1" />
+            <Card Id="UNG_816" Count="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="CFM_315" Count="1" />
+            <Card Id="CFM_637" Count="1" />
+            <Card Id="NEW1_023" Count="1" />
+            <Card Id="EX1_565" Count="1" />
+            <Card Id="GVG_006" Count="1" />
+            <Card Id="UNG_201" Count="1" />
+            <Card Id="UNG_073" Count="1" />
+            <Card Id="EX1_531" Count="1" />
+            <Card Id="CS2_013" Count="1" />
+            <Card Id="GILA_BOSS_99t2" Count="2" />
+            <Card Id="GVG_048" Count="1" />
+            <Card Id="EX1_507" Count="1" />
+            <Card Id="LOOT_344" Count="1" />
+            <Card Id="NEW1_027" Count="1" />
+            <Card Id="EX1_538" Count="1" />
+            <Card Id="KAR_095" Count="3" />
+            <Card Id="EX1_284" Count="1" />
+            <Card Id="EX1_320" Count="1" />
+            <Card Id="ICC_027" Count="1" />
+            <Card Id="EX1_534" Count="1" />
+            <Card Id="KAR_061" Count="1" />
+            <Card Id="GILA_BOSS_27t" Count="3" />
+            <Card Id="UNG_848" Count="1" />
+            <Card Id="EX1_572" Count="1" />
+          </OpponentCards>
+        </Game>
+      </Games>
+      <Name>Toki, Time-Tinker</Name>
+    </DeckStats>
   </DeckStats>
 </DefaultDeckStats>
