@@ -1145,6 +1145,82 @@
             <Card Id="GVG_110" Count="1" />
           </OpponentCards>
         </Game>
+        <Game>
+          <GameId>beb792c7-1106-4a23-9e6b-0482a2d42ce7</GameId>
+          <PlayerHero>Mage</PlayerHero>
+          <OpponentHero>Paladin</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Brawl</GameMode>
+          <Result>Win</Result>
+          <Turns>12</Turns>
+          <StartTime>2018-04-29T02:38:02.0739654+02:00</StartTime>
+          <EndTime>2018-04-29T02:49:02.0521482+02:00</EndTime>
+          <PlayerName>Ropack#2387</PlayerName>
+          <OpponentName>Vad#2552</OpponentName>
+          <ReplayFile>Ropack#2387(Mage) vs Vad#2552(Paladin) 0249-290418.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <HearthstoneBuild>23966</HearthstoneBuild>
+          <PlayerCardbackId>65</PlayerCardbackId>
+          <OpponentCardbackId>37</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2865</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.70</Address>
+            <AuroraPassword>MPMJDn</AuroraPassword>
+            <ClientHandle>51964852</ClientHandle>
+            <GameHandle>19136714</GameHandle>
+            <Mission>2865</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>ggMGol</SpectatorPassword>
+            <Version>626833</Version>
+          </ServerInfo>
+          <GameType>GT_TAVERNBRAWL</GameType>
+          <BrawlSeasonId>150</BrawlSeasonId>
+          <RankedSeasonId>54</RankedSeasonId>
+          <OpponentHeroCardId>HERO_04b</OpponentHeroCardId>
+          <Region>EU</Region>
+          <DeckId>00000000-0000-0000-0000-000000000000</DeckId>
+          <DeckName>none</DeckName>
+          <HsReplay>
+            <UploadId>vT44H7cxEvyTb2cMezyDsR</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/vT44H7cxEvyTb2cMezyDsR/</ReplayUrl>
+          </HsReplay>
+          <PlayerCards>
+            <Card Id="UNG_809" Count="2" />
+            <Card Id="UNG_205" Count="1" />
+            <Card Id="GIL_548" Count="2" />
+            <Card Id="CS2_024" Count="1" />
+            <Card Id="LOOT_103" Count="1" />
+            <Card Id="UNG_846" Count="2" />
+            <Card Id="UNG_928" Count="1" />
+            <Card Id="CS2_029" Count="2" />
+            <Card Id="CS2_033" Count="1" />
+            <Card Id="GIL_645" Count="2" />
+            <Card Id="UNG_816" Count="2" />
+            <Card Id="UNG_847" Count="2" />
+            <Card Id="GIL_119" Count="1" />
+            <Card Id="ICC_833" Count="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="LOOT_363" Count="2" />
+            <Card Id="NEW1_019" Count="2" />
+            <Card Id="EX1_096" Count="2" />
+            <Card Id="GIL_143" Count="1" />
+            <Card Id="CS2_092" Count="1" />
+            <Card Id="LOOT_093" Count="1" />
+            <Card Id="GIL_817" Count="1" />
+            <Card Id="CS2_097" Count="1" />
+            <Card Id="GIL_692" Count="1" />
+            <Card Id="EX1_354" Count="1" />
+            <Card Id="UNG_848" Count="1" />
+            <Card Id="ICC_314" Count="1" />
+            <Card Id="EX1_383" Count="1" />
+          </OpponentCards>
+        </Game>
       </Games>
       <Name>Mage</Name>
     </DeckStats>
