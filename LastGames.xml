@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGameInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameInfo deckId="5fb950c1-3838-4f17-974a-7ca8cde8487f" gameId="d5e982f2-b534-4892-92e4-7c52101504e1" />
+  <GameInfo deckId="5fb950c1-3838-4f17-974a-7ca8cde8487f" gameId="e81a481b-4f61-405b-ac18-8fab4becede5" />
+  <GameInfo deckId="5fb950c1-3838-4f17-974a-7ca8cde8487f" gameId="b8137f52-6cc2-4c0a-808c-7f83d0ae2a90" />
   <GameInfo deckId="cb93140b-588d-4056-8cf3-05f4f836f4de" gameId="af60e61f-c0c4-43e6-ae9a-b9514b22f570" />
   <GameInfo deckId="5fb950c1-3838-4f17-974a-7ca8cde8487f" gameId="5d84367c-c526-4fb6-a5f4-108aa16361d9" />
   <GameInfo deckId="5fb950c1-3838-4f17-974a-7ca8cde8487f" gameId="a10f4040-5f35-4978-8b51-ff10534d8827" />
@@ -7,7 +10,4 @@
   <GameInfo deckId="5fb950c1-3838-4f17-974a-7ca8cde8487f" gameId="d2fc1b9a-6f89-4e21-b9db-67579ff56037" />
   <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="beb792c7-1106-4a23-9e6b-0482a2d42ce7" hero="Mage" />
   <GameInfo deckId="cb93140b-588d-4056-8cf3-05f4f836f4de" gameId="7dbf1f70-a290-4973-9e4e-101142f5886b" />
-  <GameInfo deckId="cb93140b-588d-4056-8cf3-05f4f836f4de" gameId="dca572fa-691e-4111-bfde-35c957746768" />
-  <GameInfo deckId="cb93140b-588d-4056-8cf3-05f4f836f4de" gameId="03888ac1-3b9a-4111-9308-0b15c156e2c3" />
-  <GameInfo deckId="cb93140b-588d-4056-8cf3-05f4f836f4de" gameId="5f5c34b2-9bd5-438c-9d83-a54b4e1495f0" />
 </ArrayOfGameInfo>
