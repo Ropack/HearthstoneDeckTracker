@@ -31939,6 +31939,107 @@
     <Name>Arena 25-04 12:45</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>UNG_032</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_235</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GIL_816</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_012</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_096</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_413</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_818</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_022</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_702</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_072</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_900</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_037</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_161</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GIL_667</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ICC_027</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GIL_805</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_008</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_830</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Priest</Class>
+    <LastEdited>2018-05-10T23:30:04.369295+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>1554484305</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <DeckId>f4718ff4-576a-4caa-91e4-d5b0d177ed71</DeckId>
+    <Name>deathrattle q</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Warrior</Class>
@@ -31952,13 +32053,13 @@
     </DeckInfo>
     <DeckInfo>
       <Class>Warlock</Class>
-      <Id>cbc1c4c9-b03f-44bd-bd34-a97b2b5a110c</Id>
-      <Name>Arena 24-04 12:55</Name>
+      <Id>f2915b49-db8d-46d1-8df5-6ba12ba52792</Id>
+      <Name>CubeZolaLock</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Paladin</Class>
-      <Id>5fb950c1-3838-4f17-974a-7ca8cde8487f</Id>
-      <Name>Odd Paladin</Name>
+      <Class>Priest</Class>
+      <Id>f4718ff4-576a-4caa-91e4-d5b0d177ed71</Id>
+      <Name>deathrattle q</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
