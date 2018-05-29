@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Steel</AccentName>
   <AppTheme>BaseDark</AppTheme>
-  <ActiveDeckIdString>f4718ff4-576a-4caa-91e4-d5b0d177ed71</ActiveDeckIdString>
+  <ActiveDeckIdString>5304b0eb-33e7-4701-b14c-2b18e46ee1c9</ActiveDeckIdString>
   <AdditionalOverlayTooltips>false</AdditionalOverlayTooltips>
   <AdvancedOptions>true</AdvancedOptions>
   <AlwaysOverwriteLogConfig>true</AlwaysOverwriteLogConfig>
@@ -69,9 +69,10 @@
   <ConstructedStatsNoteFilter />
   <ConstructedStatsActiveDeckOnly>false</ConstructedStatsActiveDeckOnly>
   <ClearLogFileAfterGame>true</ClearLogFileAfterGame>
+  <CloseToTray>false</CloseToTray>
   <CloseWithHearthstone>false</CloseWithHearthstone>
   <StartHearthstoneWithHDT>false</StartHearthstoneWithHDT>
-  <CreatedByVersion>1.6.5.3616</CreatedByVersion>
+  <CreatedByVersion>1.6.6.3629</CreatedByVersion>
   <CustomDisplayedTimeFrame xsi:nil="true" />
   <CustomHeight>-1</CustomHeight>
   <CustomWidth>-1</CustomWidth>
@@ -106,14 +107,14 @@
   </GoldProgress>
   <GoldProgressLastReset>
     <dateTime>0001-01-01T00:00:00</dateTime>
-    <dateTime>2018-05-10T00:00:00</dateTime>
+    <dateTime>2018-05-29T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
   </GoldProgressLastReset>
   <GoldProgressTotal>
     <int>0</int>
-    <int>0</int>
+    <int>10</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>

@@ -2401,6 +2401,83 @@
             <Card Id="EX1_021" Count="1" />
           </OpponentCards>
         </Game>
+        <Game>
+          <GameId>b3632308-f139-44bc-9561-cd434957a2e9</GameId>
+          <PlayerHero>Paladin</PlayerHero>
+          <OpponentHero>Druid</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Ranked</GameMode>
+          <Result>Win</Result>
+          <Turns>10</Turns>
+          <StartTime>2018-05-24T09:18:41.8029661+02:00</StartTime>
+          <EndTime>2018-05-24T09:25:56.3377532+02:00</EndTime>
+          <PlayerName>Ropack#2387</PlayerName>
+          <OpponentName>Graif#2222</OpponentName>
+          <ReplayFile>Ropack#2387(Paladin) vs Graif#2222(Druid) 0925-240518.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <Rank>7</Rank>
+          <Stars>93</Stars>
+          <OpponentRank>7</OpponentRank>
+          <HearthstoneBuild>24589</HearthstoneBuild>
+          <PlayerCardbackId>65</PlayerCardbackId>
+          <OpponentCardbackId>129</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.54</Address>
+            <AuroraPassword>MMDdBM</AuroraPassword>
+            <ClientHandle>51964852</ClientHandle>
+            <GameHandle>29360251</GameHandle>
+            <Mission>2</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>ddchNh</SpectatorPassword>
+            <Version>649899</Version>
+          </ServerInfo>
+          <GameType>GT_RANKED</GameType>
+          <RankedSeasonId>55</RankedSeasonId>
+          <OpponentHeroCardId>HERO_06</OpponentHeroCardId>
+          <Region>EU</Region>
+          <Format>Standard</Format>
+          <DeckId>00000000-0000-0000-0000-000000000000</DeckId>
+          <DeckName>none</DeckName>
+          <HsReplay>
+            <UploadId>zrkXyY9gVhxqen6uBLxJTD</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/zrkXyY9gVhxqen6uBLxJTD/</ReplayUrl>
+          </HsReplay>
+          <PlayerCards>
+            <Card Id="UNG_950" Count="2" />
+            <Card Id="CS2_222" Count="2" />
+            <Card Id="UNG_072" Count="1" />
+            <Card Id="UNG_960" Count="1" />
+            <Card Id="LOOT_286" Count="1" />
+            <Card Id="EX1_008" Count="1" />
+            <Card Id="UNG_809" Count="1" />
+            <Card Id="LOOT_333" Count="1" />
+            <Card Id="LOOT_167" Count="1" />
+            <Card Id="CS2_087" Count="1" />
+            <Card Id="GIL_826" Count="1" />
+            <Card Id="ICC_038" Count="1" />
+            <Card Id="ICC_092" Count="1" />
+            <Card Id="EX1_349" Count="1" />
+            <Card Id="CS2_122" Count="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="EX1_161" Count="1" />
+            <Card Id="CS2_013" Count="1" />
+            <Card Id="GIL_637" Count="2" />
+            <Card Id="UNG_928" Count="2" />
+            <Card Id="LOOT_054" Count="2" />
+            <Card Id="LOOT_048" Count="2" />
+            <Card Id="LOOT_309" Count="2" />
+            <Card Id="CS2_012" Count="1" />
+            <Card Id="EX1_164" Count="1" />
+            <Card Id="ICC_314" Count="1" />
+          </OpponentCards>
+        </Game>
       </Games>
       <Name>Paladin</Name>
     </DeckStats>
@@ -5718,6 +5795,313 @@
             <Card Id="EX1_339" Count="1" />
             <Card Id="LOE_111" Count="1" />
             <Card Id="CS1_113" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>13140413-5019-440f-8f8b-40da2dd4ffc5</GameId>
+          <PlayerHero>Warrior</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Brawl</GameMode>
+          <Result>Win</Result>
+          <Turns>6</Turns>
+          <StartTime>2018-05-16T22:24:29.3032387+02:00</StartTime>
+          <EndTime>2018-05-16T22:27:11.6438575+02:00</EndTime>
+          <PlayerName>Ropack#2387</PlayerName>
+          <OpponentName>Madaravovka#2185</OpponentName>
+          <ReplayFile>Ropack#2387(Warrior) vs Madaravovka#2185(Priest) 2227-160518.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <HearthstoneBuild>24377</HearthstoneBuild>
+          <PlayerCardbackId>65</PlayerCardbackId>
+          <OpponentCardbackId>131</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2860</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.223</Address>
+            <AuroraPassword>jAPnlC</AuroraPassword>
+            <ClientHandle>51964852</ClientHandle>
+            <GameHandle>28312532</GameHandle>
+            <Mission>2860</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>dOAAAK</SpectatorPassword>
+            <Version>635551</Version>
+          </ServerInfo>
+          <GameType>GT_TAVERNBRAWL</GameType>
+          <BrawlSeasonId>153</BrawlSeasonId>
+          <RankedSeasonId>55</RankedSeasonId>
+          <OpponentHeroCardId>HERO_09</OpponentHeroCardId>
+          <Region>EU</Region>
+          <DeckId>00000000-0000-0000-0000-000000000000</DeckId>
+          <DeckName>none</DeckName>
+          <HsReplay>
+            <UploadId>VHDSpS532mPXUUApcS864Z</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/VHDSpS532mPXUUApcS864Z/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>1557821153</HsDeckId>
+          <PlayerCards>
+            <Card Id="LOOT_367" Count="6" />
+            <Card Id="ICC_062" Count="4" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="DS1_233" Count="6" />
+            <Card Id="UNG_034" Count="3" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>e7c83759-54b6-4403-aa96-865225bc42c2</GameId>
+          <PlayerHero>Warrior</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>true</Coin>
+          <GameMode>Brawl</GameMode>
+          <Result>Win</Result>
+          <Turns>11</Turns>
+          <StartTime>2018-05-16T22:29:07.5542263+02:00</StartTime>
+          <EndTime>2018-05-16T22:36:42.8212201+02:00</EndTime>
+          <PlayerName>Ropack#2387</PlayerName>
+          <OpponentName>dybberkoala#2233</OpponentName>
+          <ReplayFile>Ropack#2387(Warrior) vs dybberkoala#2233(Mage) 2236-160518.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <HearthstoneBuild>24377</HearthstoneBuild>
+          <PlayerCardbackId>65</PlayerCardbackId>
+          <OpponentCardbackId>10</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2860</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.92</Address>
+            <AuroraPassword>IDJjLd</AuroraPassword>
+            <ClientHandle>51964852</ClientHandle>
+            <GameHandle>36700798</GameHandle>
+            <Mission>2860</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>cDAnCM</SpectatorPassword>
+            <Version>635551</Version>
+          </ServerInfo>
+          <GameType>GT_TAVERNBRAWL</GameType>
+          <BrawlSeasonId>153</BrawlSeasonId>
+          <RankedSeasonId>55</RankedSeasonId>
+          <BrawlWins>1</BrawlWins>
+          <OpponentHeroCardId>HERO_08</OpponentHeroCardId>
+          <Region>EU</Region>
+          <DeckId>00000000-0000-0000-0000-000000000000</DeckId>
+          <DeckName>none</DeckName>
+          <HsReplay>
+            <UploadId>r2AecSKUaVV5qHM4HXPbGn</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/r2AecSKUaVV5qHM4HXPbGn/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>1557821153</HsDeckId>
+          <PlayerCards>
+            <Card Id="LOOT_367" Count="8" />
+            <Card Id="ICC_062" Count="7" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="EX1_277" Count="6" />
+            <Card Id="NEW1_012" Count="8" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>948f6c95-efa2-4ebb-a5c7-d5a9a81aa098</GameId>
+          <PlayerHero>Warrior</PlayerHero>
+          <OpponentHero>Mage</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Brawl</GameMode>
+          <Result>Win</Result>
+          <Turns>7</Turns>
+          <StartTime>2018-05-16T22:37:47.6060774+02:00</StartTime>
+          <EndTime>2018-05-16T22:41:37.5097185+02:00</EndTime>
+          <PlayerName>Ropack#2387</PlayerName>
+          <OpponentName>goto#2110</OpponentName>
+          <ReplayFile>Ropack#2387(Warrior) vs goto#2110(Mage) 2241-160518.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <HearthstoneBuild>24377</HearthstoneBuild>
+          <PlayerCardbackId>65</PlayerCardbackId>
+          <OpponentCardbackId>36</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>2860</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.197</Address>
+            <AuroraPassword>FGMkmh</AuroraPassword>
+            <ClientHandle>51964852</ClientHandle>
+            <GameHandle>5112966</GameHandle>
+            <Mission>2860</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>GJpoLD</SpectatorPassword>
+            <Version>635551</Version>
+          </ServerInfo>
+          <GameType>GT_TAVERNBRAWL</GameType>
+          <BrawlSeasonId>153</BrawlSeasonId>
+          <RankedSeasonId>55</RankedSeasonId>
+          <BrawlWins>2</BrawlWins>
+          <OpponentHeroCardId>HERO_08</OpponentHeroCardId>
+          <Region>EU</Region>
+          <DeckId>00000000-0000-0000-0000-000000000000</DeckId>
+          <DeckName>none</DeckName>
+          <HsReplay>
+            <UploadId>bLSPjB9768gKxsXmfsGP5N</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/bLSPjB9768gKxsXmfsGP5N/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>1557821153</HsDeckId>
+          <PlayerCards>
+            <Card Id="ICC_062" Count="4" />
+            <Card Id="LOOT_367" Count="6" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="NEW1_012" Count="3" />
+            <Card Id="CS2_027" Count="7" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>932e403c-ab57-45db-8f8f-0e9c6b5de9da</GameId>
+          <PlayerHero>Warrior</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Brawl</GameMode>
+          <Result>Loss</Result>
+          <Turns>4</Turns>
+          <StartTime>2018-05-24T09:02:12.1933868+02:00</StartTime>
+          <EndTime>2018-05-24T09:05:05.3086261+02:00</EndTime>
+          <PlayerName>Ropack#2387</PlayerName>
+          <OpponentName>Blitz974#2327</OpponentName>
+          <ReplayFile>Ropack#2387(Warrior) vs Blitz974#2327(Hunter) 0905-240518.hdtreplay</ReplayFile>
+          <WasConceded>true</WasConceded>
+          <HearthstoneBuild>24589</HearthstoneBuild>
+          <PlayerCardbackId>65</PlayerCardbackId>
+          <OpponentCardbackId>24</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>1782</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.204</Address>
+            <AuroraPassword>pkHJBI</AuroraPassword>
+            <ClientHandle>51964852</ClientHandle>
+            <GameHandle>25559287</GameHandle>
+            <Mission>1782</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>oilnDn</SpectatorPassword>
+            <Version>649899</Version>
+          </ServerInfo>
+          <GameType>GT_TAVERNBRAWL</GameType>
+          <BrawlSeasonId>154</BrawlSeasonId>
+          <RankedSeasonId>55</RankedSeasonId>
+          <OpponentHeroCardId>HERO_05</OpponentHeroCardId>
+          <Region>EU</Region>
+          <DeckId>00000000-0000-0000-0000-000000000000</DeckId>
+          <DeckName>none</DeckName>
+          <HsReplay>
+            <UploadId>xtU23fmwin5U925QMHsdif</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/xtU23fmwin5U925QMHsdif/</ReplayUrl>
+          </HsReplay>
+          <HsDeckId>1564142261</HsDeckId>
+          <PlayerCards>
+            <Card Id="EX1_557" Count="1" />
+            <Card Id="GIL_692" Count="2" />
+            <Card Id="KAR_061" Count="1" />
+            <Card Id="ICC_853" Count="2" />
+            <Card Id="CFM_344" Count="2" />
+            <Card Id="OG_220" Count="1" />
+            <Card Id="LOOT_051" Count="1" Unconfirmed="1" />
+            <Card Id="GIL_558" Count="1" Unconfirmed="1" />
+            <Card Id="ICC_094" Count="1" Unconfirmed="1" />
+            <Card Id="CS2_009" Count="1" Unconfirmed="1" />
+            <Card Id="EX1_160" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_154" Count="1" Unconfirmed="1" />
+            <Card Id="GIL_637" Count="1" Unconfirmed="1" />
+            <Card Id="LOOT_388" Count="1" Unconfirmed="1" />
+            <Card Id="LOOT_351" Count="1" Unconfirmed="1" />
+            <Card Id="UNG_082" Count="1" Unconfirmed="1" />
+            <Card Id="LOOT_054" Count="2" Unconfirmed="2" />
+            <Card Id="EX1_046" Count="1" Unconfirmed="1" />
+            <Card Id="LOOT_144" Count="1" Unconfirmed="1" />
+            <Card Id="GIL_125" Count="1" Unconfirmed="1" />
+            <Card Id="EX1_023" Count="1" Unconfirmed="1" />
+            <Card Id="ICC_905" Count="1" Unconfirmed="1" />
+            <Card Id="LOOT_122" Count="2" Unconfirmed="2" />
+            <Card Id="CS2_226" Count="1" Unconfirmed="1" />
+            <Card Id="UNG_111" Count="2" Unconfirmed="2" />
+            <Card Id="GIL_667" Count="1" Unconfirmed="1" />
+            <Card Id="ICC_054" Count="1" Unconfirmed="1" />
+            <Card Id="UNG_010" Count="2" Unconfirmed="2" />
+            <Card Id="UNG_813" Count="2" Unconfirmed="2" />
+            <Card Id="ICC_085" Count="1" Unconfirmed="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="EX1_557" Count="3" />
+            <Card Id="GVG_049" Count="1" />
+          </OpponentCards>
+        </Game>
+        <Game>
+          <GameId>ea30b769-6ea2-4996-8013-e983d1ba1939</GameId>
+          <PlayerHero>Warrior</PlayerHero>
+          <OpponentHero>Hunter</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Brawl</GameMode>
+          <Result>Win</Result>
+          <Turns>9</Turns>
+          <StartTime>2018-05-24T09:05:20.0549357+02:00</StartTime>
+          <EndTime>2018-05-24T09:16:40.362967+02:00</EndTime>
+          <PlayerName>Ropack#2387</PlayerName>
+          <OpponentName>Pmounet#2222</OpponentName>
+          <ReplayFile>Ropack#2387(Warrior) vs Pmounet#2222(Hunter) 0916-240518.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <HearthstoneBuild>24589</HearthstoneBuild>
+          <PlayerCardbackId>65</PlayerCardbackId>
+          <OpponentCardbackId>119</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>1782</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.185</Address>
+            <AuroraPassword>MOKdJe</AuroraPassword>
+            <ClientHandle>51964852</ClientHandle>
+            <GameHandle>24445161</GameHandle>
+            <Mission>1782</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>ddNCbe</SpectatorPassword>
+            <Version>649899</Version>
+          </ServerInfo>
+          <GameType>GT_TAVERNBRAWL</GameType>
+          <BrawlSeasonId>154</BrawlSeasonId>
+          <RankedSeasonId>55</RankedSeasonId>
+          <BrawlLosses>1</BrawlLosses>
+          <OpponentHeroCardId>HERO_05</OpponentHeroCardId>
+          <Region>EU</Region>
+          <DeckId>00000000-0000-0000-0000-000000000000</DeckId>
+          <DeckName>none</DeckName>
+          <HsReplay>
+            <UploadId>oEskRypsAQvNbx3kf66UJm</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/oEskRypsAQvNbx3kf66UJm/</ReplayUrl>
+          </HsReplay>
+          <PlayerCards>
+            <Card Id="GVG_115" Count="2" />
+            <Card Id="NEW1_029" Count="1" />
+            <Card Id="GIL_620" Count="2" />
+            <Card Id="ICC_853" Count="2" />
+            <Card Id="UNG_900" Count="2" />
+            <Card Id="OG_134" Count="1" />
+            <Card Id="ICC_314" Count="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="AT_127" Count="2" />
+            <Card Id="UNG_919" Count="3" />
+            <Card Id="NEW1_038" Count="1" />
+            <Card Id="LOOT_511" Count="1" />
           </OpponentCards>
         </Game>
       </Games>
