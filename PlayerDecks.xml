@@ -32352,21 +32352,176 @@
     <IsArenaDeck>true</IsArenaDeck>
     <IsDungeonDeck>false</IsDungeonDeck>
     <ArenaReward>
-      <Gold>0</Gold>
+      <Gold>175</Gold>
       <Dust>0</Dust>
-      <PaymentMethod>Unknown</PaymentMethod>
+      <PaymentMethod>Gold</PaymentMethod>
       <Cards>
         <CardReward xsi:nil="true" />
         <CardReward xsi:nil="true" />
         <CardReward xsi:nil="true" />
       </Cards>
       <Packs>
-        <ArenaRewardPacks>None</ArenaRewardPacks>
+        <ArenaRewardPacks>Gilneas</ArenaRewardPacks>
         <ArenaRewardPacks>None</ArenaRewardPacks>
       </Packs>
     </ArenaReward>
     <DeckId>5304b0eb-33e7-4701-b14c-2b18e46ee1c9</DeckId>
     <Name>Arena 29-05 12:13</Name>
+    <Tags />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>UNG_205</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_360</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_001</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_130</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_244</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_619</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_011</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_020</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_398</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_349</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GIL_207</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_020</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_072</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_366</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_034</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_093</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_026</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_094</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_466</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_043</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_161</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>DS1_055</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GIL_667</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_027</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_099</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GIL_596</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_153</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_137</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Paladin</Class>
+    <LastEdited>2018-06-06T23:55:52.1152176+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>1575067974</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>true</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <ArenaReward>
+      <Gold>60</Gold>
+      <Dust>50</Dust>
+      <PaymentMethod>Gold</PaymentMethod>
+      <Cards>
+        <CardReward xsi:nil="true" />
+        <CardReward xsi:nil="true" />
+        <CardReward xsi:nil="true" />
+      </Cards>
+      <Packs>
+        <ArenaRewardPacks>Gilneas</ArenaRewardPacks>
+        <ArenaRewardPacks>None</ArenaRewardPacks>
+      </Packs>
+    </ArenaReward>
+    <DeckId>426fdde4-af42-457a-959e-99383a79ecd0</DeckId>
+    <Name>Arena 06-06 11:55</Name>
     <Tags />
   </Deck>
   <LastDeckClass>
@@ -32396,9 +32551,9 @@
       <Name>Cancer</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Mage</Class>
-      <Id>5304b0eb-33e7-4701-b14c-2b18e46ee1c9</Id>
-      <Name>Arena 29-05 12:13</Name>
+      <Class>Paladin</Class>
+      <Id>5fb950c1-3838-4f17-974a-7ca8cde8487f</Id>
+      <Name>Odd Paladin</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
