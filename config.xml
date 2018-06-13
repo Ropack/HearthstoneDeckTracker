@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Steel</AccentName>
   <AppTheme>BaseDark</AppTheme>
-  <ActiveDeckIdString>5fb950c1-3838-4f17-974a-7ca8cde8487f</ActiveDeckIdString>
+  <ActiveDeckIdString>0457507d-20d2-4340-aefe-219e96212329</ActiveDeckIdString>
   <AdditionalOverlayTooltips>false</AdditionalOverlayTooltips>
   <AdvancedOptions>true</AdvancedOptions>
   <AlwaysOverwriteLogConfig>true</AlwaysOverwriteLogConfig>
@@ -34,7 +34,8 @@
   <ArenaDeckNameTemplate>Arena {Date dd-MM hh:mm}</ArenaDeckNameTemplate>
   <BrawlDeckNameTemplate>Brawl {Date dd-MM hh:mm}</BrawlDeckNameTemplate>
   <DungeonRunDeckNameTemplate>Dungeon Run {Date dd-MM HH:mm}</DungeonRunDeckNameTemplate>
-  <BringHsToForeground>false</BringHsToForeground>
+  <TurnStartAction>Flash</TurnStartAction>
+  <ChallengeAction>Flash</ChallengeAction>
   <CardSortingClassFirst>false</CardSortingClassFirst>
   <CheckForBetaUpdates>false</CheckForBetaUpdates>
   <CheckForDevUpdates>false</CheckForDevUpdates>
@@ -72,10 +73,11 @@
   <CloseToTray>false</CloseToTray>
   <CloseWithHearthstone>false</CloseWithHearthstone>
   <StartHearthstoneWithHDT>false</StartHearthstoneWithHDT>
-  <CreatedByVersion>1.6.6.3629</CreatedByVersion>
+  <CreatedByVersion>1.6.7.3635</CreatedByVersion>
   <CustomDisplayedTimeFrame xsi:nil="true" />
   <CustomHeight>-1</CustomHeight>
   <CustomWidth>-1</CustomWidth>
+  <SelectedDateFormat>DayMonthYear</SelectedDateFormat>
   <Debug>false</Debug>
   <DeckPickerItemLayout>Layout1</DeckPickerItemLayout>
   <DeckPickerWildIncludesStandard>true</DeckPickerWildIncludesStandard>
@@ -93,28 +95,26 @@
   <ExtraFeatures>false</ExtraFeatures>
   <ExtraFeaturesFriendslist>true</ExtraFeaturesFriendslist>
   <ExtraFeaturesSecrets>false</ExtraFeaturesSecrets>
-  <FlashHsOnTurnStart>true</FlashHsOnTurnStart>
-  <FlashHsOnFriendlyChallenge>false</FlashHsOnFriendlyChallenge>
   <ForceMouseHook>false</ForceMouseHook>
   <GoldProgessX>0.075</GoldProgessX>
   <GoldProgessY>0.075</GoldProgessY>
   <GoldProgress>
     <int>0</int>
-    <int>0</int>
+    <int>1</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
   </GoldProgress>
   <GoldProgressLastReset>
     <dateTime>0001-01-01T00:00:00</dateTime>
-    <dateTime>2018-06-06T00:00:00</dateTime>
+    <dateTime>2018-06-14T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
   </GoldProgressLastReset>
   <GoldProgressTotal>
     <int>0</int>
-    <int>10</int>
+    <int>0</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
@@ -167,7 +167,6 @@
   <IgnoreNewsId>12</IgnoreNewsId>
   <KeepDecksVisible>true</KeepDecksVisible>
   <KeepStatsWhenDeletingDeck>false</KeepStatsWhenDeletingDeck>
-  <LastPlayedDateFormat>DayMonthYear</LastPlayedDateFormat>
   <Localization>enUS</Localization>
   <LogConfigConsolePrinting>false</LogConfigConsolePrinting>
   <LogLevel>0</LogLevel>
@@ -280,6 +279,7 @@
   <ShowBatteryLife>false</ShowBatteryLife>
   <ShowBatteryLifePercent>false</ShowBatteryLifePercent>
   <ShowCapturableOverlay>false</ShowCapturableOverlay>
+  <SelectedDateOnDecks>None</SelectedDateOnDecks>
   <ShowDeckTitle>false</ShowDeckTitle>
   <ShowDeckWins>false</ShowDeckWins>
   <ShowFlavorText>true</ShowFlavorText>
@@ -287,7 +287,7 @@
   <ShowGameResultNotifications>true</ShowGameResultNotifications>
   <ImgurClientId>c7b1c7904951f7a</ImgurClientId>
   <ShowInTaskbar>false</ShowInTaskbar>
-  <ShowLastPlayedDateOnDeck>false</ShowLastPlayedDateOnDeck>
+  <ShowDateOnDeck>false</ShowDateOnDeck>
   <ShowSplashScreen>true</ShowSplashScreen>
   <ShowNoteDialogAfterGame>false</ShowNoteDialogAfterGame>
   <ShowPlayerGet>false</ShowPlayerGet>

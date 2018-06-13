@@ -8542,5 +8542,70 @@
       </Games>
       <Name>Toki, Time-Tinker</Name>
     </DeckStats>
+    <DeckStats>
+      <DeckId>00000000-0000-0000-0000-000000000000</DeckId>
+      <Games>
+        <Game>
+          <GameId>5f175a5d-0213-4e7c-a209-430c5740f258</GameId>
+          <PlayerHero>Deathstalker Rexxar</PlayerHero>
+          <OpponentHero>Deathstalker Rexxar</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Brawl</GameMode>
+          <Result>Win</Result>
+          <Turns>6</Turns>
+          <StartTime>2018-06-14T00:22:51.0676218+02:00</StartTime>
+          <EndTime>2018-06-14T00:32:03.5970984+02:00</EndTime>
+          <PlayerName>Ropack#2387</PlayerName>
+          <OpponentName>Deathstalker Rexxar</OpponentName>
+          <ReplayFile>Ropack#2387(Deathstalker Rexxar) vs Deathstalker Rexxar(Deathstalker Rexxar) 0032-140618.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <HearthstoneBuild>24769</HearthstoneBuild>
+          <PlayerCardbackId>114</PlayerCardbackId>
+          <OpponentCardbackId>114</OpponentCardbackId>
+          <FriendlyPlayerId>2</FriendlyPlayerId>
+          <ScenarioId>2743</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.225</Address>
+            <AuroraPassword>EaHmFd</AuroraPassword>
+            <ClientHandle>51964852</ClientHandle>
+            <GameHandle>15073557</GameHandle>
+            <Mission>2743</Mission>
+            <Port>3724</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>nKfpIN</SpectatorPassword>
+            <Version>680224</Version>
+          </ServerInfo>
+          <GameType>GT_TAVERNBRAWL</GameType>
+          <BrawlSeasonId>157</BrawlSeasonId>
+          <RankedSeasonId>56</RankedSeasonId>
+          <OpponentHeroCardId>TB_Zombeast_H</OpponentHeroCardId>
+          <Region>EU</Region>
+          <DeckId>00000000-0000-0000-0000-000000000000</DeckId>
+          <DeckName>none</DeckName>
+          <HsReplay>
+            <UploadId>N5YCc9K6F56Z6UXEVTYPYU</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/N5YCc9K6F56Z6UXEVTYPYU/</ReplayUrl>
+          </HsReplay>
+          <PlayerCards>
+            <Card Id="LOOT_077" Count="1" />
+            <Card Id="OG_061" Count="1" />
+            <Card Id="EX1_609" Count="2" />
+            <Card Id="LOE_021" Count="1" />
+            <Card Id="UNG_916" Count="1" />
+            <Card Id="GVG_073" Count="2" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="LOE_021" Count="1" />
+            <Card Id="LOOT_079" Count="1" />
+            <Card Id="EX1_538" Count="1" />
+            <Card Id="DS1_183" Count="1" />
+          </OpponentCards>
+        </Game>
+      </Games>
+      <Name>Deathstalker Rexxar</Name>
+    </DeckStats>
   </DeckStats>
 </DefaultDeckStats>

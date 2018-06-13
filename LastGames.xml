@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGameInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameInfo deckId="0457507d-20d2-4340-aefe-219e96212329" gameId="c4148cc8-e766-4831-a799-af2d94e5e145" />
+  <GameInfo deckId="0457507d-20d2-4340-aefe-219e96212329" gameId="b8d76256-ba65-4dc0-b722-4009ea468fa0" />
+  <GameInfo deckId="0457507d-20d2-4340-aefe-219e96212329" gameId="1ef88f7d-efe7-4731-8914-0412372e6dbd" />
+  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="5f175a5d-0213-4e7c-a209-430c5740f258" hero="Deathstalker Rexxar" />
   <GameInfo deckId="5fb950c1-3838-4f17-974a-7ca8cde8487f" gameId="3159a46f-3d0f-41fc-a2a0-021e1407cfa7" />
   <GameInfo deckId="426fdde4-af42-457a-959e-99383a79ecd0" gameId="ade2c86e-8cf5-4ba6-b4a8-da820c4bd1c6" />
   <GameInfo deckId="426fdde4-af42-457a-959e-99383a79ecd0" gameId="bd3c5a5f-d34a-44c2-8e79-0fd881c5e4f8" />
   <GameInfo deckId="426fdde4-af42-457a-959e-99383a79ecd0" gameId="eec4e4ac-ab3c-421e-ba18-bb2a0bf2f602" />
   <GameInfo deckId="426fdde4-af42-457a-959e-99383a79ecd0" gameId="9b50e5ab-c545-4041-b544-6b6f094072d4" />
   <GameInfo deckId="426fdde4-af42-457a-959e-99383a79ecd0" gameId="36f99aab-43a3-4c18-a137-13e9c0d036a7" />
-  <GameInfo deckId="426fdde4-af42-457a-959e-99383a79ecd0" gameId="8ab84df6-6fa2-4473-8b77-5713fd766b52" />
-  <GameInfo deckId="426fdde4-af42-457a-959e-99383a79ecd0" gameId="076d88f2-47fb-49ca-921f-bc7468793db1" />
-  <GameInfo deckId="426fdde4-af42-457a-959e-99383a79ecd0" gameId="6cbf0304-cff3-4e10-9b7b-f6522c0870aa" />
-  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="0a343516-890c-41ce-a355-30d827d471f5" hero="Warrior" />
 </ArrayOfGameInfo>
