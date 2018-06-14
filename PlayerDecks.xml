@@ -32666,21 +32666,160 @@
     <IsArenaDeck>true</IsArenaDeck>
     <IsDungeonDeck>false</IsDungeonDeck>
     <ArenaReward>
-      <Gold>0</Gold>
+      <Gold>130</Gold>
       <Dust>0</Dust>
-      <PaymentMethod>Unknown</PaymentMethod>
+      <PaymentMethod>Gold</PaymentMethod>
       <Cards>
         <CardReward xsi:nil="true" />
         <CardReward xsi:nil="true" />
         <CardReward xsi:nil="true" />
       </Cards>
       <Packs>
-        <ArenaRewardPacks>None</ArenaRewardPacks>
+        <ArenaRewardPacks>Gilneas</ArenaRewardPacks>
         <ArenaRewardPacks>None</ArenaRewardPacks>
       </Packs>
     </ArenaReward>
     <DeckId>0457507d-20d2-4340-aefe-219e96212329</DeckId>
     <Name>Arena 14-06 12:39</Name>
+    <Tags />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_188</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_092</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_277</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_004</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>TOT_308</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_103</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_170</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>TOT_334</Id>
+        <Count>3</Count>
+      </Card>
+      <Card>
+        <Id>CS2_023</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_117</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_026</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_072</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GIL_819</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_026</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>TOT_112</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GIL_528</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_043</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_106</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_172</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_028</Id>
+        <Count>3</Count>
+      </Card>
+      <Card>
+        <Id>TOT_109</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_705</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_153</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Mage</Class>
+    <LastEdited>2018-06-15T00:22:50.0780995+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>1581071546</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>true</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <ArenaReward>
+      <Gold>20</Gold>
+      <Dust>0</Dust>
+      <PaymentMethod>Gold</PaymentMethod>
+      <Cards>
+        <CardReward xsi:nil="true" />
+        <CardReward xsi:nil="true" />
+        <CardReward xsi:nil="true" />
+      </Cards>
+      <Packs>
+        <ArenaRewardPacks>Gilneas</ArenaRewardPacks>
+        <ArenaRewardPacks>None</ArenaRewardPacks>
+      </Packs>
+    </ArenaReward>
+    <DeckId>ddf4359c-c13e-4e4a-a96e-1b58d1fe7a86</DeckId>
+    <Name>Arena 15-06 12:22</Name>
     <Tags />
   </Deck>
   <LastDeckClass>
@@ -32713,6 +32852,11 @@
       <Class>Priest</Class>
       <Id>0457507d-20d2-4340-aefe-219e96212329</Id>
       <Name>Arena 14-06 12:39</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Mage</Class>
+      <Id>ddf4359c-c13e-4e4a-a96e-1b58d1fe7a86</Id>
+      <Name>Arena 15-06 12:22</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>

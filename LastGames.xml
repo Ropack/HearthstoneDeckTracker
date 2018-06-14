@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGameInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameInfo deckId="ddf4359c-c13e-4e4a-a96e-1b58d1fe7a86" gameId="9c0d837e-ddcb-4d0f-8369-3b04a033524b" />
+  <GameInfo deckId="ddf4359c-c13e-4e4a-a96e-1b58d1fe7a86" gameId="76141243-7274-43df-a393-50c747d1e737" />
+  <GameInfo deckId="ddf4359c-c13e-4e4a-a96e-1b58d1fe7a86" gameId="ec1629d5-887a-4a42-b53e-195646837380" />
+  <GameInfo deckId="0457507d-20d2-4340-aefe-219e96212329" gameId="40d0a7bf-05bf-4e26-a6b0-d4a36abcae7c" />
+  <GameInfo deckId="0457507d-20d2-4340-aefe-219e96212329" gameId="b5e601cf-46f1-4290-8497-d84196172260" />
+  <GameInfo deckId="0457507d-20d2-4340-aefe-219e96212329" gameId="9298e877-bf45-4c9a-be09-ca8aa69490e4" />
+  <GameInfo deckId="0457507d-20d2-4340-aefe-219e96212329" gameId="32fde6c2-bb30-4ea8-97ac-fffdf4a2426b" />
+  <GameInfo deckId="0457507d-20d2-4340-aefe-219e96212329" gameId="79b29790-cd25-4fd5-962e-10d11659f048" />
+  <GameInfo deckId="0457507d-20d2-4340-aefe-219e96212329" gameId="dcdd3ebc-9680-4c58-8fd1-f1d06addb606" />
   <GameInfo deckId="0457507d-20d2-4340-aefe-219e96212329" gameId="c4148cc8-e766-4831-a799-af2d94e5e145" />
-  <GameInfo deckId="0457507d-20d2-4340-aefe-219e96212329" gameId="b8d76256-ba65-4dc0-b722-4009ea468fa0" />
-  <GameInfo deckId="0457507d-20d2-4340-aefe-219e96212329" gameId="1ef88f7d-efe7-4731-8914-0412372e6dbd" />
-  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="5f175a5d-0213-4e7c-a209-430c5740f258" hero="Deathstalker Rexxar" />
-  <GameInfo deckId="5fb950c1-3838-4f17-974a-7ca8cde8487f" gameId="3159a46f-3d0f-41fc-a2a0-021e1407cfa7" />
-  <GameInfo deckId="426fdde4-af42-457a-959e-99383a79ecd0" gameId="ade2c86e-8cf5-4ba6-b4a8-da820c4bd1c6" />
-  <GameInfo deckId="426fdde4-af42-457a-959e-99383a79ecd0" gameId="bd3c5a5f-d34a-44c2-8e79-0fd881c5e4f8" />
-  <GameInfo deckId="426fdde4-af42-457a-959e-99383a79ecd0" gameId="eec4e4ac-ab3c-421e-ba18-bb2a0bf2f602" />
-  <GameInfo deckId="426fdde4-af42-457a-959e-99383a79ecd0" gameId="9b50e5ab-c545-4041-b544-6b6f094072d4" />
-  <GameInfo deckId="426fdde4-af42-457a-959e-99383a79ecd0" gameId="36f99aab-43a3-4c18-a137-13e9c0d036a7" />
 </ArrayOfGameInfo>

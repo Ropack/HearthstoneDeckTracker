@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Steel</AccentName>
   <AppTheme>BaseDark</AppTheme>
-  <ActiveDeckIdString>0457507d-20d2-4340-aefe-219e96212329</ActiveDeckIdString>
+  <ActiveDeckIdString>ddf4359c-c13e-4e4a-a96e-1b58d1fe7a86</ActiveDeckIdString>
   <AdditionalOverlayTooltips>false</AdditionalOverlayTooltips>
   <AdvancedOptions>true</AdvancedOptions>
   <AlwaysOverwriteLogConfig>true</AlwaysOverwriteLogConfig>
@@ -329,8 +329,8 @@
   <TimersVerticalPosition>44.5</TimersVerticalPosition>
   <TimersVerticalSpacing>42</TimersVerticalSpacing>
   <TrackerCardToolTips>true</TrackerCardToolTips>
-  <TrackerWindowLeft>552</TrackerWindowLeft>
-  <TrackerWindowTop>166</TrackerWindowTop>
+  <TrackerWindowLeft>418</TrackerWindowLeft>
+  <TrackerWindowTop>81</TrackerWindowTop>
   <UseAnyUnityWindow>false</UseAnyUnityWindow>
   <UseAnimations>true</UseAnimations>
   <UseFullTextSearch>false</UseFullTextSearch>
