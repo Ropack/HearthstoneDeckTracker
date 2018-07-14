@@ -8110,6 +8110,64 @@
             <Card Id="EX1_284" Count="1" />
           </OpponentCards>
         </Game>
+        <Game>
+          <GameId>1f2618a4-ec72-4c93-a61b-d6b01a5eaa36</GameId>
+          <PlayerHero>Hunter</PlayerHero>
+          <OpponentHero>Priest</OpponentHero>
+          <Coin>false</Coin>
+          <GameMode>Brawl</GameMode>
+          <Result>Win</Result>
+          <Turns>8</Turns>
+          <StartTime>2018-07-11T23:05:59.6815672+02:00</StartTime>
+          <EndTime>2018-07-11T23:12:53.5149732+02:00</EndTime>
+          <PlayerName>Ropack#2387</PlayerName>
+          <OpponentName>MPAX#21556</OpponentName>
+          <ReplayFile>Ropack#2387(Hunter) vs MPAX#21556(Priest) 2312-110718.hdtreplay</ReplayFile>
+          <WasConceded>false</WasConceded>
+          <HearthstoneBuild>25252</HearthstoneBuild>
+          <PlayerCardbackId>65</PlayerCardbackId>
+          <OpponentCardbackId>123</OpponentCardbackId>
+          <FriendlyPlayerId>1</FriendlyPlayerId>
+          <ScenarioId>1775</ScenarioId>
+          <ServerInfo>
+            <Address>37.244.49.98</Address>
+            <AuroraPassword>GiOaBB</AuroraPassword>
+            <ClientHandle>51964852</ClientHandle>
+            <GameHandle>11075755</GameHandle>
+            <Mission>1775</Mission>
+            <Port>1119</Port>
+            <Resumable>true</Resumable>
+            <SpectatorMode>false</SpectatorMode>
+            <SpectatorPassword>IpKjfC</SpectatorPassword>
+            <Version>713029</Version>
+          </ServerInfo>
+          <GameType>GT_TAVERNBRAWL</GameType>
+          <BrawlSeasonId>161</BrawlSeasonId>
+          <RankedSeasonId>57</RankedSeasonId>
+          <OpponentHeroCardId>HERO_09</OpponentHeroCardId>
+          <Region>EU</Region>
+          <DeckId>00000000-0000-0000-0000-000000000000</DeckId>
+          <DeckName>none</DeckName>
+          <HsReplay>
+            <UploadId>mTkg48QWQWW5CS2t4ZUGMN</UploadId>
+            <UploadTries>1</UploadTries>
+            <Unsupported>false</Unsupported>
+            <ReplayUrl>https://hsreplay.net/uploads/upload/mTkg48QWQWW5CS2t4ZUGMN/</ReplayUrl>
+          </HsReplay>
+          <PlayerCards>
+            <Card Id="OG_123" Count="8" />
+            <Card Id="LOOT_217" Count="1" />
+            <Card Id="EX1_617" Count="1" />
+            <Card Id="GVG_073" Count="1" />
+            <Card Id="GVG_017" Count="1" />
+          </PlayerCards>
+          <OpponentCards>
+            <Card Id="LOOT_353" Count="1" />
+            <Card Id="OG_123" Count="6" />
+            <Card Id="KAR_013" Count="1" />
+            <Card Id="ICC_849" Count="1" />
+          </OpponentCards>
+        </Game>
       </Games>
       <Name>Hunter</Name>
     </DeckStats>
