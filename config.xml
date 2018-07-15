@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Steel</AccentName>
   <AppTheme>BaseDark</AppTheme>
-  <ActiveDeckIdString>5fb950c1-3838-4f17-974a-7ca8cde8487f</ActiveDeckIdString>
+  <ActiveDeckIdString>b536aab8-f77d-45df-a8ae-8d53c90ff6e1</ActiveDeckIdString>
   <AdditionalOverlayTooltips>false</AdditionalOverlayTooltips>
   <AdvancedOptions>true</AdvancedOptions>
   <AlwaysOverwriteLogConfig>true</AlwaysOverwriteLogConfig>
@@ -100,21 +100,21 @@
   <GoldProgessY>0.075</GoldProgessY>
   <GoldProgress>
     <int>0</int>
-    <int>1</int>
+    <int>2</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
   </GoldProgress>
   <GoldProgressLastReset>
     <dateTime>0001-01-01T00:00:00</dateTime>
-    <dateTime>2018-07-14T00:00:00</dateTime>
+    <dateTime>2018-07-15T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
   </GoldProgressLastReset>
   <GoldProgressTotal>
     <int>0</int>
-    <int>10</int>
+    <int>0</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
@@ -164,7 +164,7 @@
   <HsReplayUploadPacks xsi:nil="true" />
   <Id>f501fa3e-1236-417d-aaa7-84e9ea841c6a</Id>
   <IgnoredConfigWarnings />
-  <IgnoreNewsId>12</IgnoreNewsId>
+  <IgnoreNewsId>15</IgnoreNewsId>
   <KeepDecksVisible>true</KeepDecksVisible>
   <KeepStatsWhenDeletingDeck>false</KeepStatsWhenDeletingDeck>
   <Localization>enUS</Localization>

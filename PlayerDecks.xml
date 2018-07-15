@@ -33503,6 +33503,149 @@
     <Name>Arena 11-07 11:48</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>LOOT_051</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GIL_513</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_808</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_013</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_154</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ICC_808</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_117</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_351</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_085</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_019</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_072</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_570</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_054</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_166</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_165</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_571</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_164</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_007</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_067</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_213</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_054</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_149</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_010</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_222</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_099</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Druid</Class>
+    <LastEdited>2018-07-15T01:33:52.7856071+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>1601733378</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>true</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <ArenaReward>
+      <Gold>0</Gold>
+      <Dust>0</Dust>
+      <PaymentMethod>Unknown</PaymentMethod>
+      <Cards>
+        <CardReward xsi:nil="true" />
+        <CardReward xsi:nil="true" />
+        <CardReward xsi:nil="true" />
+      </Cards>
+      <Packs>
+        <ArenaRewardPacks>None</ArenaRewardPacks>
+        <ArenaRewardPacks>None</ArenaRewardPacks>
+      </Packs>
+    </ArenaReward>
+    <DeckId>b536aab8-f77d-45df-a8ae-8d53c90ff6e1</DeckId>
+    <Name>Arena 15-07 01:33</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Hunter</Class>
@@ -33520,11 +33663,6 @@
       <Name>Brawl 16-05 10:23</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Druid</Class>
-      <Id>4eabcf0b-adeb-4cba-b914-ed04e0ee07d0</Id>
-      <Name>Arena 22-05 12:43</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Shaman</Class>
       <Id>c12b4fff-aed4-4fcf-92be-376b130b193a</Id>
       <Name>Cancer</Name>
@@ -33533,6 +33671,11 @@
       <Class>Priest</Class>
       <Id>576c8c1c-9001-418b-97ee-a0d3acc2f4f8</Id>
       <Name>Custom Priest</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Druid</Class>
+      <Id>b536aab8-f77d-45df-a8ae-8d53c90ff6e1</Id>
+      <Name>Arena 15-07 01:33</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
