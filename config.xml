@@ -34,7 +34,8 @@
   <ArenaDeckNameTemplate>Arena {Date dd-MM hh:mm}</ArenaDeckNameTemplate>
   <BrawlDeckNameTemplate>Brawl {Date dd-MM hh:mm}</BrawlDeckNameTemplate>
   <DungeonRunDeckNameTemplate>Dungeon Run {Date dd-MM HH:mm}</DungeonRunDeckNameTemplate>
-  <BringHsToForeground>false</BringHsToForeground>
+  <TurnStartAction>Flash</TurnStartAction>
+  <ChallengeAction>Flash</ChallengeAction>
   <CardSortingClassFirst>false</CardSortingClassFirst>
   <CheckForBetaUpdates>false</CheckForBetaUpdates>
   <CheckForDevUpdates>false</CheckForDevUpdates>
@@ -69,12 +70,14 @@
   <ConstructedStatsNoteFilter />
   <ConstructedStatsActiveDeckOnly>false</ConstructedStatsActiveDeckOnly>
   <ClearLogFileAfterGame>true</ClearLogFileAfterGame>
+  <CloseToTray>false</CloseToTray>
   <CloseWithHearthstone>false</CloseWithHearthstone>
   <StartHearthstoneWithHDT>false</StartHearthstoneWithHDT>
-  <CreatedByVersion>1.6.4.3608</CreatedByVersion>
+  <CreatedByVersion>1.7.1.3656</CreatedByVersion>
   <CustomDisplayedTimeFrame xsi:nil="true" />
   <CustomHeight>-1</CustomHeight>
   <CustomWidth>-1</CustomWidth>
+  <SelectedDateFormat>DayMonthYear</SelectedDateFormat>
   <Debug>false</Debug>
   <DeckPickerItemLayout>Layout1</DeckPickerItemLayout>
   <DeckPickerWildIncludesStandard>true</DeckPickerWildIncludesStandard>
@@ -92,28 +95,26 @@
   <ExtraFeatures>false</ExtraFeatures>
   <ExtraFeaturesFriendslist>true</ExtraFeaturesFriendslist>
   <ExtraFeaturesSecrets>false</ExtraFeaturesSecrets>
-  <FlashHsOnTurnStart>true</FlashHsOnTurnStart>
-  <FlashHsOnFriendlyChallenge>false</FlashHsOnFriendlyChallenge>
   <ForceMouseHook>false</ForceMouseHook>
   <GoldProgessX>0.075</GoldProgessX>
   <GoldProgessY>0.075</GoldProgessY>
   <GoldProgress>
     <int>0</int>
-    <int>2</int>
+    <int>1</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
   </GoldProgress>
   <GoldProgressLastReset>
     <dateTime>0001-01-01T00:00:00</dateTime>
-    <dateTime>2018-05-04T00:00:00</dateTime>
+    <dateTime>2018-07-19T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
   </GoldProgressLastReset>
   <GoldProgressTotal>
     <int>0</int>
-    <int>0</int>
+    <int>20</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
@@ -166,7 +167,6 @@
   <IgnoreNewsId>12</IgnoreNewsId>
   <KeepDecksVisible>true</KeepDecksVisible>
   <KeepStatsWhenDeletingDeck>false</KeepStatsWhenDeletingDeck>
-  <LastPlayedDateFormat>DayMonthYear</LastPlayedDateFormat>
   <Localization>enUS</Localization>
   <LogConfigConsolePrinting>false</LogConfigConsolePrinting>
   <LogLevel>0</LogLevel>
@@ -279,6 +279,7 @@
   <ShowBatteryLife>false</ShowBatteryLife>
   <ShowBatteryLifePercent>false</ShowBatteryLifePercent>
   <ShowCapturableOverlay>false</ShowCapturableOverlay>
+  <SelectedDateOnDecks>None</SelectedDateOnDecks>
   <ShowDeckTitle>false</ShowDeckTitle>
   <ShowDeckWins>false</ShowDeckWins>
   <ShowFlavorText>true</ShowFlavorText>
@@ -286,7 +287,7 @@
   <ShowGameResultNotifications>true</ShowGameResultNotifications>
   <ImgurClientId>c7b1c7904951f7a</ImgurClientId>
   <ShowInTaskbar>false</ShowInTaskbar>
-  <ShowLastPlayedDateOnDeck>false</ShowLastPlayedDateOnDeck>
+  <ShowDateOnDeck>false</ShowDateOnDeck>
   <ShowSplashScreen>true</ShowSplashScreen>
   <ShowNoteDialogAfterGame>false</ShowNoteDialogAfterGame>
   <ShowPlayerGet>false</ShowPlayerGet>
@@ -328,8 +329,8 @@
   <TimersVerticalPosition>44.5</TimersVerticalPosition>
   <TimersVerticalSpacing>42</TimersVerticalSpacing>
   <TrackerCardToolTips>true</TrackerCardToolTips>
-  <TrackerWindowLeft>100</TrackerWindowLeft>
-  <TrackerWindowTop>100</TrackerWindowTop>
+  <TrackerWindowLeft>418</TrackerWindowLeft>
+  <TrackerWindowTop>81</TrackerWindowTop>
   <UseAnyUnityWindow>false</UseAnyUnityWindow>
   <UseAnimations>true</UseAnimations>
   <UseFullTextSearch>false</UseFullTextSearch>

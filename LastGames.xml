@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGameInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="e5701797-2966-4767-a9af-d760e706b5c8" hero="Paladin" />
-  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="68734801-63b5-4c22-ba15-ec6a6522a32c" hero="Paladin" />
-  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="d327f11f-a919-43a5-b9ff-22b8f743bcc5" hero="Paladin" />
-  <GameInfo deckId="5fb950c1-3838-4f17-974a-7ca8cde8487f" gameId="d63323d9-f751-4104-9126-402ce9d5086e" />
-  <GameInfo deckId="5fb950c1-3838-4f17-974a-7ca8cde8487f" gameId="b8f1690e-e264-41be-adf9-74aef109ccdc" />
-  <GameInfo deckId="5fb950c1-3838-4f17-974a-7ca8cde8487f" gameId="40fb3b31-235a-4e8f-81f0-4079652c20c0" />
-  <GameInfo deckId="5fb950c1-3838-4f17-974a-7ca8cde8487f" gameId="2cbfa5d3-fc3a-4f70-b917-b74c992863b1" />
-  <GameInfo deckId="5fb950c1-3838-4f17-974a-7ca8cde8487f" gameId="a52d3a56-4c88-4636-ba52-c209273d0002" />
-  <GameInfo deckId="5fb950c1-3838-4f17-974a-7ca8cde8487f" gameId="7de6b0b6-95e6-4164-85b0-98c9a7a5fc46" />
-  <GameInfo deckId="5fb950c1-3838-4f17-974a-7ca8cde8487f" gameId="9385a2f6-ea2b-41ea-a254-306f5c5f7b77" />
+  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="ac00e3ad-8a5a-482f-bfff-11d86708ad9b" hero="Warrior" />
+  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="70763b8f-e0a1-4f48-8876-d9afdd7310a8" hero="Warrior" />
+  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="ed1c8641-8c03-4eb1-9f7e-26b169a2603b" hero="Warrior" />
+  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="d6b5f3b6-4f27-4939-a5df-99e003c1ed3b" hero="Warrior" />
+  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="f1cb5b36-112a-4da5-bbff-c9a6ae2c2d61" hero="Warrior" />
+  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="0c7bfa00-4ccc-4938-aac0-f822fd3a3358" hero="Warrior" />
+  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="d5173e94-ea11-462c-b4a6-ecc9be8e84b7" hero="Warrior" />
+  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="444b0fbf-46fa-4fe4-aabc-0c2de645b026" hero="Warrior" />
+  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="029c64d2-6b97-44a0-be6b-e27723a253ca" hero="Warrior" />
+  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="d55ccdbb-06b2-4eab-ad33-ea1e445f6b7f" hero="Warrior" />
 </ArrayOfGameInfo>
