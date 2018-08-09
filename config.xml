@@ -2,7 +2,7 @@
 <Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AccentName>Steel</AccentName>
   <AppTheme>BaseDark</AppTheme>
-  <ActiveDeckIdString>00000000-0000-0000-0000-000000000000</ActiveDeckIdString>
+  <ActiveDeckIdString>abc8b683-4d7e-4278-92be-544e64d095fd</ActiveDeckIdString>
   <AdditionalOverlayTooltips>false</AdditionalOverlayTooltips>
   <AdvancedOptions>true</AdvancedOptions>
   <AlwaysOverwriteLogConfig>true</AlwaysOverwriteLogConfig>
@@ -120,7 +120,7 @@
     <int>0</int>
   </GoldProgressTotal>
   <GoogleAnalytics>true</GoogleAnalytics>
-  <HearthstoneDirectory>C:\Program Files (x86)\Hearthstone</HearthstoneDirectory>
+  <HearthstoneDirectory>E:\Hearthstone</HearthstoneDirectory>
   <HearthstoneLogsDirectoryName>Logs</HearthstoneLogsDirectoryName>
   <HearthstoneWindowName>Hearthstone</HearthstoneWindowName>
   <ArenaStatsClassFilter>All</ArenaStatsClassFilter>
