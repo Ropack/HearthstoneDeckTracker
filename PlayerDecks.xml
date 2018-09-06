@@ -34600,12 +34600,193 @@
     <Name>Monster Hunt 10-08 00:09</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>CS2_073</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_074</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_258</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_809</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GIL_827</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GIL_902</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_129</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GIL_534</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_134</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_072</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_928</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>UNG_075</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_529</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_029</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_167</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GIL_826</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Rogue</Class>
+    <LastEdited>2018-09-06T12:21:30.0174673+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>1622773167</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <DeckId>20476aa4-7ef7-4ae7-b8be-67d9209bd9d6</DeckId>
+    <Name>Odd Rogue</Name>
+    <Tags />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>LOOT_222</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>CS2_084</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>BOT_402</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>DS1_184</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_610</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_611</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_079</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_031</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_536</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_539</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_538</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_077</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_080</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ICC_828</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_217</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_085</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Hunter</Class>
+    <LastEdited>2018-09-06T12:21:30.0184654+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>1640909513</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <DeckId>3f4fe0d7-fc47-40aa-a3bc-8eb5dc44d765</DeckId>
+    <Name>Spell Hunter</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
-    <DeckInfo>
-      <Class>Hunter</Class>
-      <Id>163fd715-dc7b-47fb-a914-7324fd764ba5</Id>
-      <Name>Custom Hunter</Name>
-    </DeckInfo>
     <DeckInfo>
       <Class>Shaman</Class>
       <Id>c12b4fff-aed4-4fcf-92be-376b130b193a</Id>
@@ -34632,9 +34813,14 @@
       <Name>Arena 05-08 11:05</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Mage</Class>
-      <Id>abc8b683-4d7e-4278-92be-544e64d095fd</Id>
-      <Name>Monster Hunt 10-08 00:09</Name>
+      <Class>Rogue</Class>
+      <Id>20476aa4-7ef7-4ae7-b8be-67d9209bd9d6</Id>
+      <Name>Odd Rogue</Name>
+    </DeckInfo>
+    <DeckInfo>
+      <Class>Hunter</Class>
+      <Id>3f4fe0d7-fc47-40aa-a3bc-8eb5dc44d765</Id>
+      <Name>Spell Hunter</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>

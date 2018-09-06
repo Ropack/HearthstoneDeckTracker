@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfGameInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameInfo deckId="3f4fe0d7-fc47-40aa-a3bc-8eb5dc44d765" gameId="f8014ee9-ace4-4794-9cd2-b1ccd117c31c" />
+  <GameInfo deckId="3f4fe0d7-fc47-40aa-a3bc-8eb5dc44d765" gameId="729e9e8b-9a1a-42cf-9cf7-7957e7944817" />
+  <GameInfo deckId="3f4fe0d7-fc47-40aa-a3bc-8eb5dc44d765" gameId="b01fd988-72dc-48ce-a2c5-8a549e638901" />
+  <GameInfo deckId="3f4fe0d7-fc47-40aa-a3bc-8eb5dc44d765" gameId="b5e1dda2-4232-4bca-bbfa-d9ec33d3f68c" />
+  <GameInfo deckId="3f4fe0d7-fc47-40aa-a3bc-8eb5dc44d765" gameId="dcbf5fff-7372-45b3-afbf-2502caf8e289" />
+  <GameInfo deckId="3f4fe0d7-fc47-40aa-a3bc-8eb5dc44d765" gameId="ff25a459-bee4-4f40-91b6-f0dd444d30e4" />
   <GameInfo deckId="f5a3e44a-5740-4bcc-aad7-b4ef90b3daf7" gameId="ca632b7b-688e-4649-affa-e5302b3054ce" />
   <GameInfo deckId="f5a3e44a-5740-4bcc-aad7-b4ef90b3daf7" gameId="c6e1af97-e9e9-4f9c-9140-97c16b7ec7ce" />
   <GameInfo deckId="f5a3e44a-5740-4bcc-aad7-b4ef90b3daf7" gameId="6acd7305-d8ac-44c3-b32c-7896551a1909" />
   <GameInfo deckId="f5a3e44a-5740-4bcc-aad7-b4ef90b3daf7" gameId="2ea51fe4-6d4d-493b-a3e3-39a166d25973" />
-  <GameInfo deckId="f5a3e44a-5740-4bcc-aad7-b4ef90b3daf7" gameId="29126cc6-093e-443e-acc4-f8d227ea4415" />
-  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="ac00e3ad-8a5a-482f-bfff-11d86708ad9b" hero="Warrior" />
-  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="70763b8f-e0a1-4f48-8876-d9afdd7310a8" hero="Warrior" />
-  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="ed1c8641-8c03-4eb1-9f7e-26b169a2603b" hero="Warrior" />
-  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="d6b5f3b6-4f27-4939-a5df-99e003c1ed3b" hero="Warrior" />
-  <GameInfo deckId="00000000-0000-0000-0000-000000000000" gameId="f1cb5b36-112a-4da5-bbff-c9a6ae2c2d61" hero="Warrior" />
 </ArrayOfGameInfo>
