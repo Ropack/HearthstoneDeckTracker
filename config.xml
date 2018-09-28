@@ -107,14 +107,14 @@
   </GoldProgress>
   <GoldProgressLastReset>
     <dateTime>0001-01-01T00:00:00</dateTime>
-    <dateTime>2018-09-15T00:00:00</dateTime>
+    <dateTime>2018-09-28T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
     <dateTime>0001-01-01T00:00:00</dateTime>
   </GoldProgressLastReset>
   <GoldProgressTotal>
     <int>0</int>
-    <int>10</int>
+    <int>0</int>
     <int>0</int>
     <int>0</int>
     <int>0</int>
@@ -329,8 +329,8 @@
   <TimersVerticalPosition>44.5</TimersVerticalPosition>
   <TimersVerticalSpacing>42</TimersVerticalSpacing>
   <TrackerCardToolTips>true</TrackerCardToolTips>
-  <TrackerWindowLeft>418</TrackerWindowLeft>
-  <TrackerWindowTop>81</TrackerWindowTop>
+  <TrackerWindowLeft>522</TrackerWindowLeft>
+  <TrackerWindowTop>125</TrackerWindowTop>
   <UseAnyUnityWindow>false</UseAnyUnityWindow>
   <UseAnimations>true</UseAnimations>
   <UseFullTextSearch>false</UseFullTextSearch>

@@ -34786,6 +34786,250 @@
     <Name>Spell Hunter</Name>
     <Tags />
   </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>UNG_205</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_235</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>BOT_509</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_210</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_234</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_802</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_818</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GIL_561</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>BOT_550</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_170</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_125</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_928</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>EX1_339</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_187</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>CS2_182</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>BOT_562</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_233</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_291</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>BOT_270</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_801</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>BOT_563</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>GIL_805</Id>
+        <Count>3</Count>
+      </Card>
+      <Card>
+        <Id>BOT_066</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>GIL_190</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>UNG_854</Id>
+        <Count>2</Count>
+      </Card>
+    </Cards>
+    <Class>Priest</Class>
+    <LastEdited>2018-09-15T16:20:47.7393962+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>1648015517</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>true</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <ArenaReward>
+      <Gold>0</Gold>
+      <Dust>25</Dust>
+      <PaymentMethod>Gold</PaymentMethod>
+      <Cards>
+        <CardReward xsi:nil="true" />
+        <CardReward xsi:nil="true" />
+        <CardReward xsi:nil="true" />
+      </Cards>
+      <Packs>
+        <ArenaRewardPacks>Boomsday</ArenaRewardPacks>
+        <ArenaRewardPacks>None</ArenaRewardPacks>
+      </Packs>
+    </ArenaReward>
+    <DeckId>156e2348-2ea3-47ce-b697-79a75912b734</DeckId>
+    <Name>Arena 15-09 04:20</Name>
+    <Tags />
+  </Deck>
+  <Deck>
+    <Cards>
+      <Card>
+        <Id>EX1_124</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ICC_094</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ICC_201</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>EX1_581</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_809</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ICC_850</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ICC_702</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>LOOT_211</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_097</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ICC_466</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ICC_065</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ICC_029</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ICC_019</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ICC_027</Id>
+        <Count>2</Count>
+      </Card>
+      <Card>
+        <Id>ICC_701</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>NEW1_004</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_314</Id>
+        <Count>1</Count>
+      </Card>
+      <Card>
+        <Id>ICC_827</Id>
+        <Count>1</Count>
+      </Card>
+    </Cards>
+    <Class>Rogue</Class>
+    <LastEdited>2018-09-28T17:38:07.0780771+02:00</LastEdited>
+    <MissingCards />
+    <Url />
+    <Version>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </Version>
+    <DeckHistory />
+    <Archived>false</Archived>
+    <HsId>1652761025</HsId>
+    <Note />
+    <SelectedVersion>
+      <Build>0</Build>
+      <Major>1</Major>
+      <Minor>0</Minor>
+      <Revision>0</Revision>
+    </SelectedVersion>
+    <IsArenaDeck>false</IsArenaDeck>
+    <IsDungeonDeck>false</IsDungeonDeck>
+    <DeckId>fbb830f3-279e-4201-b25f-bcceb0f831af</DeckId>
+    <Name>Custom Rogue</Name>
+    <Tags />
+  </Deck>
   <LastDeckClass>
     <DeckInfo>
       <Class>Shaman</Class>
@@ -34798,11 +35042,6 @@
       <Name>Odd Paladin</Name>
     </DeckInfo>
     <DeckInfo>
-      <Class>Priest</Class>
-      <Id>c8034f44-e52e-44f8-b906-2eebf13691fe</Id>
-      <Name>Arena 19-07 01:57</Name>
-    </DeckInfo>
-    <DeckInfo>
       <Class>Warrior</Class>
       <Id>91e67c29-c084-4675-be53-c150d19cdb9c</Id>
       <Name>Q war</Name>
@@ -34813,9 +35052,14 @@
       <Name>Arena 05-08 11:05</Name>
     </DeckInfo>
     <DeckInfo>
+      <Class>Priest</Class>
+      <Id>156e2348-2ea3-47ce-b697-79a75912b734</Id>
+      <Name>Arena 15-09 04:20</Name>
+    </DeckInfo>
+    <DeckInfo>
       <Class>Rogue</Class>
-      <Id>20476aa4-7ef7-4ae7-b8be-67d9209bd9d6</Id>
-      <Name>Odd Rogue</Name>
+      <Id>fbb830f3-279e-4201-b25f-bcceb0f831af</Id>
+      <Name>Custom Rogue</Name>
     </DeckInfo>
   </LastDeckClass>
 </Decks>
